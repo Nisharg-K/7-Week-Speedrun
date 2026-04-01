@@ -2,7 +2,6 @@
 # Learning week 1, Topic 1.
 
 
-
 def add(a,b):
     sum = a + b
     return sum
