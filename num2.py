@@ -1,11 +1,11 @@
 import numpy as np
 
 
-# 1. SHAPE & INSPECTION
+# SHAPE & INSPECTION
 
 arr_1d = np.array([22, 25, 21, 18, 24, 27, 20, 19, 23, 26])
 
-print("1D Array Shape:", arr_1d.shape)  # Output: (10,)
+print("1D Array Shape:", arr_1d.shape)  
 print("---")
 
 #RESHAPING DATA
