@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator API UI</title>
+    
+</head>
+<body>
+    <main class="card">
+        <h1>Calculator API</h1>
+
+        <form id="calculator-form">
+            <label for="operation">
+                Operation
+                <select id="operation" name="operation">
+                    <option value="add">Add</option>
+                    <option value="subtract">Subtract</option>
+                    <option value="multiply">Multiply</option>
+                    <option value="divide">Divide</option>
+                    <option value="mod">Mod</option>
+                </select>
+            </label>
+
+            <label for="num1">
+                Number 1
+                <input type="number" id="num1" name="num1" step="any" required>
+            </label>
+
+            <label for="num2">
+                Number 2
+                <input type="number" id="num2" name="num2" step="any" required>
+            </label>
+
+            <button type="submit">Calculate</button>
+        </form>
+
+        <section id="result" class="result" hidden>
+            <strong id="result-title"></strong>
+            <span id="result-text"></span>
+        </section>
+    </main>
+
+    <script>
+        const form = document.getElementById("calculator-form");
+        const resultBox = document.getElementById("result");
+        const resultTitle = document.getElementById("result-title");
+        const resultText = document.getElementById("result-text");
+
+        form.addEventListener("submit", async (event) => {
+            event.preventDefault();
+
+            const operation = document.getElementById("operation").value;
+            const num1 = document.getElementById("num1").value;
+            const num2 = document.getElementById("num2").value;
+
+            const params = new URLSearchParams({
+                a: num1,
+                b: num2
+            });
+
+            try {
+                const response = await fetch(`http://localhost:8000/${operation}?${params.toString()}`);
+                const data = await response.json();
+
+                resultBox.hidden = false;
+
+                if (!response.ok || data.error) {
+                    resultBox.className = "result error";
+                    resultTitle.textContent = "Request failed";
+                    resultText.textContent = data.error || "The API returned an unexpected error.";
+                    return;
+                }
+
+                resultBox.className = "result success";
+                resultTitle.textContent = "Result";
+                resultText.textContent = data.result;
+            } catch (error) {
+                resultBox.hidden = false;
+                resultBox.className = "result error";
+                resultTitle.textContent = "Connection error";
+                resultText.textContent = "Make sure the FastAPI server is running on http://127.0.0.1:8000.";
+            }
+        });
+    </script>
+</body>
+</html>
