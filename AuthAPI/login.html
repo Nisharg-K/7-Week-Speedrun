@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log</title>
+</head>
+<body>
+
+    <form id="login-form">
+        <input type="text" id="name" placeholder="Username" required>
+        <input type="password" id="password" placeholder="Password" required>
+        <button type="submit" id="submit-button">Login</button>
+    </form>
+    <div id="response">
+
+    </div>
+    <script>
+        const loginForm = document.getElementById('login-form');
+        const responseElement = document.getElementById('response');
+        const apiBase = window.location.protocol === 'file:' ? 'http://127.0.0.1:8000' : '';
+
+        loginForm.addEventListener('submit', async (event) => {
+            event.preventDefault();
+
+            const username = document.getElementById('name').value;
+            const password = document.getElementById('password').value;
+
+            try {
+                const response = await fetch(`${apiBase}/secure-data`, {
+                    method: 'GET',
+                    headers: {
+                        Authorization: 'Basic ' + btoa(username + ':' + password)
+                    }
+                });
+
+                const data = await response.json();
+
+                if (!response.ok) {
+                    responseElement.innerText = data.detail || 'Login failed';
+                    return;
+                }
+
+                responseElement.innerText = data.message;
+            } catch (error) {
+                responseElement.innerText = 'Request error: ' + error.message;
+            }
+        });
+
+
+        
+    </script>
+</body>
+</html>
