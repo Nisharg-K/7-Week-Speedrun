@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patel Talkies Semi Permiable Membrane</title>
+    <style>
+        :root {
+            --bg-1: #f7f8fc;
+            --bg-2: #e8eef6;
+            --card: #ffffff;
+            --text: #1f2937;
+            --muted: #6b7280;
+            --accent: #0f766e;
+            --accent-hover: #0d5f59;
+            --border: #d1d5db;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            color: var(--text);
+            background: linear-gradient(145deg, var(--bg-1), var(--bg-2));
+            display: flex;
+            justify-content: center;
+            padding: 24px;
+        }
+
+        #Question-box {
+            width: min(760px, 100%);
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            padding: 22px;
+            box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+        }
+
+        h1 {
+            margin: 0 0 18px;
+            font-size: 1.7rem;
+            line-height: 1.25;
+        }
+
+        #movie-form {
+            display: grid;
+            gap: 14px;
+        }
+
+        #manual-fields,
+        #movie-name-row {
+            display: grid;
+            gap: 12px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            margin-top: 6px;
+            padding: 10px 12px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            font-size: 0.98rem;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            margin-top: 6px;
+        }
+
+        label {
+            color: var(--muted);
+            font-weight: 600;
+        }
+
+        #submit-btn {
+            width: fit-content;
+            padding: 10px 18px;
+            border: none;
+            border-radius: 9px;
+            background: var(--accent);
+            color: #ffffff;
+            font-size: 0.96rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s ease;
+        }
+
+        #submit-btn:hover {
+            background: var(--accent-hover);
+        }
+
+        #Results-box {
+            margin-top: 18px;
+            border-top: 1px solid var(--border);
+            padding-top: 14px;
+            display: grid;
+            gap: 8px;
+        }
+
+        #Results-box > div {
+            background: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 10px 12px;
+        }
+
+        @media (max-width: 640px) {
+            body {
+                padding: 14px;
+            }
+
+            #Question-box {
+                padding: 16px;
+            }
+
+            h1 {
+                font-size: 1.35rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello Audience, welcome to Patel Talkies!</h1>
+    <div id="Question-box">
+        <form id="movie-form">
+            <div id="movie-name-row" style="display: none;">
+                Movie Name: <input type="text" name="movie_name" id="Movie-Name" placeholder="Movie name"><br>
+            </div>
+
+            <div id="manual-fields">
+                Genre(s): <input type="text" name="genre" id="Genre" placeholder="Action, Drama" required><br>
+                Director: <input type="text" name="director" id="Director" placeholder="Director" required><br>
+                Writers: <input type="text" name="writers" id="Writers" placeholder="Writer 1, Writer 2" required><br>
+                Acting Score: 1<input type="range" name="acting" id="Acting-Score" min="1" max="5" value="3">5<br>
+                Story Score: 1<input type="range" name="story" id="Story-Score" min="1" max="5" value="3">5<br>
+                Music Score: 1<input type="range" name="music" id="Music-Score" min="1" max="5" value="3">5<br>
+            </div>
+
+            Use Manual Entry: <input type="checkbox" name="manual_entry" id="Manual-Entry" checked><br>
+            <button type="submit" id="submit-btn">Submit</button>
+        </form>
+    </div>
+
+    <!--Show results here-->
+    <div id="Results-box">
+
+    </div>
+
+    <script>
+        const manualFields = document.getElementById("manual-fields");
+        const movieNameRow = document.getElementById("movie-name-row");
+        const manualEntryCheckbox = document.getElementById("Manual-Entry");
+
+        function updateFormMode() {
+            const manualEntryEnabled = manualEntryCheckbox.checked;
+            manualFields.style.display = manualEntryEnabled ? "block" : "none";
+            movieNameRow.style.display = manualEntryEnabled ? "none" : "block";
+
+            document.getElementById("Genre").required = manualEntryEnabled;
+            document.getElementById("Director").required = manualEntryEnabled;
+            document.getElementById("Writers").required = manualEntryEnabled;
+            document.getElementById("Movie-Name").required = !manualEntryEnabled;
+        }
+
+        manualEntryCheckbox.addEventListener("change", updateFormMode);
+        updateFormMode();
+
+        document.getElementById("movie-form").addEventListener("submit", async function(event) {
+            event.preventDefault();
+
+            const manualEntryEnabled = document.getElementById("Manual-Entry").checked;
+            const payload = manualEntryEnabled ? {
+                genre: document.getElementById("Genre").value,
+                director: document.getElementById("Director").value,
+                writers: document.getElementById("Writers").value,
+                acting_score: Number(document.getElementById("Acting-Score").value),
+                story_score: Number(document.getElementById("Story-Score").value),
+                music_score: Number(document.getElementById("Music-Score").value),
+                manual_entry: true
+            } : {
+                movie_name: document.getElementById("Movie-Name").value,
+                manual_entry: false
+            };
+
+            try {
+                const response = await fetch("/submit", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(payload)
+                });
+
+                const data = await response.json();
+                if (!response.ok) {
+                    throw new Error(data.detail || data.message || "Submit failed");
+                }
+
+                showResults([
+                    data.message,
+                    `Predicted rating: ${Number(data.predicted_rating).toFixed(2)}/5`,
+                    `Predicted liked: ${data.predicted_liked}`,
+                    `Like probability: ${(Number(data.like_probability) * 100).toFixed(1)}%`
+                ]);
+            } catch (error) {
+                showResults([`Error: ${error.message}`]);
+            }
+        });
+
+        //show results in the results box
+        function showResults(results) {
+            const resultsBox = document.getElementById("Results-box");
+            resultsBox.innerHTML = ""; // Clear previous results
+
+            // Display new results
+            results.forEach(result => {
+                const resultElement = document.createElement("div");
+                resultElement.textContent = result; // Assuming result is a string, adjust as needed
+                resultsBox.appendChild(resultElement);
+            });
+        }
+
+        
+    </script>
+</body>
+</html>
