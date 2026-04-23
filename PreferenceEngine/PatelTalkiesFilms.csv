@@ -1,0 +1,1792 @@
+Name,Year,Genre,Director,Writers,Rating,Liked,Acting,Story,Music
+Parasite,2019,"Comedy, Thriller, Drama",Bong Joon Ho,"Bong Joon Ho, Han Jin-won",5,Yes,5,5,5
+Fight Club,1999,"Drama, Thriller",David Fincher,Jim Uhls,5,Yes,5,5,5
+Interstellar,2014,"Adventure, Drama, Science Fiction",Christopher Nolan,"Jonathan Nolan, Christopher Nolan",5,Yes,5,5,5
+Spider-Man: Into the Spider-Verse,2018,"Animation, Action, Adventure, Science Fiction",Bob Persichetti,"Phil Lord, Rodney Rothman",5,Yes,5,5,5
+Knives Out,2019,"Comedy, Crime, Mystery",Rian Johnson,Rian Johnson,5,Yes,5,5,5
+Joker,2019,"Crime, Thriller, Drama",Todd Phillips,"Scott Silver, Todd Phillips, Bill Finger, Bob Kane, Jerry Robinson",4.5,Yes,4.5,4.5,4
+Pulp Fiction,1994,"Thriller, Crime, Comedy",Quentin Tarantino,"Quentin Tarantino, Roger Avary",4,Yes,4,4.5,4
+Whiplash,2014,"Drama, Music, Thriller",Damien Chazelle,Damien Chazelle,4,Yes,4,4.5,4
+Oppenheimer,2023,"Drama, History",Christopher Nolan,Christopher Nolan,5,Yes,5,5,5
+The Dark Knight,2008,"Action, Crime, Thriller",Christopher Nolan,"David S. Goyer, Jonathan Nolan, Christopher Nolan, Bob Kane",5,Yes,5,5,5
+Inception,2010,"Action, Science Fiction, Adventure",Christopher Nolan,Christopher Nolan,5,Yes,5,5,5
+Spider-Man: No Way Home,2021,"Action, Adventure, Science Fiction",Jon Watts,"Stan Lee, Chris McKenna, Erik Sommers, Steve Ditko",3.5,Yes,3.5,3.5,3
+The Grand Budapest Hotel,2014,"Comedy, Drama",Wes Anderson,"Wes Anderson, Hugo Guinness",5,Yes,5,5,5
+The Truman Show,1998,"Comedy, Drama",Peter Weir,Andrew Niccol,4,Yes,4,4.5,4
+The Wolf of Wall Street,2013,"Crime, Drama, Comedy",Martin Scorsese,Terence Winter,4,Yes,4,4.5,4
+American Psycho,2000,"Thriller, Drama, Crime",Mary Harron,"Mary Harron, Guinevere Turner",3.5,Yes,3.5,3.5,3
+The Shining,1980,"Horror, Thriller",Stanley Kubrick,"Diane Johnson, Stanley Kubrick",4,Yes,4,4.5,4
+Once Upon a Time... in Hollywood,2019,"Comedy, Drama, Thriller",Quentin Tarantino,Quentin Tarantino,3.5,No,3.5,3.5,3
+Inglourious Basterds,2009,"Drama, Thriller, War",Quentin Tarantino,Quentin Tarantino,5,Yes,5,5,5
+Glass Onion,2022,"Comedy, Crime, Mystery",Rian Johnson,Rian Johnson,3.5,Yes,3.5,3.5,3
+Avengers: Infinity War,2018,"Adventure, Action, Science Fiction",Joe Russo,"Joe Simon, Bill Mantlo, Jack Kirby, Steve Englehart, Steve Gan, Larry Lieber, Jim Starlin, Stan Lee, Don Heck, Keith Giffen, Stephen McFeely, Christopher Markus",3.5,Yes,3.5,3.5,3
+Avengers: Endgame,2019,"Adventure, Science Fiction, Action",Anthony Russo,"Jim Starlin, Joe Simon, Jack Kirby, Steve Englehart, Steve Gan, Bill Mantlo, Keith Giffen, Stan Lee, Larry Lieber, Don Heck, Christopher Markus, Stephen McFeely",3.5,Yes,3.5,3.5,3
+Forrest Gump,1994,"Comedy, Drama, Romance",Robert Zemeckis,Eric Roth,5,Yes,5,5,5
+Se7en,1995,"Crime, Mystery, Thriller",David Fincher,Andrew Kevin Walker,3.5,Yes,3.5,3.5,3
+The Social Network,2010,Drama,David Fincher,Aaron Sorkin,4,Yes,4,4.5,4
+Hereditary,2018,"Horror, Mystery, Thriller",Ari Aster,Ari Aster,4,Yes,4,4.5,4
+The Godfather,1972,"Drama, Crime",Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",5,Yes,5,5,5
+Shutter Island,2010,"Drama, Thriller, Mystery",Martin Scorsese,Laeta Kalogridis,3.5,Yes,3.5,3.5,3
+The Matrix,1999,"Action, Science Fiction",Lana Wachowski,"Lana Wachowski, Lilly Wachowski",5,Yes,5,5,5
+Taxi Driver,1976,"Crime, Drama",Martin Scorsese,Paul Schrader,5,Yes,5,5,5
+Ratatouille,2007,"Animation, Comedy, Family, Fantasy",Brad Bird,"Jan Pinkava, Brad Bird, Jim Capobianco",5,Yes,5,5,5
+Jojo Rabbit,2019,"Comedy, War, Drama",Taika Waititi,Taika Waititi,4.5,Yes,4.5,4.5,4
+Guardians of the Galaxy,2014,"Action, Science Fiction, Adventure",James Gunn,"Keith Giffen, Bill Mantlo, Steve Englehart, Jim Starlin, Steve Gan, Steve Gerber, Val Mayerik, Nicole Perlman, James Gunn",3.5,Yes,3.5,3.5,3
+Don't Look Up,2021,"Comedy, Science Fiction, Drama",Adam McKay,"Adam McKay, David Sirota",3.5,Yes,3.5,3.5,3
+The Shawshank Redemption,1994,"Drama, Crime",Frank Darabont,Frank Darabont,5,Yes,5,5,5
+The Lord of the Rings: The Fellowship of the Ring,2001,"Adventure, Fantasy, Action",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson",5,Yes,5,5,5
+Dead Poets Society,1989,Drama,Peter Weir,Tom Schulman,5,Yes,5,5,5
+Coco,2017,"Family, Animation, Music, Adventure",Lee Unkrich,"Adrian Molina, Matthew Aldrich",4,Yes,4,4.5,4
+Spider-Man: Homecoming,2017,"Action, Adventure, Science Fiction",Jon Watts,"Joe Simon, Jack Kirby, Jonathan Goldstein, John Francis Daley, Jon Watts, Christopher Ford, Chris McKenna, Erik Sommers",3,Yes,3,3.5,3
+Star Wars,1977,"Adventure, Action, Science Fiction",George Lucas,George Lucas,4,Yes,4,4.5,4
+Top Gun: Maverick,2022,"Action, Drama",Joseph Kosinski,"Ehren Kruger, Eric Warren Singer, Christopher McQuarrie, Justin Marks, Peter Craig, Jim Cash, Jack Epps Jr.",4,Yes,4,4.5,4
+1917,2019,"War, History, Drama",Sam Mendes,"Krysty Wilson-Cairns, Sam Mendes",4,Yes,4,4.5,4
+Doctor Strange in the Multiverse of Madness,2022,"Fantasy, Action, Adventure",Sam Raimi,"Stan Lee, Steve Ditko, Michael Waldron",3.5,No,3.5,3.5,3
+Good Will Hunting,1997,Drama,Gus Van Sant,"Matt Damon, Ben Affleck",4,Yes,4,4.5,4
+Deadpool,2016,"Action, Adventure, Comedy",Tim Miller,"Rhett Reese, Paul Wernick",3.5,Yes,3.5,3.5,3
+Harry Potter and the Prisoner of Azkaban,2004,"Adventure, Fantasy",Alfonso CuarÛn,Steve Kloves,3,Yes,3,3.5,3
+Spider-Man: Far From Home,2019,"Action, Adventure, Science Fiction",Jon Watts,"Chris McKenna, Erik Sommers",4,Yes,4,4.5,4
+Dunkirk,2017,"War, Action, Drama",Christopher Nolan,Christopher Nolan,3.5,No,3.5,3.5,3
+The Avengers,2012,"Science Fiction, Action, Adventure",Joss Whedon,"Joss Whedon, Zak Penn, Jack Kirby, Joe Simon",3.5,Yes,3.5,3.5,3
+Harry Potter and the Philosopher's Stone,2001,"Adventure, Fantasy",Chris Columbus,Steve Kloves,3.5,Yes,3.5,3.5,3
+The Breakfast Club,1985,"Comedy, Drama",John Hughes,John Hughes,3.5,Yes,3.5,3.5,3
+It,2017,"Horror, Thriller, Drama",Andy Muschietti,"Cary Joji Fukunaga, Chase Palmer, Gary Dauberman",3,Yes,3,3.5,3
+Memento,2000,"Mystery, Thriller",Christopher Nolan,Christopher Nolan,4,Yes,4,4.5,4
+Tenet,2020,"Action, Thriller, Science Fiction",Christopher Nolan,Christopher Nolan,3,Yes,3,3.5,3
+A Quiet Place,2018,"Horror, Drama, Science Fiction",John Krasinski,"Bryan Woods, Scott Beck, John Krasinski",3,Yes,3,3.5,3
+Spider-Man,2002,"Action, Science Fiction",Sam Raimi,David Koepp,4,Yes,4,4.5,4
+Catch Me If You Can,2002,"Drama, Crime",Steven Spielberg,Jeff Nathanson,4,Yes,4,4.5,4
+Jurassic Park,1993,"Adventure, Science Fiction",Steven Spielberg,"Michael Crichton, David Koepp",5,Yes,5,5,5
+Iron Man,2008,"Action, Science Fiction, Adventure",Jon Favreau,"Mark Fergus, Hawk Ostby, Matt Holloway, Art Marcum",3.5,Yes,3.5,3.5,3
+Zodiac,2007,"Crime, Mystery, Thriller",David Fincher,James Vanderbilt,4,Yes,4,4.5,4
+The Lord of the Rings: The Return of the King,2003,"Adventure, Fantasy, Action",Peter Jackson,"Fran Walsh, Peter Jackson, Philippa Boyens",5,Yes,5,5,5
+Doctor Strange,2016,"Fantasy, Adventure, Action",Scott Derrickson,"Scott Derrickson, Jon Spaihts, C. Robert Cargill",3.5,Yes,3.5,3.5,3
+Shrek,2001,"Animation, Comedy, Fantasy, Adventure, Family",Andrew Adamson,"Terry Rossio, Joe Stillman, Ted Elliott, Roger S.H. Schulman",4,Yes,4,4.5,4
+Reservoir Dogs,1992,"Crime, Thriller",,Quentin Tarantino,4.5,Yes,4.5,4.5,4
+Home Alone,1990,"Comedy, Family",Raja Gosnell,John Hughes,4,Yes,4,4.5,4
+The Dark Knight Rises,2012,"Action, Crime, Drama, Thriller",,"David S. Goyer, Jonathan Nolan, Christopher Nolan, Bob Kane",4,Yes,4,4.5,4
+The Lord of the Rings: The Two Towers,2002,"Adventure, Fantasy, Action",Peter Jackson,"Fran Walsh, Philippa Boyens, Stephen Sinclair, Peter Jackson",5,Yes,5,5,5
+"The French Dispatch of the Liberty, Kansas Evening Sun",2021,"Drama, Comedy",,"Wes Anderson, Roman Coppola, Jason Schwartzman, Hugo Guinness",3.5,Yes,3.5,3.5,3
+Asteroid City,2023,"Comedy, Drama",Wes Anderson,"Wes Anderson, Roman Coppola",4.5,Yes,4.5,4.5,4
+Captain America: The Winter Soldier,2014,"Action, Adventure, Science Fiction",,"Stephen McFeely, Christopher Markus",3,Yes,3,3.5,3
+Spider-Man 2,2004,"Action, Adventure, Science Fiction",Sam Raimi,Alvin Sargent,5,Yes,5,5,5
+Batman Begins,2005,"Drama, Crime, Action",,"Christopher Nolan, Bob Kane, David S. Goyer",4.5,Yes,4.5,4.5,4
+Harry Potter and the Goblet of Fire,2005,"Adventure, Fantasy",Mike Newell,Steve Kloves,4,Yes,4,4.5,4
+Harry Potter and the Chamber of Secrets,2002,"Adventure, Fantasy",,Steve Kloves,4.5,Yes,4.5,4.5,4
+Avengers: Age of Ultron,2015,"Action, Adventure, Science Fiction",Joss Whedon,"Joss Whedon, Jim Starlin, Joe Simon, Jack Kirby",4,Yes,4,4.5,4
+Return of the Jedi,1983,"Adventure, Action, Science Fiction",,"George Lucas, Lawrence Kasdan",4,Yes,4,4.5,4
+Harry Potter and the Deathly Hallows: Part 2,2011,"Adventure, Fantasy",David Yates,Steve Kloves,4.5,Yes,4.5,4.5,4
+Schindler's List,1993,"Drama, History, War",,Steven Zaillian,5,Yes,5,5,5
+Jaws,1975,"Horror, Thriller, Adventure, Comedy",Bruno Mattei,"Robert Feen, Linda Morrison, Bruno Mattei, Peter Benchley",4,Yes,4,4.5,4
+The Departed,2006,"Drama, Thriller, Crime",,William Monahan,5,Yes,5,5,5
+Star Wars: The Last Jedi,2017,"Adventure, Action, Science Fiction",Rian Johnson,"George Lucas, Rian Johnson",3,Yes,3,3.5,3
+Black Widow,2021,"Action, Adventure, Science Fiction",,"Eric Pearson, Jac Schaeffer, Ned Benson",2,No,2,2.5,2
+Star Wars: Episode III ‚Äì¬†Revenge of the Sith,2005,Documentary,Tippy Bushkin,Unknown,4.5,Yes,4.5,4.5,4
+The Martian,2015,"Science Fiction, Drama, Adventure",,Drew Goddard,5,Yes,5,5,5
+Moonrise Kingdom,2012,"Comedy, Drama, Romance",Wes Anderson,"Wes Anderson, Roman Coppola",3.5,Yes,3.5,3.5,3
+Harry Potter and the Order of the Phoenix,2007,"Adventure, Fantasy",,Michael Goldenberg,4,Yes,4,4.5,4
+Ant-Man,2015,"Science Fiction, Adventure, Action",Peyton Reed,"Edgar Wright, Joe Cornish, Adam McKay, Paul Rudd",3.5,Yes,3.5,3.5,3
+Logan,2017,"Action, Drama, Science Fiction",,"James Mangold, Michael Green, Scott Frank",4.5,Yes,4.5,4.5,4
+Clueless,1995,"Comedy, Romance",Amy Heckerling,Amy Heckerling,3,Yes,3,3.5,3
+Captain America: The First Avenger,2011,"Action, Adventure, Science Fiction",,"Christopher Markus, Stephen McFeely",3.5,Yes,3.5,3.5,3
+The Godfather Part II,1974,"Drama, Crime",Francis Ford Coppola,"Mario Puzo, Francis Ford Coppola",5,Yes,5,5,5
+Ferris Bueller's Day Off,1986,Comedy,,John Hughes,3.5,Yes,3.5,3.5,3
+Harry Potter and the Half-Blood Prince,2009,"Adventure, Fantasy",David Yates,Steve Kloves,4.5,Yes,4.5,4.5,4
+Harry Potter and the Deathly Hallows: Part 1,2010,"Adventure, Fantasy",,Steve Kloves,3,Yes,3,3.5,3
+Saving Private Ryan,1998,"War, Drama, History",Steven Spielberg,Robert Rodat,5,Yes,5,5,5
+Shrek 2,2004,"Animation, Family, Comedy, Fantasy, Romance",,"Andrew Adamson, Joe Stillman, J. David Stem, David N. Weiss, Ted Elliott, Terry Rossio, Roger S.H. Schulman",4.5,Yes,4.5,4.5,4
+The Amazing Spider-Man,2012,"Action, Adventure, Science Fiction",Marc Webb,"James Vanderbilt, Alvin Sargent, Steve Kloves, Steve Ditko, Stan Lee",4,Yes,4,4.5,4
+12 Angry Men,1957,Drama,,Reginald Rose,5,Yes,5,5,5
+Star Wars: Episode I ‚Äì The Phantom Menace,1999,"Adventure, Action, Science Fiction",George Lucas,George Lucas,3,No,3,3.5,3
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,"Adventure, Fantasy, Action",,"Terry Rossio, Ted Elliott",3,Yes,3,3.5,3
+Star Wars: The Rise of Skywalker,2019,"Adventure, Action, Science Fiction",J.J. Abrams,"J.J. Abrams, Chris Terrio, Colin Trevorrow, George Lucas, Derek Connolly",3.5,Yes,3.5,3.5,3
+Raiders of the Lost Ark,1981,"Adventure, Action",,"Philip Kaufman, George Lucas, Lawrence Kasdan",3.5,Yes,3.5,3.5,3
+Deadpool 2,2018,"Action, Comedy, Adventure",David Leitch,"Paul Wernick, Ryan Reynolds, Rhett Reese",3.5,Yes,3.5,3.5,3
+Zootopia,2016,"Animation, Family, Mystery, Adventure, Comedy",,Jared Bush,4.5,Yes,4.5,4.5,4
+Iron Man 3,2013,"Action, Adventure, Science Fiction",Shane Black,"Shane Black, Drew Pearce",3.5,Yes,3.5,3.5,3
+Star Wars: Episode II ‚Äì¬†Attack of the Clones,2002,"Adventure, Action, Science Fiction",,"Jonathan Hales, George Lucas",3.5,Yes,3.5,3.5,3
+Spider-Man 3,2007,"Action, Adventure, Science Fiction",Sam Raimi,"Alvin Sargent, Sam Raimi, Ivan Raimi",4,Yes,4,4.5,4
+Kingsman: The Secret Service,2014,"Crime, Comedy, Action, Adventure",,"Dave Gibbons, Mark Millar, Jane Goldman, Matthew Vaughn",3.5,Yes,3.5,3.5,3
+Big Hero 6,2014,"Adventure, Family, Animation, Action, Comedy",Chris Williams,"Duncan Rouleau, Steven T. Seagle, Robert L. Baird, Daniel Gerson, Jordan Roberts, Joseph Mateo, Joe Casey, Joe Kelly",3.5,Yes,3.5,3.5,3
+Vertigo,1958,"Mystery, Romance, Thriller",,"Samuel A. Taylor, Alec Coppel",3,No,3,3.5,3
+Frozen,2013,"Animation, Family, Adventure, Fantasy",Chris Buck,"Jennifer Lee, Chris Buck, Shane Morris",4,Yes,4,4.5,4
+Charlie and the Chocolate Factory,2005,"Adventure, Comedy, Family, Fantasy",,John August,3,Yes,3,3.5,3
+The Conjuring,2013,"Horror, Thriller",James Wan,"Carey Hayes, Chad Hayes",4,Yes,4,4.5,4
+The Fabelmans,2022,Drama,,"Tony Kushner, Steven Spielberg",4.5,Yes,4.5,4.5,4
+E.T. the Extra-Terrestrial,1982,"Science Fiction, Adventure, Family, Fantasy",Steven Spielberg,Melissa Mathison,4,No,4,4.5,4
+The Holdovers,2023,"Drama, Comedy",,David Hemingson,4,Yes,4,4.5,4
+The Exorcist,1973,"Horror, Drama",William Friedkin,William Peter Blatty,3,No,3,3.5,3
+How to Train Your Dragon,2010,"Fantasy, Family, Action, Adventure",,"Dean DeBlois, William Davies",4,Yes,4,4.5,4
+When Harry Met Sally...,1989,"Comedy, Romance, Drama",Rob Reiner,Nora Ephron,3.5,Yes,3.5,3.5,3
+Ocean's Eleven,2001,"Thriller, Crime",,Ted Griffin,4,Yes,4,4.5,4
+The Hangover,2009,Comedy,Todd Phillips,"Jon Lucas, Scott Moore",4,Yes,4,4.5,4
+The Sixth Sense,1999,"Mystery, Thriller, Drama",,M. Night Shyamalan,2.5,No,2.5,2.5,2
+Ant-Man and the Wasp,2018,"Action, Adventure, Science Fiction",Peyton Reed,"Erik Sommers, Gabriel Ferrari, Paul Rudd, Chris McKenna, Andrew Barrer",3,No,3,3.5,3
+The Big Short,2015,"Comedy, Drama",,"Adam McKay, Charles Randolph",3.5,Yes,3.5,3.5,3
+The Imitation Game,2014,"History, Drama, Thriller, War",Morten Tyldum,Graham Moore,4,Yes,4,4.5,4
+Cars,2006,"Animation, Adventure, Comedy, Family",,"Dan Fogelman, Joe Ranft, J¯rgen Klubien, Phil Lorin, John Lasseter, Kiel Murray",3,Yes,3,3.5,3
+Free Guy,2021,"Comedy, Adventure, Science Fiction",Shawn Levy,"Matt Lieberman, Zak Penn",3.5,Yes,3.5,3.5,3
+The Amazing Spider-Man 2,2014,"Action, Adventure, Science Fiction",,"Alex Kurtzman, Roberto Orci, Jeff Pinkner, James Vanderbilt",4.5,Yes,4.5,4.5,4
+Top Gun,1986,"Action, Drama, Romance",Tony Scott,"Jim Cash, Jack Epps Jr.",4,Yes,4,4.5,4
+Ant-Man and the Wasp: Quantumania,2023,"Action, Adventure, Science Fiction",,"Jeff Loveness, Larry Lieber, Ernie Hart, Stan Lee, Jack Kirby",2.5,No,2.5,2.5,2
+It Chapter Two,2019,"Horror, Thriller, Drama",Andy Muschietti,Gary Dauberman,4,Yes,4,4.5,4
+Ready Player One,2018,"Adventure, Action, Science Fiction",,"Zak Penn, Ernest Cline",3.5,Yes,3.5,3.5,3
+Snowpiercer,2013,"Action, Science Fiction, Drama",Bong Joon Ho,"Bong Joon Ho, Kelly Masterson",4,Yes,4,4.5,4
+Kung Fu Panda,2008,"Animation, Family, Drama, Comedy, Action",,"Glenn Berger, Jonathan Aibel, Cyrus Voris, Ethan Reiff",5,Yes,5,5,5
+Love Actually,2003,"Comedy, Romance, Drama",Richard Curtis,Richard Curtis,4.5,Yes,4.5,4.5,4
+No Time to Die,2021,"Action, Thriller, Adventure",,"Ian Fleming, Cary Joji Fukunaga, Robert Wade, Neal Purvis, Phoebe Waller-Bridge",3.5,Yes,3.5,3.5,3
+Ready or Not,2019,"Horror, Comedy",Tyler Gillett,"Guy Busick, R. Christopher Murphy",4,Yes,4,4.5,4
+A Quiet Place Part II,2020,"Science Fiction, Thriller, Horror",,"John Krasinski, Bryan Woods, Scott Beck",3.5,Yes,3.5,3.5,3
+Ford v Ferrari,2019,"Drama, Action, History",James Mangold,"Jez Butterworth, John-Henry Butterworth, Jason Keller",5,Yes,5,5,5
+Fantastic Beasts and Where to Find Them,2016,"Fantasy, Adventure",,J.K. Rowling,3,Yes,3,3.5,3
+Skyfall,2012,"Action, Adventure, Thriller",Sam Mendes,"Ian Fleming, Robert Wade, Neal Purvis, John Logan",5,Yes,5,5,5
+Jurassic World,2015,"Science Fiction, Adventure, Action",,"David Koepp, Michael Crichton",3.5,Yes,3.5,3.5,3
+Another Round,2020,"Comedy, Drama",Thomas Vinterberg,"Tobias Lindholm, Thomas Vinterberg",4,Yes,4,4.5,4
+Squid Game,2021,Documentary,,Unknown,4,Yes,4,4.5,4
+Mission: Impossible ‚Äì Dead Reckoning,2023,"Action, Thriller, Adventure",Christopher McQuarrie,"Christopher McQuarrie, Erik Jendresen",4.5,Yes,4.5,4.5,4
+Terminator 2: Judgment Day,1991,"Action, Thriller, Science Fiction",,"James Cameron, William Wisher, Gale Anne Hurd",4.5,Yes,4.5,4.5,4
+Ghostbusters,1984,"Comedy, Fantasy",Ivan Reitman,"Harold Ramis, Dan Aykroyd",4,Yes,4,4.5,4
+Groundhog Day,1993,"Romance, Fantasy, Comedy",,"Danny Rubin, Harold Ramis",3,Yes,3,3.5,3
+Back to the Future Part II,1989,"Adventure, Comedy, Science Fiction",Robert Zemeckis,"Bob Gale, Robert Zemeckis",5,Yes,5,5,5
+Casino Royale,2006,"Adventure, Action, Thriller",,"Robert Wade, Neal Purvis, Paul Haggis",5,Yes,5,5,5
+Life of Pi,2012,"Adventure, Drama",Ang Lee,David Magee,4,Yes,4,4.5,4
+Indiana Jones and the Last Crusade,1989,"Adventure, Action",,"Philip Kaufman, George Lucas, Jeffrey Boam, Menno Meyjes",4,Yes,4,4.5,4
+WandaVision,2021,Not Found,Not Found,Not Found,3,Yes,3,3.5,3
+The Hobbit: An Unexpected Journey,2012,"Adventure, Fantasy, Action",,"Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro",4,Yes,4,4.5,4
+Now You See Me,2013,"Thriller, Crime",Louis Leterrier,"Edward Ricourt, Boaz Yakin, Ed Solomon",4.5,Yes,4.5,4.5,4
+Parinda,1989,"Action, Crime, Drama",,"Vidhu Vinod Chopra, Shivkumar Subramaniam",5,Yes,5,5,5
+Salaam Bombay!,1988,"Crime, Drama",Mira Nair,"Mira Nair, Sooni Taraporevala",5,Yes,5,5,5
+Munna Bhai M.B.B.S.,2003,"Comedy, Drama",,"Rajkumar Hirani, Vidhu Vinod Chopra",4.5,Yes,4.5,4.5,4
+Django Unchained,2012,"Drama, Western",Quentin Tarantino,Quentin Tarantino,3.5,No,3.5,3.5,3
+The Devil Wears Prada,2006,"Drama, Comedy",,Aline Brosh McKenna,4,Yes,4,4.5,4
+The Secret Life of Walter Mitty,2013,"Adventure, Comedy, Drama, Fantasy",Ben Stiller,Steven Conrad,4,Yes,4,4.5,4
+No Smoking,2007,"Thriller, Drama",,Anurag Kashyap,5,Yes,5,5,5
+Gulaal,2009,"Crime, Drama",Anurag Kashyap,"Raj Singh Chaudhary, Anurag Kashyap, Aparnaa Malhotra, Sanjay Maurya",4,Yes,4,4.5,4
+Gangs of Wasseypur ‚Äì Part 1,2012,Not Found,,Not Found,5,Yes,5,5,5
+Gangs of Wasseypur ‚Äì Part 2,2012,Not Found,Not Found,Not Found,5,Yes,5,5,5
+Dev.D,2009,"Comedy, Drama, Romance",,"Anurag Kashyap, Vikramaditya Motwane",4,Yes,4,4.5,4
+Choked: Paisa Bolta Hai,2020,"Drama, Crime, Thriller",Anurag Kashyap,Nihit Bhave,4,Yes,4,4.5,4
+The Lunchbox,2013,"Drama, Romance",,Ritesh Batra,5,Yes,5,5,5
+Haider,2014,"Crime, Drama",Vishal Bhardwaj,"Vishal Bhardwaj, Basharat Peer",5,Yes,5,5,5
+Omkara,2006,,,Unknown,4.5,Yes,4.5,4.5,4
+Maqbool,2003,"Crime, Drama",Vishal Bhardwaj,"Vishal Bhardwaj, Abbas Tyrewala",5,Yes,5,5,5
+7 Khoon Maaf,2011,"Drama, Mystery, Thriller",,"Matthew Robbins, Vishal Bhardwaj",4.5,Yes,4.5,4.5,4
+Kaminey,2009,"Action, Crime, Drama",Vishal Bhardwaj,"Abhishek Chaubey, Sabrina Dhawan, Supratik Sen, Vishal Bhardwaj, Cajetan Boy",3.5,No,3.5,3.5,3
+Satya,1998,"Crime, Drama",,"Saurabh Shukla, Anurag Kashyap, Ram Gopal Varma",5,Yes,5,5,5
+Talvar,2015,"Thriller, Drama, Mystery",Meghna Gulzar,"Aditya Nimbalkar, Vishal Bhardwaj",3,No,3,3.5,3
+Drishyam,2015,"Action, Mystery, Thriller",,Unknown,5,Yes,5,5,5
+Drishyam 2,2022,"Thriller, Drama, Mystery",Abhishek Pathak,"Aamil Keyan Khan, Abhishek Pathak, Jeethu Joseph",5,Yes,5,5,5
+Madaari,2016,"Thriller, Drama",,"Shailja Kejriwal, Ritesh Shah",5,Yes,5,5,5
+Charlie Chopra & the Mystery of Solang Valley,2023,Not Found,Not Found,Not Found,4.5,Yes,4.5,4.5,4
+Sarkar,2005,"Crime, Action, Drama",,"Ram Gopal Varma, Manish Gupta",5,Yes,5,5,5
+Rakht Charitra 2,2010,"Action, Crime, Drama",Ram Gopal Varma,"Prashant Pandey, Ram Gopal Varma",2.5,No,2.5,2.5,2
+Rakht Charitra,2010,"Action, Crime, Drama",,"Prashant Pandey, Ram Gopal Varma",4,Yes,4,4.5,4
+Rangeela,1995,,Unknown,Unknown,3,Yes,3,3.5,3
+Company,2002,"Action, Adventure, Comedy, Thriller",,"Jason Richman, Gary M. Goodman, David Himmelstein, Michael Browning",4,Yes,4,4.5,4
+Sarkar Raj,2008,"Action, Adventure, Crime, Drama",Ram Gopal Varma,Prashant Pandey,3,No,3,3.5,3
+Darna Zaroori Hai,2006,"Thriller, Horror",,"Arshad Sayed, Manish Gupta, Ashish Deo, Sajid Khan, Prawaal Raman",4.5,Yes,4.5,4.5,4
+Hera Pheri,2000,"Comedy, Crime",Priyadarshan,"Neeraj Vora, Anand S. Vardhan",5,Yes,5,5,5
+Phir Hera Pheri,2006,Comedy,,Neeraj Vora,4,Yes,4,4.5,4
+Bhool Bhulaiyaa,2007,"Comedy, Horror, Thriller",Priyadarshan,Neeraj Vora,5,Yes,5,5,5
+Chup Chup Ke,2006,Comedy,,"Neeraj Vora, Priyadarshan",2.5,Yes,2.5,2.5,2
+Bhagam Bhag,2006,,Bhagwan Dada,Unknown,3.5,Yes,3.5,3.5,3
+Hungama,2003,Comedy,,S.V. Krishna Reddy,3.5,Yes,3.5,3.5,3
+Fukrey Returns,2017,"Comedy, Drama",Mrighdeep Singh Lamba,"Vipul Vig, Reema Kagti, Mrighdeep Singh Lamba, Neeraj Vora",3,No,3,3.5,3
+Awara Paagal Deewana,2002,"Comedy, Action",,"Mangesh Kulkarni, Anand S. Vardhan, Khalid Azmi",2.5,Yes,2.5,2.5,2
+Golmaal Again,2017,"Comedy, Horror, Action, Fantasy",Rohit Shetty,"Yunus Sajawal, Rohit Shetty, Neeraj Vora",0.5,No,0.5,0.5,0
+Hulchul,2004,"Comedy, Romance, Action",,Neeraj Vora,2.5,Yes,2.5,2.5,2
+Welcome Back,2015,"Action, Comedy",Anees Bazmee,"Rajeev Kaul, Anees Bazmee, Rajan Aggarwal",3.5,Yes,3.5,3.5,3
+Welcome,2007,"Comedy, Crime, Family",,"Anees Bazmee, Rajeev Kaul",5,Yes,5,5,5
+Chennai Express,2013,"Romance, Comedy, Action",Rohit Shetty,"Yunus Sajawal, Robin Bhatt, K. Subash",3,No,3,3.5,3
+Bhool Bhulaiyaa 2,2022,"Horror, Comedy",,"Aakash Kaushik, Anees Bazmee, Farhad Samji",2,No,2,2.5,2
+All the Best: Fun Begins,2009,"Action, Comedy, Music",Rohit Shetty,"Farhad Samji, Sajid Samji",3.5,Yes,3.5,3.5,3
+Andaz Apna Apna,1994,"Comedy, Romance, Family",,Rajkumar Santoshi,5,Yes,5,5,5
+Ready,2011,"Horror, Comedy",Tyler Gillett,"Guy Busick, R. Christopher Murphy",2.5,No,2.5,2.5,2
+Yamla Pagla Deewana,2011,"Music, Action, Comedy, Drama, Romance",,Jasvinder Singh Bath,4.5,Yes,4.5,4.5,4
+Golmaal 3,2010,"Comedy, Family",Rohit Shetty,"Yunus Sajawal, Robin Bhatt, Farhad Samji, Sajid Samji",2.5,No,2.5,2.5,2
+Happy New Year,2014,"Action, Comedy, Crime, Adventure",,"Althea Kaushal, Farah Khan, Mayur Puri",1,No,1,1.5,1
+Bol Bachchan,2012,"Comedy, Action",Rohit Shetty,"Yunus Sajawal, Farhad Samji, Sajid Samji",3,Yes,3,3.5,3
+Son of Sardaar,2012,"Action, Comedy, Romance",,"Ashwni Dhir, Robin Bhatt, Ashwani Dheer",2,No,2,2.5,2
+Housefull,2010,"Comedy, Romance",Sajid Khan,"Sajid Khan, Sajid Nadiadwala, Vibha Singh, Milap Zaveri",4.5,Yes,4.5,4.5,4
+Jaane Tu... Ya Jaane Na,2008,"Drama, Comedy, Romance",,Abbas Tyrewala,4,Yes,4,4.5,4
+Housefull 4,2019,"Comedy, Drama, Romance",Farhad Samji,"Sajid Samji, Farhad Samji, Tasha Bhambra, Tushar Hiranandani, Aakash Kaushik, Sparsh Khetarpal, Sara Bodinar",0.5,No,0.5,0.5,0
+Judwaa 2,2017,"Action, Comedy, Romance",,David Dhawan,0.5,No,0.5,0.5,0
+Jai Ho,2014,"Action, Drama",Sohail Khan,"A. R. Murugadoss, Dilip Shukla, Sohail Khan",0.5,No,0.5,0.5,0
+Dream Girl,2019,"Drama, Science Fiction, Romance",,"Alexander DiPersia, Alex Holcomb, Lauren Caris Cohan",3.5,Yes,3.5,3.5,3
+Om Shanti Om,2007,"Comedy, Thriller, Drama",Farah Khan,"Farah Khan, Mushtaq Sheikh",4,Yes,4,4.5,4
+Desi Boyz,2011,"Comedy, Drama",,"Rohit Dhawan, Milap Zaveri",3.5,Yes,3.5,3.5,3
+Singh Is Kinng,2008,"Action, Comedy",Anees Bazmee,"Suresh Nair, Anees Bazmee",4.5,Yes,4.5,4.5,4
+Badhaai Ho,2018,"Comedy, Romance, Drama",,"Jyoti Kapoor, Akshat Ghildial, Shantanu Srivastava",4,Yes,4,4.5,4
+Sonu Ke Titu Ki Sweety,2018,"Romance, Comedy",Luv Ranjan,"Rahul Mody, Luv Ranjan",3.5,Yes,3.5,3.5,3
+Dilwale Dulhania Le Jayenge,1995,"Comedy, Drama, Romance",,Aditya Chopra,3.5,Yes,3.5,3.5,3
+Dream Girl 2,2023,"Comedy, Romance",Raaj Shaandilyaa,"Raaj Shaandilyaa, Naresh Kathooria",3.5,Yes,3.5,3.5,3
+Chandni Chowk to China,2009,"Action, Adventure, Comedy",,Shridhar Raghavan,3,Yes,3,3.5,3
+Hum Dil De Chuke Sanam,1999,"Comedy, Drama, Romance",Sanjay Leela Bhansali,"Sanjay Leela Bhansali, Pratap Karvat",4,Yes,4,4.5,4
+Gangubai Kathiawadi,2022,"Crime, Drama, History",,"Utkarshini Vashishtha, Sanjay Leela Bhansali",3,No,3,3.5,3
+Devdas,2002,"Drama, Romance",Sanjay Leela Bhansali,"Saratchandra Chatterjee, Sanjay Leela Bhansali, Prakash R. Kapadia",4,Yes,4,4.5,4
+Bajirao Mastani,2015,"History, Romance, Drama",,Prakash R. Kapadia,5,Yes,5,5,5
+Padmaavat,2018,"Drama, History, Romance",Sanjay Leela Bhansali,"Sanjay Leela Bhansali, Prakash R. Kapadia",3,No,3,3.5,3
+Goliyon Ki Raasleela Ram-Leela,2013,"Drama, Romance",,"Siddharth Singh, Sanjay Leela Bhansali, Garima Wahal",4.5,Yes,4.5,4.5,4
+Roja,1992,Drama,Joseph Bolz,Joseph Bolz,3.5,Yes,3.5,3.5,3
+Ponniyin Selvan: Part I,2022,"Action, Adventure, History",,"Jeyamohan, Mani Ratnam, Elango Kumaravel",4.5,Yes,4.5,4.5,4
+Dil Se..,1998,"Drama, Romance",Mani Ratnam,"Mani Ratnam, Sujatha Rangarajan, Tigmanshu Dhulia",4,No,4,4.5,4
+Ponniyin Selvan: Part II,2023,"Action, Adventure, History, Drama",,"Mani Ratnam, Elango Kumaravel, Jeyamohan",4.5,Yes,4.5,4.5,4
+Bombay,1995,,Javier ¡vila,Unknown,4.5,Yes,4.5,4.5,4
+Guru,2007,"Drama, Romance",,"Mani Ratnam, Anurag Kashyap",5,Yes,5,5,5
+RRR,2022,"Action, Adventure, Drama",S. S. Rajamouli,"Vijayendra Prasad, S. S. Rajamouli",4,Yes,4,4.5,4
+Eega,2012,"Fantasy, Action",,"S. S. Rajamouli, Ashwin Gangaraju",3.5,Yes,3.5,3.5,3
+BƒÅhubali: The Beginning,2015,Not Found,Not Found,Not Found,4.5,Yes,4.5,4.5,4
+BƒÅhubali 2: The Conclusion,2017,Not Found,,Not Found,4,Yes,4,4.5,4
+Indiana Jones and the Temple of Doom,1984,"Adventure, Action",Steven Spielberg,"Gloria Katz, Willard Huyck, George Lucas, Philip Kaufman",4.5,Yes,4.5,4.5,4
+Minority Report,2002,"Science Fiction, Action, Thriller",,"Scott Frank, Jon Cohen",2.5,No,2.5,2.5,2
+The Terminal,2004,"Comedy, Drama",Steven Spielberg,"Sacha Gervasi, Jeff Nathanson, Andrew Niccol",5,Yes,5,5,5
+The Lost World: Jurassic Park,1997,"Adventure, Action, Science Fiction",,David Koepp,3.5,Yes,3.5,3.5,3
+The Adventures of Tintin,2011,"Adventure, Animation, Mystery",Steven Spielberg,"Edgar Wright, Joe Cornish, Steven Moffat",4,Yes,4,4.5,4
+War of the Worlds,2005,"Science Fiction, Thriller",,"Marc Hyman, Kenny Golde",4,Yes,4,4.5,4
+Hook,1991,"Adventure, Fantasy, Comedy, Family",Steven Spielberg,"James V. Hart, Malia Scotch Marmo, J.M. Barrie",3.5,Yes,3.5,3.5,3
+Bridge of Spies,2015,"Thriller, Drama",,"Joel Coen, Ethan Coen, Matt Charman",5,Yes,5,5,5
+Back to the Future,1985,"Adventure, Comedy, Science Fiction",Robert Zemeckis,"Bob Gale, Robert Zemeckis",5,Yes,5,5,5
+Back to the Future Part III,1990,"Adventure, Comedy, Science Fiction",,"Bob Gale, Robert Zemeckis",5,Yes,5,5,5
+The Walk,2015,"Science Fiction, Thriller, Horror",Francis Lawrence,JT Mollner,4,Yes,4,4.5,4
+Following,1998,"Drama, Thriller",,Christopher Nolan,4.5,Yes,4.5,4.5,4
+Insomnia,2002,"Thriller, Crime, Drama",Christopher Nolan,Hillary Seitz,3,Yes,3,3.5,3
+Ghajini,2008,"Action, Romance, Thriller",,A. R. Murugadoss,4,Yes,4,4.5,4
+Lage Raho Munna Bhai,2006,"Comedy, Drama, Romance",Rajkumar Hirani,"Rajkumar Hirani, Abhijat Joshi, Vidhu Vinod Chopra",2.5,No,2.5,2.5,2
+3 Idiots,2009,"Drama, Comedy",,"Rajkumar Hirani, Vidhu Vinod Chopra, Abhijat Joshi",5,Yes,5,5,5
+PK,2014,"Comedy, Drama, Science Fiction",Rajkumar Hirani,"Rajkumar Hirani, Abhijat Joshi",4.5,Yes,4.5,4.5,4
+Dunki,2023,"Adventure, Comedy, Drama",,"Abhijat Joshi, Kanika Dhillon, Rajkumar Hirani, Karan Narvekar",3.5,Yes,3.5,3.5,3
+Sanju,2018,Drama,Rajkumar Hirani,"Rajkumar Hirani, Abhijat Joshi",3.5,Yes,3.5,3.5,3
+Luck by Chance,2009,"Romance, Drama, Comedy",,Zoya Akhtar,5,Yes,5,5,5
+The Archies,2023,"Comedy, Drama, Music, Romance",Zoya Akhtar,"Reema Kagti, Zoya Akhtar, Ayesha DeVitre",3.5,Yes,3.5,3.5,3
+Dil Dhadakne Do,2015,"Drama, Family, Romance",,"Zoya Akhtar, Reema Kagti",4,Yes,4,4.5,4
+Dil Chahta Hai,2001,"Drama, Romance",Farhan Akhtar,"Farhan Akhtar, Kassim Jagmagia",4.5,Yes,4.5,4.5,4
+Lakshya,2004,"War, Action, Drama, Romance",,Javed Akhtar,3.5,No,3.5,3.5,3
+Karthik Calling Karthik,2010,"Romance, Thriller",Vijay Lalwani,Vijay Lalwani,4,Yes,4,4.5,4
+Fukrey,2013,"Comedy, Drama, Romance",,"Mrighdeep Singh Lamba, Vipul Vig",5,Yes,5,5,5
+Fukrey 3,2023,"Comedy, Drama",Mrighdeep Singh Lamba,Vipul Vig,3,No,3,3.5,3
+Honeymoon Travels Pvt. Ltd.,2007,"Comedy, Drama, Romance",,Reema Kagti,3.5,Yes,3.5,3.5,3
+An Encounter with Faces,1978,,Vidhu Vinod Chopra,Unknown,4,Yes,4,4.5,4
+12th Fail,2023,Drama,,"Vidhu Vinod Chopra, Jaskunwar Kohli",4,Yes,4,4.5,4
+Jaane Bhi Do Yaaro,1983,"Comedy, Thriller",Sanjay Sharma,Unknown,5,Yes,5,5,5
+Khatta Meetha,2010,"Comedy, Drama",,Priyadarshan,3,Yes,3,3.5,3
+Billu,2009,"Comedy, Drama",Priyadarshan,"Sreenivasan, Mushtaq Sheikh, Manisha Korde, Priyadarshan",3,Yes,3,3.5,3
+De Dana Dan,2009,"Comedy, Crime",,Priyadarshan,3.5,Yes,3.5,3.5,3
+Garam Masala,2005,Comedy,Priyadarshan,Priyadarshan,3.5,Yes,3.5,3.5,3
+Dhol,2007,Comedy,,"Suresh Krishnan, Manisha Korde",4,Yes,4,4.5,4
+Malamaal Weekly,2006,"Comedy, Crime",Priyadarshan,Aishwarya Kaushik,4,Yes,4,4.5,4
+Mere Baap Pehle Aap,2008,"Romance, Comedy",,Manisha Korde,2.5,No,2.5,2.5,2
+Aakrosh,2010,"Action, Drama, Crime, Thriller",Priyadarshan,"Akash Khurana, Robin Bhatt",4,Yes,4,4.5,4
+No Entry,2005,"Comedy, Romance",,Anees Bazmee,4,Yes,4,4.5,4
+Thank You,2011,Comedy,Anees Bazmee,"Nisar Akhtar, Kumaar, Amitabh Bhattacharya",3.5,Yes,3.5,3.5,3
+No Problem,2010,Drama,,Mariya Agranovich,3.5,Yes,3.5,3.5,3
+Sandwich,2006,Drama,Jao Daniel Elamparo,Unknown,3.5,Yes,3.5,3.5,3
+Jumanji: Welcome to the Jungle,2017,"Adventure, Comedy, Fantasy, Action",,"Jeff Pinkner, Chris McKenna, Scott Rosenberg, Erik Sommers",2.5,No,2.5,2.5,2
+Mrs. Doubtfire,1993,"Comedy, Drama, Family",Chris Columbus,"Randi Mayem Singer, Leslie Dixon, Jeffrey Price, Peter S. Seaman",4,Yes,4,4.5,4
+Percy Jackson & the Olympians: The Lightning Thief,2010,"Adventure, Fantasy, Family",,Craig Titley,1.5,No,1.5,1.5,1
+Pixels,2015,"Action, Comedy, Science Fiction",Chris Columbus,"Tim Herlihy, Patrick Jean, Timothy Dowling",3.5,Yes,3.5,3.5,3
+Fantastic Beasts: The Crimes of Grindelwald,2018,"Fantasy, Adventure",,J.K. Rowling,2.5,No,2.5,2.5,2
+The Hobbit: The Desolation of Smaug,2013,"Fantasy, Adventure, Action",Peter Jackson,"Fran Walsh, Philippa Boyens, Peter Jackson, Guillermo del Toro",4,Yes,4,4.5,4
+The Hobbit: The Battle of the Five Armies,2014,"Action, Adventure, Fantasy",,"Guillermo del Toro, Philippa Boyens, Fran Walsh, Peter Jackson",3.5,Yes,3.5,3.5,3
+The Chronicles of Narnia: Prince Caspian,2008,"Adventure, Family, Fantasy",Andrew Adamson,"Andrew Adamson, Christopher Markus, Stephen McFeely",3,Yes,3,3.5,3
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,"Adventure, Family, Fantasy",,"Andrew Adamson, Christopher Markus, Ann Peacock, Stephen McFeely",4,Yes,4,4.5,4
+Sardar,1993,Action,Amit Prasher,Unknown,4.5,Yes,4.5,4.5,4
+Jackie Brown,1997,"Crime, Drama, Thriller",,Quentin Tarantino,3.5,Yes,3.5,3.5,3
+Kaala Patthar,1979,"Drama, Action, Thriller",Yash Chopra,"Salim Khan, Javed Akhtar",5,Yes,5,5,5
+Deewaar,1975,"Action, Crime, Drama",,"Salim Khan, Javed Akhtar",3.5,Yes,3.5,3.5,3
+BrahmƒÅstra Part One: Shiva,2022,Not Found,Not Found,Not Found,3,Yes,3,3.5,3
+Swades,2004,Drama,,"Ayan Mukerji, Ronnie Screwvala, Yashodeep Nigudkar, Lalit Marathe, Amin Hajee, Sameer Sharma, Ashutosh Gowariker, Charlotte Whitby-Coles, M. G. Sathya",4.5,Yes,4.5,4.5,4
+Lagaan: Once Upon a Time in India,2001,"Adventure, Drama, History",Ashutosh Gowariker,"Ashutosh Gowariker, Sanjay Dayma, Kumar Dave",3.5,Yes,3.5,3.5,3
+Salim Langde Pe Mat Ro,1989,"Crime, Drama",,Saeed Akhtar Mirza,5,Yes,5,5,5
+Albert Pinto Ko Gussa Kyoon Aata Hai,1981,"Drama, Comedy, Romance",Saeed Akhtar Mirza,"Saeed Akhtar Mirza, Kundan Shah",4,No,4,4.5,4
+Slumdog Millionaire,2008,"Drama, Romance",,Simon Beaufoy,4,Yes,4,4.5,4
+The Wonderful Story of Henry Sugar,2023,"Comedy, Fantasy, Drama",Wes Anderson,Wes Anderson,4.5,Yes,4.5,4.5,4
+Poison,2023,"Comedy, Drama, Thriller",,Wes Anderson,4.5,Yes,4.5,4.5,4
+Mission: Impossible ‚Äì Ghost Protocol,2011,Not Found,Not Found,Not Found,4.5,Yes,4.5,4.5,4
+AK vs AK,2020,"Comedy, Action, Drama, Crime",,Avinash Sampath,4,Yes,4,4.5,4
+Race,2008,"Action, Thriller, Science Fiction",Paul W. S. Anderson,Paul W. S. Anderson,3.5,Yes,3.5,3.5,3
+Race 2,2013,"Action, Thriller, Science Fiction",,"Paul W. S. Anderson, Tony Giglio, Robert Thom, Ib Melchior, Charles B. Griffith",3,Yes,3,3.5,3
+Mr. India,1987,"Action, Science Fiction, Drama",Shekhar Kapur,"Javed Akhtar, Salim Khan",5,Yes,5,5,5
+Bandit Queen,1994,"Action, Crime, Drama, History",,Mala Sen,4.5,Yes,4.5,4.5,4
+Wanted,2009,"Action, Thriller, Crime",Timur Bekmambetov,"Derek Haas, Michael Brandt, Chris Morgan",3.5,Yes,3.5,3.5,3
+Taal,1999,"Drama, Romance",,"Sachin Bhowmick, Subhash Ghai",3.5,Yes,3.5,3.5,3
+Khal Nayak,1993,"Action, Music",Subhash Ghai,"Ram Kelkar, Subhash Ghai",4,Yes,4,4.5,4
+The Night Manager,2023,Not Found,,Not Found,2.5,Yes,2.5,2.5,2
+Shootout at Wadala,2013,"Action, Crime, Drama, History",Sanjay Gupta,"Abhijeet Deshpande, Sanjay Bhatia, Sanjay Gupta",2,No,2,2.5,2
+Kaabil,2017,"Action, Thriller, Drama",,Vijay Kumar Mishra,3.5,Yes,3.5,3.5,3
+Kaante,2002,"Crime, Thriller, Action",Sanjay Gupta,"Sanjay Gupta, Vinay, Yash Keswani, Vinay Kamath",4,Yes,4,4.5,4
+Mumbai Saga,2021,"Action, Drama, Crime",,"Robin Bhatt, Sanjay Gupta",0.5,No,0.5,0.5,0
+Shootout at Lokhandwala,2007,"Action, Crime, History",Apoorva Lakhia,"Sanjay Gupta, Suresh Nair, Apoorva Lakhia",4.5,Yes,4.5,4.5,4
+Hindi Medium,2017,"Comedy, Drama",,"Zeenat Lakhani, Saket Chaudhary",5,Yes,5,5,5
+D-Day,2013,"TV Movie, Crime, Drama",S¯ren Kragh-Jacobsen,Unknown,4,Yes,4,4.5,4
+Sunday,2008,"Drama, Action, Comedy",,Unknown,3,No,3,3.5,3
+Singham,2011,"Drama, Action, Crime",Rohit Shetty,"Yunus Sajawal, Farhad Samji, Sajid Samji",4,Yes,4,4.5,4
+Sooryavanshi,2021,"Action, Crime, Thriller",,"Yunus Sajawal, Farhad Samji, Ritesh Shah",2,Yes,2,2.5,2
+Simmba,2018,"Action, Comedy, Drama",Rohit Shetty,"Rohit Shetty, Sajid Samji, Yunus Sajawal",0.5,No,0.5,0.5,0
+Golmaal ‚Äì Fun Unlimited,2006,Not Found,,Not Found,5,Yes,5,5,5
+Golmaal Returns,2008,Comedy,Rohit Shetty,"Yunus Sajawal, Farhad Samji, Sajid Samji",3,Yes,3,3.5,3
+Singham Returns,2014,Action,,"Farhad Samji, Sajid Samji",4,Yes,4,4.5,4
+Aan: Men at Work,2004,"Action, Crime, Thriller",Madhur Bhandarkar,"Sanjeev Puri, Manoj Tyagi",4,Yes,4,4.5,4
+Dil Toh Baccha Hai Ji,2011,"Drama, Comedy, Romance",,"Madhur Bhandarkar, Anil Pandey, Neeraj Udhwani",3,Yes,3,3.5,3
+Heroine,2012,Drama,Aman Saji Dominic,Aman Saji Dominic,3.5,No,3.5,3.5,3
+Vaah! Life Ho Toh Aisi!,2005,"Drama, Comedy, Family, Fantasy",,Mahesh Manjrekar,4,Yes,4,4.5,4
+Double Dhamaal,2011,"Comedy, Crime",Indra Kumar,Tushar Hiranandani,3,Yes,3,3.5,3
+Kidnap,2008,"Action, Thriller",,Knate Gwaltney,3.5,Yes,3.5,3.5,3
+Department,2012,Horror,Adam York,Dave Harlequin,3.5,Yes,3.5,3.5,3
+Rascals,2011,"Romance, Comedy, Family",,"Paul Guay, Stephen Mazur, Penelope Spheeris, Robert Wolterstorff, Mike Scott",2.5,No,2.5,2.5,2
+Partner,2007,"Comedy, Romance",David Dhawan,David Dhawan,4,Yes,4,4.5,4
+Main Tera Hero,2014,"Romance, Comedy",,Tushar Hiranandani,3.5,Yes,3.5,3.5,3
+Maine Pyaar Kyun Kiya?,2005,"Comedy, Drama, Romance",David Dhawan,Rumi Jaffery,4,No,4,4.5,4
+Coolie No. 1,1995,"Comedy, Drama",,Rumi Jaffery,4,Yes,4,4.5,4
+Bade Miyan Chote Miyan,1998,Action,Ali Abbas Zafar,"Ali Abbas Zafar, Aditya Basu",4,Yes,4,4.5,4
+Hero No. 1,1997,"Drama, Comedy, Romance",,Rumi Jaffery,4,Yes,4,4.5,4
+Chashme Baddoor,2013,"Comedy, Drama",David Dhawan,"Sai Paranjape, Renuka Kunzru, Farhad Samji, Sajid Samji",2.5,Yes,2.5,2.5,2
+Kyo Kii... Main Jhuth Nahin Bolta,2001,Comedy,,"Imtiaz Patel, David Dhawan",3.5,Yes,3.5,3.5,3
+Ek Aur Ek Gyarah: By Hook or by Crook,2003,"Action, Comedy, Crime",David Dhawan,Unknown,3.5,Yes,3.5,3.5,3
+Chashme Buddoor,1981,"Comedy, Romance",,Sai Paranjape,4,Yes,4,4.5,4
+Yeh Jawaani Hai Deewani,2013,"Romance, Comedy",Ayan Mukerji,Ayan Mukerji,3.5,Yes,3.5,3.5,3
+Angoor,1982,Comedy,,Gulzar,4.5,Yes,4.5,4.5,4
+Anand,1971,Drama,Hrishikesh Mukherjee,"Hrishikesh Mukherjee, Bimal Dutta, Gulzar, D.N. Mukherjee",5,Yes,5,5,5
+Gol Maal,1979,Comedy,,"Sachin Bhowmick, Sailesh Dey",5,Yes,5,5,5
+Chupke Chupke,1975,"Drama, Romance",Roshaan Garry Bhinder,"Shyam Goel, Neeraj Vora",5,Yes,5,5,5
+Bawarchi,1972,"Comedy, Drama, Family",,"Tapan Sinha, Hrishikesh Mukherjee",5,Yes,5,5,5
+Guide,1965,"Romance, Drama",Vijay Anand,Vijay Anand,5,Yes,5,5,5
+Mera Naam Joker,1970,"Drama, Romance, Music",,Khwaja Ahmad Abbas,5,Yes,5,5,5
+Govinda Naam Mera,2022,"Comedy, Drama, Romance",Shashank Khaitan,Shashank Khaitan,1.5,No,1.5,1.5,1
+The Empire Strikes Back,1980,"Adventure, Action, Science Fiction",,"Leigh Brackett, Lawrence Kasdan, George Lucas",4.5,Yes,4.5,4.5,4
+The Fast and the Furious,2001,"Action, Crime, Drama",John Ireland,"Roger Corman, Jean Howell, Jerome Odlum",5,Yes,5,5,5
+2 Fast 2 Furious,2003,"Action, Crime, Thriller",,"Michael Brandt, Gary Scott Thompson, Derek Haas",1.5,No,1.5,1.5,1
+The Fast and the Furious: Tokyo Drift,2006,"Action, Crime, Drama, Thriller",Justin Lin,"Chris Morgan, Gary Scott Thompson",5,Yes,5,5,5
+Fast & Furious,2009,"Action, Adventure, Comedy",,"Gary Scott Thompson, Chris Morgan, Drew Pearce",4.5,Yes,4.5,4.5,4
+Fast Five,2011,"Action, Thriller, Crime",Justin Lin,"Chris Morgan, Gary Scott Thompson",4.5,Yes,4.5,4.5,4
+Fast & Furious 6,2013,"Action, Thriller, Crime",,"Chris Morgan, Gary Scott Thompson",4.5,Yes,4.5,4.5,4
+Furious 7,2015,"Action, Crime, Thriller",James Wan,"Gary Scott Thompson, Chris Morgan",5,Yes,5,5,5
+The Fate of the Furious,2017,"Action, Crime, Thriller",,"Gary Scott Thompson, Chris Morgan",1.5,No,1.5,1.5,1
+F9,2021,"Action, Adventure, Crime",Justin Lin,"Justin Lin, Alfredo Botello, Daniel Casey, Gary Scott Thompson",1,No,1,1.5,1
+Need for Speed,2014,"Action, Crime, Drama, Thriller",,"George Gatins, John Gatins",4,Yes,4,4.5,4
+The Wolverine,2013,"Action, Science Fiction, Adventure",James Mangold,"Mark Bomback, Scott Frank",4,Yes,4,4.5,4
+X-Men Origins: Wolverine,2009,"Adventure, Action, Science Fiction",,"David Benioff, Skip Woods",3,Yes,3,3.5,3
+X-Men: The Last Stand,2006,"Adventure, Action, Science Fiction, Thriller",Brett Ratner,"Simon Kinberg, Zak Penn",3,Yes,3,3.5,3
+X-Men,2000,"Science Fiction, Fantasy, Action",,"Bryan Singer, Michael Dougherty, Dan Harris, Simon Kinberg",3.5,Yes,3.5,3.5,3
+X2,2003,Documentary,Bill Weiss,Unknown,3,Yes,3,3.5,3
+X-Men: First Class,2011,"Documentary, TV Movie",,Tim Postins,5,Yes,5,5,5
+X-Men: Days of Future Past,2014,"Action, Adventure, Science Fiction",Bryan Singer,"Simon Kinberg, Matthew Vaughn, Jane Goldman",5,Yes,5,5,5
+X-Men: Apocalypse,2016,"Science Fiction, Fantasy, Action",,"Bryan Singer, Michael Dougherty, Dan Harris, Simon Kinberg",5,Yes,5,5,5
+Dark Phoenix,2019,"Science Fiction, Action, Adventure",Simon Kinberg,Simon Kinberg,1.5,No,1.5,1.5,1
+Captain America: Civil War,2016,"Adventure, Action, Science Fiction",,"Stephen McFeely, Christopher Markus, Jack Kirby, Joe Simon",4.5,Yes,4.5,4.5,4
+Thor: Ragnarok,2017,"Action, Science Fiction, Comedy",Taika Waititi,"Craig Kyle, Christopher L. Yost, Eric Pearson",5,Yes,5,5,5
+Thor,2011,"Adventure, Fantasy, Action",,"Don Payne, J. Michael Straczynski, Ashley Miller, Zack Stentz, Mark Protosevich",2,No,2,2.5,2
+Justice League,2017,"Action, Adventure, Science Fiction",Zack Snyder,"Jack Kirby, Gardner Fox, Chris Terrio, Bob Kane, Jerry Siegel, Bill Finger, Joe Shuster, Zack Snyder, Joss Whedon",1.5,No,1.5,1.5,1
+Man of Steel,2013,"Action, Adventure, Science Fiction",,"Jerry Siegel, David S. Goyer, Joe Shuster, Christopher Nolan",3.5,Yes,3.5,3.5,3
+Aquaman,2018,"Action, Adventure, Fantasy",James Wan,"Paul Norris, James Wan, Mort Weisinger, Geoff Johns, Will Beall, David Leslie Johnson-McGoldrick",3,No,3,3.5,3
+Zack Snyder's Justice League,2021,"Action, Adventure, Fantasy",,"Gardner Fox, Jack Kirby, Bill Finger, Bob Kane, Jerry Siegel, Joe Shuster, William Moulton Marston, Chris Terrio, Zack Snyder, Will Beall, George PÈrez, Marv Wolfman, Mort Weisinger, Paul Norris",5,Yes,5,5,5
+Star Wars: The Force Awakens,2015,"Adventure, Action, Science Fiction",J.J. Abrams,"George Lucas, Michael Arndt, Lawrence Kasdan, J.J. Abrams",2.5,Yes,2.5,2.5,2
+Captain Marvel,2019,"Action, Adventure, Science Fiction",,"Jack Kirby, Joe Simon, Geneva Robertson-Dworet, Ryan Fleck, Anna Boden, Meg LeFauve, Nicole Perlman",0.5,No,0.5,0.5,0
+Fantastic Four: Rise of the Silver Surfer,2007,"Science Fiction, Adventure, Action",Tim Story,"Stan Lee, Jack Kirby, Don Payne, Mark Frost, John Turman",4.5,Yes,4.5,4.5,4
+Venom,2018,"Science Fiction, Action",,"Todd McFarlane, Jeff Pinkner, David Michelinie, Scott Rosenberg, Kelly Marcel",1,No,1,1.5,1
+Batman v Superman: Dawn of Justice,2016,"Action, Adventure, Fantasy",Zack Snyder,"William Moulton Marston, David S. Goyer, Joe Shuster, Bob Kane, Jerry Siegel, Chris Terrio, Bill Finger",4,Yes,4,4.5,4
+Guardians of the Galaxy Vol. 2,2017,"Science Fiction, Adventure, Action",,"Jack Kirby, Larry Lieber, Bill Mantlo, Steve Gan, Jim Starlin, Stan Lee, Keith Giffen, Steve Englehart, Val Mayerik, Steve Gerber, James Gunn",4,Yes,4,4.5,4
+Transformers: Dark of the Moon,2011,"Action, Science Fiction, Adventure",Michael Bay,Ehren Kruger,5,Yes,5,5,5
+Fantastic Four,2005,"Action, Fantasy, Science Fiction",,"Mark Frost, Michael France",4,Yes,4,4.5,4
+Star Trek Into Darkness,2013,"Action, Adventure, Science Fiction",J.J. Abrams,"Roberto Orci, Alex Kurtzman, Damon Lindelof",4,Yes,4,4.5,4
+The Flash,2023,"Action, Science Fiction, Adventure",,"Gardner Fox, Harry Lampert, Joe Shuster, Jerry Siegel, Carmine Infantino, Robert Kanigher, Bill Finger, William Moulton Marston, Bob Kane, Christina Hodson",2.5,No,2.5,2.5,2
+Loki,2021,,Unknown,Unknown,5,Yes,5,5,5
+Superman Returns,2006,"Science Fiction, Action, Adventure",,"Michael Dougherty, Dan Harris, Jerry Siegel, Joe Shuster, Bryan Singer",4.5,No,4.5,4.5,4
+Star Trek Beyond,2016,"Action, Adventure, Science Fiction",Justin Lin,"Simon Pegg, Doug Jung",3.5,No,3.5,3.5,3
+Star Trek,2009,"Science Fiction, Action, Adventure",,"Roberto Orci, Alex Kurtzman",4.5,Yes,4.5,4.5,4
+Transformers: The Last Knight,2017,"Action, Adventure, Science Fiction",Michael Bay,"Akiva Goldsman, Ken Nolan, Art Marcum, Matt Holloway",1,No,1,1.5,1
+Transformers,2007,"Animation, Science Fiction, Adventure, Family",,"Andrew Barrer, Eric Pearson, Gabriel Ferrari",4.5,Yes,4.5,4.5,4
+Superman II,1980,"Science Fiction, Action, Adventure",Richard Lester,"Joe Shuster, Mario Puzo, David Newman, Leslie Newman, Jerry Siegel",4,Yes,4,4.5,4
+The Incredible Hulk,2008,"Science Fiction, Action, Adventure",,Zak Penn,4,Yes,4,4.5,4
+Black Panther,2018,"Action, Adventure, Science Fiction",Ryan Coogler,"Ryan Coogler, Joe Robert Cole",1.5,No,1.5,1.5,1
+The Mummy Returns,2001,"Adventure, Action, Fantasy",,Stephen Sommers,4.5,Yes,4.5,4.5,4
+Kahaani,2012,"Comedy, Drama, Family, Romance",Karan Johar,"Sumit Roy, Ishita Moitra, Shashank Khaitan",4,Yes,4,4.5,4
+Rab Ne Bana Di Jodi,2008,"Comedy, Drama, Romance",,Aditya Chopra,4,Yes,4,4.5,4
+Mohabbatein,2000,"Drama, Romance",Aditya Chopra,Aditya Chopra,3.5,Yes,3.5,3.5,3
+Dostana,2008,"Drama, Comedy, Romance",,Tarun Mansukhani,3.5,Yes,3.5,3.5,3
+Krrish,2006,"Action, Science Fiction",Rakesh Roshan,"Akarsh Khurana, Sachin Bhowmick, Rakesh Roshan, Honey Irani, Robin Bhatt",4,Yes,4,4.5,4
+The Prestige,2006,"Drama, Mystery, Science Fiction",,"Christopher Nolan, Jonathan Nolan",5,Yes,5,5,5
+Agneepath,2012,"Action, Crime, Drama",Karan Malhotra,"Karan Malhotra, Ila Dutta Bedi",3,Yes,3,3.5,3
+Agneepath,1990,"Action, Crime, Drama",,"Karan Malhotra, Ila Dutta Bedi",4,Yes,4,4.5,4
+Raees,2017,"Thriller, Action, Crime",Rahul Dholakia,"Rahul Dholakia, Niraj Shukla, Harit Mehta, Ashish Vashi",2.5,Yes,2.5,2.5,2
+Sholay,1975,Action,,"Salim Khan, Javed Akhtar",4,Yes,4,4.5,4
+Rowdy Rathore,2012,"Action, Comedy, Crime",Prabhu Deva,"Shiraz Ahmed, A. C. Mugil",3,Yes,3,3.5,3
+The Princess Diaries,2001,"Comedy, Family, Romance",,Gina Wendkos,3,Yes,3,3.5,3
+Five Nights at Freddy's,2023,"Horror, Thriller",Emma Tammi,Scott Cawthon,2,No,2,2.5,2
+Angrezi Medium,2020,"Drama, Comedy",,"Bhavesh Mandalia, Gaurav Shukla, Sara Bodinar, Vinay Chhawal",2,No,2,2.5,2
+Incredibles 2,2018,"Action, Adventure, Animation, Family",Brad Bird,Brad Bird,3,No,3,3.5,3
+The Incredibles,2004,"Action, Adventure, Animation, Family",,Brad Bird,4,Yes,4,4.5,4
+Gravity,2013,"Science Fiction, Thriller, Drama",Alfonso CuarÛn,"Alfonso CuarÛn, Jon·s CuarÛn",2.5,No,2.5,2.5,2
+Besharam,2013,"Drama, Thriller",,Unknown,1.5,No,1.5,1.5,1
+Mubarakan,2017,"Comedy, Drama",Anees Bazmee,"Rupinder Chahal, Balwinder Singh Janjua, Rajesh Chawla",0.5,No,0.5,0.5,0
+Ghosted,2023,"Action, Comedy, Romance",,"Rhett Reese, Paul Wernick, Chris McKenna, Erik Sommers",3.5,Yes,3.5,3.5,3
+The Family Plan,2023,"Action, Comedy, Family",Simon Cellan Jones,David Coggeshall,3,Yes,3,3.5,3
+Doctor Sleep,2019,"Horror, Fantasy",,Mike Flanagan,3.5,Yes,3.5,3.5,3
+Insidious,2010,"Horror, Thriller",James Wan,Leigh Whannell,5,Yes,5,5,5
+The Haunting of Hill House,2018,"Thriller, Horror",,"Mitch Marcus, Lev L. Spiro",4,Yes,4,4.5,4
+The Haunting of Bly Manor,2020,Not Found,Not Found,Not Found,5,Yes,5,5,5
+Inside Out,2015,"Animation, Family, Adventure, Drama, Comedy",,"Meg LeFauve, Josh Cooley, Pete Docter",3.5,No,3.5,3.5,3
+Insidious: Chapter 2,2013,"Horror, Thriller",James Wan,"Leigh Whannell, James Wan",4,Yes,4,4.5,4
+Insidious: Chapter 3,2015,"Horror, Thriller",,Leigh Whannell,3,Yes,3,3.5,3
+Insidious: The Last Key,2018,"Horror, Thriller",Adam Robitel,Leigh Whannell,3.5,Yes,3.5,3.5,3
+Insidious: The Red Door,2023,"Horror, Thriller",,"Scott Teems, Leigh Whannell",1,No,1,1.5,1
+Annabelle,2014,Horror,John R. Leonetti,Gary Dauberman,3,Yes,3,3.5,3
+Annabelle: Creation,2017,Horror,,Gary Dauberman,4.5,Yes,4.5,4.5,4
+Annabelle Comes Home,2019,Horror,Gary Dauberman,"James Wan, Gary Dauberman",1.5,No,1.5,1.5,1
+The Nun,2018,Horror,,"Gary Dauberman, James Wan",3,Yes,3,3.5,3
+The Nun II,2023,Horror,Michael Chaves,"Akela Cooper, Ian B. Goldberg, Richard Naing, James Wan, Gary Dauberman",1.5,No,1.5,1.5,1
+Lights Out,2016,Horror,,Eric Heisserer,3.5,Yes,3.5,3.5,3
+Khichdi: The Movie,2010,"Comedy, Family",Aatish Kapadia,Aatish Kapadia,4.5,Yes,4.5,4.5,4
+Kevi Rite Jaish,2012,"Comedy, Drama, Family",,"Abhishek Jain, Anish Shah",0.5,No,0.5,0.5,0
+Vitthal Teedi,2021,Not Found,Not Found,Not Found,3.5,Yes,3.5,3.5,3
+Hum Do Hamare Do,2021,"Drama, Family",,"Bhushan Banmali, Bimal Dutta, B. R. Ishara",0.5,No,0.5,0.5,0
+Last Film Show,2021,Drama,Pan Nalin,Pan Nalin,4.5,Yes,4.5,4.5,4
+Chhello Divas,2015,Comedy,,Unknown,3.5,Yes,3.5,3.5,3
+Naadi Dosh,2022,"Drama, Family, Romance",Krishnadev Yagnik,Krishnadev Yagnik,0.5,No,0.5,0.5,0
+Gujjubhai The Great,2015,Comedy,,Unknown,3,Yes,3,3.5,3
+GujjuBhai: Most Wanted,2018,"Comedy, Drama",Ishaan Randeria,Unknown,3,Yes,3,3.5,3
+Gujjubhai E Gaam Gajavyu,,"Drama, Comedy",,Unknown,4.5,Yes,4.5,4.5,4
+Gujjubhai ni Golmaal,,Comedy,Siddharth Randeria,Pravin Solanki,3.5,Yes,3.5,3.5,3
+Argo,2012,"Drama, Thriller",,Chris Terrio,3.5,Yes,3.5,3.5,3
+Dr. No,1962,"Adventure, Action, Thriller",Terence Young,"Richard Maibaum, Johanna Harwood, Berkely Mather",4.5,Yes,4.5,4.5,4
+From Russia with Love,1963,"Action, Thriller, Adventure",,Richard Maibaum,5,No,5,5,5
+GoldenEye,1995,"Adventure, Action, Thriller",Martin Campbell,"Bruce Feirstein, Jeffrey Caine, Ian Fleming, Michael France",5,Yes,5,5,5
+Tomorrow Never Dies,1997,"Adventure, Action, Thriller",,"Bruce Feirstein, Ian Fleming",4.5,Yes,4.5,4.5,4
+The World Is Not Enough,1999,"Adventure, Action, Thriller",Michael Apted,"Neal Purvis, Robert Wade, Bruce Feirstein, Ian Fleming",4.5,Yes,4.5,4.5,4
+Die Another Day,2002,"Adventure, Action, Thriller",,"Robert Wade, Neal Purvis, Ian Fleming",4.5,Yes,4.5,4.5,4
+Quantum of Solace,2008,"Adventure, Action, Thriller",Marc Forster,"Robert Wade, Paul Haggis, Neal Purvis",4,Yes,4,4.5,4
+Sultan,2016,"Romance, Family, Comedy",,Yavuz Turgul,3.5,Yes,3.5,3.5,3
+Dangal,2016,"Drama, Family, Comedy",Nitesh Tiwari,"Nikhil Mehrotra, Nitesh Tiwari",4,Yes,4,4.5,4
+Ae Dil Hai Mushkil,2016,"Romance, Drama",,Karan Johar,0.5,No,0.5,0.5,0
+Pink,2016,"Drama, Romance, Family",Ky Baldwin,Lilia Buckingham,4,Yes,4,4.5,4
+Airlift,2016,"Drama, History, Action",,"Ritesh Shah, Suresh Nair, Raja Menon",4,Yes,4,4.5,4
+Gulabo Sitabo,2020,"Drama, Comedy",Shoojit Sircar,Juhi Chaturvedi,3.5,Yes,3.5,3.5,3
+The Interview,2014,"Action, Comedy",,"Dan Sterling, Evan Goldberg, Seth Rogen",3.5,Yes,3.5,3.5,3
+Section 375,2019,"Drama, Thriller",Ajay Bahl,"Ajay Bahl, Manish Gupta",3.5,No,3.5,3.5,3
+Bhoot,2003,"Horror, Comedy",,"Ravi Shankaran, Jasvinder Singh Bath",4.5,Yes,4.5,4.5,4
+Stree,2018,"Horror, Comedy",Amar Kaushik,"Krishna D.K., Raj Nidimoru",5,Yes,5,5,5
+Badla,2019,"Crime, Thriller, Mystery, Drama",,Sujoy Ghosh,3,No,3,3.5,3
+Andhadhun,2018,"Crime, Mystery, Thriller, Comedy",Sriram Raghavan,"Sriram Raghavan, Pooja Ladha Surti, Arijit Biswas, Hemanth M. Rao",4.5,Yes,4.5,4.5,4
+Kabhi Khushi Kabhie Gham,2001,"Comedy, Drama",,"Sheena Parikh, Karan Johar",1.5,No,1.5,1.5,1
+Bang Bang!,2014,"Action, Thriller",Wych Kaosayananda,"Ken Solarz, Peter M. Lenkov",2.5,No,2.5,2.5,2
+Koi... Mil Gaya,2003,"Science Fiction, Action, Adventure",,"Rakesh Roshan, Honey Irani, Robin Bhatt, Sachin Bhowmick",4,Yes,4,4.5,4
+Mary Kom,2014,"Action, Drama, History",Omung Kumar,Saiwyn Quadras,2.5,No,2.5,2.5,2
+Like Stars on Earth,2007,Drama,,Amole Gupte,4,Yes,4,4.5,4
+Dhamaal,2007,"Comedy, Adventure",Indra Kumar,Paritosh Painter,4,Yes,4,4.5,4
+Queen,2013,Drama,,"Maren Louise K‰ehne, May el-Toukhy",3.5,Yes,3.5,3.5,3
+Delhi Belly,2011,"Action, Comedy",Abhinay Deo,Akshat Verma,3.5,Yes,3.5,3.5,3
+Oye Lucky! Lucky Oye!,2008,"Action, Comedy",,Urmi Juvekar,4,Yes,4,4.5,4
+Jolly LLB,2013,"Drama, Comedy",Subhash Kapoor,Subhash Kapoor,4,Yes,4,4.5,4
+Jab We Met,2007,"Drama, Comedy, Romance",,Imtiaz Ali,3.5,Yes,3.5,3.5,3
+Azhar,2016,Drama,Anthony D'Souza,Rajat Arora,1,No,1,1.5,1
+Rustom,2016,"Thriller, Drama, Crime",,Vipul K Rawal,4,Yes,4,4.5,4
+Raaz Reboot,2016,Horror,Vikram Bhatt,Vikram Bhatt,2,No,2,2.5,2
+M.S. Dhoni: The Untold Story,2016,Drama,,"Nandu Kamte, Dilip Jha, Neeraj Pandey",3.5,Yes,3.5,3.5,3
+Kahaani 2,2016,"Thriller, Mystery",Sujoy Ghosh,"Sujoy Ghosh, Suresh Nair",3.5,Yes,3.5,3.5,3
+Befikre,2016,"Romance, Comedy, Drama",,Aditya Chopra,0.5,No,0.5,0.5,0
+Dolly Ki Doli,2015,"Comedy, Romance",Abhishek Dogra,"Abhishek Dogra, Umashankar Singh",3.5,Yes,3.5,3.5,3
+Dum Laga Ke Haisha,2015,"Comedy, Drama, Romance",,Sharat Katariya,4,Yes,4,4.5,4
+Raja Natwarlal,2014,"Thriller, Drama, Mystery, Crime",Kunal Deshmukh,Parveez Shaikh,3.5,Yes,3.5,3.5,3
+Don 2,2011,"Action, Thriller",,"Ameet Mehta, Farhan Akhtar",2.5,No,2.5,2.5,2
+Don,2006,"Adventure, Romance",Alan Crosland,Bess Meredyth,4.5,Yes,4.5,4.5,4
+Jawan,2023,"Action, Thriller",,"Atlee, Ramana Girivasan",4,Yes,4,4.5,4
+Pathaan,2023,"Action, Adventure, Thriller",Siddharth Anand,"Siddharth Anand, Shridhar Raghavan",1.5,No,1.5,1.5,1
+Kochadaiiyaan,2014,"Action, Adventure, Animation",,K. S. Ravikumar,3,No,3,3.5,3
+A Wednesday!,2008,"Drama, Thriller",Neeraj Pandey,Neeraj Pandey,5,Yes,5,5,5
+Special 26,2013,"Crime, Drama, Thriller",,Neeraj Pandey,5,Yes,5,5,5
+Baby,2015,"Action, Crime",Edgar Wright,Edgar Wright,4.5,Yes,4.5,4.5,4
+Aiyaary,2018,"Crime, Drama, Thriller",,Neeraj Pandey,3.5,Yes,3.5,3.5,3
+Special Ops 1.5 The Himmat Story,2021,Not Found,Not Found,Not Found,4.5,Yes,4.5,4.5,4
+Vikram Vedha,2017,"Action, Thriller, Crime, Adventure",,"Pushkar, Gayathri",5,Yes,5,5,5
+Just Go with It,2011,"Comedy, Romance",Dennis Dugan,"Timothy Dowling, Allan Loeb",3.5,Yes,3.5,3.5,3
+Grown Ups,2010,Comedy,,"Adam Sandler, Fred Wolf",4.5,Yes,4.5,4.5,4
+Happy Gilmore,1996,Comedy,Dennis Dugan,"Tim Herlihy, Adam Sandler",3.5,Yes,3.5,3.5,3
+Big Daddy,1999,"Comedy, Drama",,"Steve Franks, Tim Herlihy, Adam Sandler",4.5,Yes,4.5,4.5,4
+Aladdin,1992,"Animation, Family, Adventure, Fantasy, Romance",Ron Clements,"Ron Clements, Ted Elliott, Terry Rossio, John Musker, Burny Mattinson, Roger Allers, Daan Jippes, Kevin Harkey, Sue C. Nichols, Francis Glebas, Darrell Rooney, Larry Leker, James Fujii, Kirk Hanson, Kevin Lima, Rebecca Reese, David Scott Smith, Chris Sanders, Brian Pimental, Patrick A. Ventura",4,Yes,4,4.5,4
+Night at the Museum,2006,"Fantasy, Family, Comedy",,"Robert Ben Garant, Thomas Lennon",4.5,Yes,4.5,4.5,4
+Jumanji,1995,"Adventure, Fantasy, Family",Joe Johnston,"Jonathan Hensleigh, Greg Taylor, Jim Strain",4.5,Yes,4.5,4.5,4
+Night at the Museum: Battle of the Smithsonian,2009,"Adventure, Fantasy, Action, Comedy, Family",,"Robert Ben Garant, Thomas Lennon",4,Yes,4,4.5,4
+"Good Morning, Vietnam",1987,"Comedy, Drama, War",Barry Levinson,Mitch Markowitz,3.5,Yes,3.5,3.5,3
+Night at the Museum: Secret of the Tomb,2014,"Adventure, Comedy, Fantasy, Family",,"David Guion, Michael Handelman, Mark Friedman, Robert Ben Garant, Thomas Lennon",4,Yes,4,4.5,4
+Flubber,1997,"Comedy, Family, Science Fiction",Les Mayfield,"Bill Walsh, John Hughes",4.5,Yes,4.5,4.5,4
+Click,2006,"Comedy, Drama, Fantasy",,"Mark O'Keefe, Steve Koren",4,Yes,4,4.5,4
+Hotel Transylvania,2012,"Animation, Comedy, Family, Fantasy",Genndy Tartakovsky,"Dan Hageman, Kevin Hageman, Todd Durham, Peter Baynham, Robert Smigel",5,Yes,5,5,5
+Murder Mystery,2019,"Comedy, Mystery",,James Vanderbilt,4,Yes,4,4.5,4
+Murder Mystery 2,2023,"Mystery, Comedy, Crime",Jeremy Garelick,James Vanderbilt,3,Yes,3,3.5,3
+You Are So Not Invited to My Bat Mitzvah,2023,"Comedy, Drama",,Alison Peck,1.5,No,1.5,1.5,1
+Hotel Transylvania 2,2015,"Animation, Comedy, Family, Fantasy",Genndy Tartakovsky,"Robert Smigel, Adam Sandler",4,Yes,4,4.5,4
+Mr. Deeds,2002,"Comedy, Romance",,Tim Herlihy,4,Yes,4,4.5,4
+I Now Pronounce You Chuck & Larry,2007,"Comedy, Romance",Dennis Dugan,"Jim Taylor, Alexander Payne, Barry Fanaro",3,No,3,3.5,3
+Bruce Almighty,2003,"Fantasy, Comedy",,"Steve Oedekerk, Steve Koren, Mark O'Keefe",4.5,Yes,4.5,4.5,4
+Evan Almighty,2007,"Fantasy, Comedy, Family",Tom Shadyac,"Steve Oedekerk, Alec Sokolow, Joel Cohen, Mark O'Keefe, Steve Koren",3.5,Yes,3.5,3.5,3
+The Invention of Lying,2009,"Comedy, Fantasy, Romance",,"Ricky Gervais, Matthew Robinson",3.5,Yes,3.5,3.5,3
+Anchorman: The Legend of Ron Burgundy,2004,Comedy,Adam McKay,"Will Ferrell, Adam McKay",4,Yes,4,4.5,4
+Ted 2,2015,"Comedy, Fantasy",,"Seth MacFarlane, Alec Sulkin, Wellesley Wild",3.5,Yes,3.5,3.5,3
+The 40 Year Old Virgin,2005,"Comedy, Romance",Judd Apatow,"Judd Apatow, Steve Carell",3.5,Yes,3.5,3.5,3
+This Is the End,2013,"Action, Comedy",,"Seth Rogen, Evan Goldberg",4,Yes,4,4.5,4
+Anchorman 2: The Legend Continues,2013,Comedy,Adam McKay,"Will Ferrell, Adam McKay",3,No,3,3.5,3
+Meet the Parents,2000,"Comedy, Romance",,"Jim Herzfeld, John Hamburg, Greg Glienna, Mary Ruth Clarke",4,Yes,4,4.5,4
+Air,2023,"Drama, History",Ben Affleck,Alex Convery,3.5,No,3.5,3.5,3
+Jobs,2013,"Drama, History",,Matt Whiteley,4.5,Yes,4.5,4.5,4
+Steve Jobs,2015,"Drama, History",Danny Boyle,Aaron Sorkin,4,Yes,4,4.5,4
+The Black Phone,2021,"Horror, Thriller",,"Scott Derrickson, C. Robert Cargill",3,Yes,3,3.5,3
+ted,2024,"Comedy, Fantasy",Seth MacFarlane,"Seth MacFarlane, Alec Sulkin, Wellesley Wild",4.5,Yes,4.5,4.5,4
+Rise of the Planet of the Apes,2011,"Thriller, Action, Drama, Science Fiction",,"Amanda Silver, Rick Jaffa",3.5,Yes,3.5,3.5,3
+How to Train Your Dragon 2,2014,"Fantasy, Action, Adventure, Animation, Family",Dean DeBlois,Dean DeBlois,4,Yes,4,4.5,4
+Mission: Impossible,1996,"Adventure, Action, Thriller",,"David Koepp, Robert Towne, Steven Zaillian",4,Yes,4,4.5,4
+Mission: Impossible ‚Äì Fallout,2018,Not Found,Not Found,Not Found,4,Yes,4,4.5,4
+Mission: Impossible ‚Äì Rogue Nation,2015,Not Found,,Not Found,4,Yes,4,4.5,4
+Mission: Impossible III,2006,"Adventure, Action, Thriller",J.J. Abrams,"Alex Kurtzman, Roberto Orci, J.J. Abrams",4,Yes,4,4.5,4
+Mission: Impossible II,2000,"Adventure, Action, Thriller",,"Robert Towne, Ronald D. Moore, Brannon Braga",4,Yes,4,4.5,4
+The Bourne Ultimatum,2007,"Action, Drama, Mystery, Thriller",Paul Greengrass,"Tony Gilroy, George Nolfi, Scott Z. Burns",4,Yes,4,4.5,4
+The Bourne Identity,2002,"Action, Drama, Mystery, Thriller",,"Tony Gilroy, William Blake Herron",4,Yes,4,4.5,4
+The Bourne Supremacy,2004,"Action, Drama, Thriller",Paul Greengrass,Tony Gilroy,4,Yes,4,4.5,4
+The Gray Man,2022,"Action, Thriller",,"Joe Russo, Stephen McFeely, Christopher Markus",3.5,Yes,3.5,3.5,3
+Pacific Rim,2013,"Action, Science Fiction, Adventure",Guillermo del Toro,"Travis Beacham, Guillermo del Toro",5,Yes,5,5,5
+Pacific Rim: Uprising,2018,"Action, Fantasy, Science Fiction, Adventure",,"Emily Carmichael, T.S. Nowlin, Kira Snyder, Steven S. DeKnight, Travis Beacham",2.5,No,2.5,2.5,2
+Godzilla,1998,"Action, Drama, Science Fiction",Gareth Edwards,"David Callaham, Max Borenstein",5,Yes,5,5,5
+Ramji Londonwaley,2005,"Comedy, Family, Drama",,"Sanjay Dayma, R. Madhavan",3.5,Yes,3.5,3.5,3
+Bunty Aur Babli,2005,"Comedy, Crime, Romance",Shaad Ali,Jaideep Sahni,3.5,Yes,3.5,3.5,3
+Don,1978,"Adventure, Romance",,Bess Meredyth,5,Yes,5,5,5
+Runway 34,2022,"Thriller, Drama",Ajay Devgn,"Aamil Keyan Khan, Sandeep Kewlani",4,Yes,4,4.5,4
+Baghban,2003,,,"Abdul Rashid Kardar, Begum Ansari",4,Yes,4,4.5,4
+Bhoothnath Returns,2014,"Comedy, Drama, Fantasy",Nitesh Tiwari,"Nitesh Tiwari, Kamaljeet Negi",2.5,No,2.5,2.5,2
+102 Not Out,2018,"Comedy, Family, Drama",,"Saumya Joshi, Vishal V. Patil",2,No,2,2.5,2
+Shamitabh,2015,"Comedy, Drama, Thriller",R. Balki,R. Balki,3.5,Yes,3.5,3.5,3
+God Tussi Great Ho,2008,"Comedy, Drama, Fantasy",,Rumi Jaffery,4,Yes,4,4.5,4
+Aankhen,2002,"Comedy, Action, Crime, Thriller, Drama",David Dhawan,Anees Bazmee,5,Yes,5,5,5
+Chhoti Si Baat,1976,"Drama, Comedy, Romance",,"Sharad Joshi, Basu Chatterjee",4,Yes,4,4.5,4
+Uunchai,2022,"Comedy, Drama, Family",Sooraj Barjatya,"Sunil Gandhi, Abhishek Dixit",4,Yes,4,4.5,4
+Aladin,2009,"Fantasy, Drama, Romance, Adventure, Comedy",,Sujoy Ghosh,2.5,No,2.5,2.5,2
+Chehre,2021,"Thriller, Mystery, Drama",Rumi Jaffery,Ranjit Kapoor,4.5,Yes,4.5,4.5,4
+Sooryavansham,1999,"Action, Drama",,"E.V.V. Satyanarayana, Vikraman",3.5,Yes,3.5,3.5,3
+Namak Halaal,1982,"Action, Comedy, Mystery",Prakash Mehra,Prakash Mehra,3,No,3,3.5,3
+Coolie,1983,"Action, Thriller, Crime",,"Lokesh Kanagaraj, Chandhru Anbazhagan",5,Yes,5,5,5
+Satte Pe Satta,1982,Comedy,Raj N. Sippy,"Satish Bhatnagar, Jyoti Swaroop, Kader Khan",4.5,Yes,4.5,4.5,4
+Hum,1991,Thriller,,Henry Johnston,3.5,Yes,3.5,3.5,3
+Dostana,1980,"Drama, Comedy, Romance",Tarun Mansukhani,Tarun Mansukhani,2.5,Yes,2.5,2.5,2
+Kaalia,1981,,,Unknown,4,Yes,4,4.5,4
+Sharaabi,1984,"Action, Adventure",Unknown,Unknown,5,Yes,5,5,5
+Sarkar 3,2017,Crime,,"Manish Gupta, Nilesh Girkar, Ramkumar Singh, Ram Gopal Varma, P. Jayakumar",2,No,2,2.5,2
+Mahabharat,2013,"Adventure, Animation, Action, History, Family",Amaan Khan,Amaan Khan,4,Yes,4,4.5,4
+Yaarana,1981,"Action, Romance",,Unknown,1,No,1,1.5,1
+Mr. Natwarlal,1979,"Drama, Romance",Rakesh Kumar,Unknown,3,No,3,3.5,3
+Bhoothnath,2008,"Family, Comedy",,"Sudhanshu Dube, Vivek Sharma",4.5,Yes,4.5,4.5,4
+Happy Bhag Jayegi,2016,"Comedy, Romance",Mudassar Aziz,Mudassar Aziz,5,Yes,5,5,5
+Rocketry: The Nambi Effect,2022,"Drama, History",,R. Madhavan,4,Yes,4,4.5,4
+The Romantics,2023,"Drama, Romance",Galt Niederhoffer,Galt Niederhoffer,4.5,Yes,4.5,4.5,4
+Ramprasad Ki Tehrvi,2019,"Drama, Family, Comedy",,Seema Pahwa,4,Yes,4,4.5,4
+The Dirty Picture,2011,"Comedy, Drama",Milan Luthria,Rajat Arora,3.5,Yes,3.5,3.5,3
+Chamatkar,1992,"Romance, Comedy",,"Shaukat Baig, Rajiv Mehra",3,Yes,3,3.5,3
+Dharam Sankat Mein,2015,"Comedy, Drama, Family, Fantasy, Mystery",Fuwad Khan,David Baddiel,4,Yes,4,4.5,4
+3G,2013,"Horror, Science Fiction, Thriller",,"Shantanu Ray Chhibber, Shiirshak S. Anand",2,No,2,2.5,2
+Saaho,2019,"Action, Adventure, Thriller",Sujeeth,Sujeeth,1,No,1,1.5,1
+Prem Ratan Dhan Payo,2015,"Romance, Drama, Action",,Sooraj Barjatya,2,No,2,2.5,2
+Players,2012,"Romance, Comedy",Trish Sie,Whit Anderson,4,Yes,4,4.5,4
+Bypass Road,2019,"Drama, Thriller",,Neil Nitin Mukesh,3,No,3,3.5,3
+Lootcase,2020,Comedy,Rajesh Krishnan,"Kapil Sawant, Rajesh Krishnan",4.5,Yes,4.5,4.5,4
+Go Goa Gone,2013,"Comedy, Horror",,"Krishna D.K., Raj Nidimoru",4,Yes,4,4.5,4
+Bhaag Johnny,2015,Thriller,Shivam Nair,Vikram Bhatt,4,Yes,4,4.5,4
+Dhoondte Reh Jaaoge,2009,Comedy,,Jalees Sherwani,4.5,Yes,4.5,4.5,4
+The Italian Job,2003,"Action, Crime",F. Gary Gray,"Donna Powers, Wayne Powers",4.5,Yes,4.5,4.5,4
+Ocean's Twelve,2004,"Thriller, Crime",,"George Nolfi, George Clayton Johnson, Jack Golden Russell",4,Yes,4,4.5,4
+6 Underground,2019,"Action, Comedy, Thriller",Michael Bay,"Paul Wernick, Rhett Reese",3,Yes,3,3.5,3
+Ocean's Thirteen,2007,"Crime, Thriller",,"George Clayton Johnson, Jack Golden Russell, David Levien, Brian Koppelman",4,Yes,4,4.5,4
+Contagion,2011,"Drama, Thriller, Science Fiction",Steven Soderbergh,Scott Z. Burns,1.5,No,1.5,1.5,1
+National Treasure,2004,"Adventure, Action, Thriller, Mystery",,"Jim Kouf, Marianne Wibberley, Cormac Wibberley, Oren Aviv, Charles Segars",4.5,Yes,4.5,4.5,4
+National Treasure: Book of Secrets,2007,"Action, Adventure, Mystery, Thriller",Jon Turteltaub,"Gregory Poirier, Terry Rossio, Ted Elliott, Marianne Wibberley, Cormac Wibberley, Oren Aviv, Jim Kouf, Charles Segars",4,Yes,4,4.5,4
+The Sorcerer's Apprentice,2010,"Fantasy, Adventure, Action",,"Doug Miro, Carlo Bernard, Matt Lopez, Mark Rosenthal, Lawrence Konner",4,Yes,4,4.5,4
+The Karate Kid,1984,"Action, Adventure, Drama, Family",Harald Zwart,"Christopher Murphey, Robert Mark Kamen",4.5,Yes,4.5,4.5,4
+The Karate Kid,2010,"Action, Adventure, Drama, Family",,"Christopher Murphey, Robert Mark Kamen",4,Yes,4,4.5,4
+Drunken Master,1978,"Action, Comedy",Yuen Woo-Ping,"Hsiao Lung, Ng See-Yuen",4,Yes,4,4.5,4
+Kung Fu Panda 2,2011,"Animation, Family, Comedy",,"Jonathan Aibel, Glenn Berger, Ryan Crego, Li Hong, Radford Sechrist, Chen-Yi Chang, Simon Wells, Ed Gombert, Derek Drymon, Robert Koo, Ethan Reiff, Cyrus Voris",4.5,Yes,4.5,4.5,4
+Rush Hour,1998,"Action, Comedy, Crime",Brett Ratner,"Ross LaManna, Jim Kouf",4.5,Yes,4.5,4.5,4
+Kung Fu Panda 3,2016,"Animation, Action, Adventure, Comedy, Family",,"Jonathan Aibel, Glenn Berger, Ethan Reiff, Cyrus Voris",5,Yes,5,5,5
+Rush Hour 2,2001,"Action, Comedy, Crime",Brett Ratner,"Jeff Nathanson, Ross LaManna",4,Yes,4,4.5,4
+Police Story,1985,"Action, Crime, Comedy",,"Edward Tang, Jackie Chan",4.5,Yes,4.5,4.5,4
+Rush Hour 3,2007,"Action, Comedy, Crime",Brett Ratner,"Ross LaManna, Jeff Nathanson",4,Yes,4,4.5,4
+Police Story 2,1988,"Action, Crime, Thriller",,"Edward Tang, Jackie Chan",4,Yes,4,4.5,4
+Police Story 3: Super Cop,1992,"Action, Crime, Thriller",Stanley Tong Gwai-Lai,"Edward Tang, Fibe Ma Mei-Ping, Lee Wai-Yee",4.5,Yes,4.5,4.5,4
+The Tuxedo,2002,"Thriller, Action, Comedy, Science Fiction",,"Michael J. Leeson, Michael J. Wilson, Phil Hay, Matt Manfredi",3.5,Yes,3.5,3.5,3
+The Spy Next Door,2010,"Action, Comedy, Family",Brian Levant,"James Greer, Jonathan Bernstein, Gregory Poirier",4,Yes,4,4.5,4
+Who Am I?,1998,Thriller,,"Baran bo Odar, Jantje Friese",4,No,4,4.5,4
+Snake in the Eagle's Shadow,1978,"Action, Comedy",Yuen Woo-Ping,"Ng See-Yuen, Yuen Woo-Ping, Hsiao Lung, Clifford Choi",4.5,Yes,4.5,4.5,4
+Skiptrace,2016,"Action, Adventure, Crime, Comedy",,"Jay Longino, BenDavid Grabinski, Chang Wen-Chia",4.5,Yes,4.5,4.5,4
+Bleeding Steel,2017,"Science Fiction, Action, Adventure, Thriller",Leo Zhang,"Erica Xia-Hou, Cui Siwei, Leo Zhang",4,Yes,4,4.5,4
+Kung Fu Yoga,2017,"Comedy, Mystery, Family, Action, Adventure",,Stanley Tong Gwai-Lai,3.5,Yes,3.5,3.5,3
+Teen Patti,2010,"Drama, Thriller",Leena Yadav,"Leena Yadav, Shivkumar Subramaniam",4,Yes,4,4.5,4
+The Matrix Reloaded,2003,"Adventure, Action, Thriller, Science Fiction",,"Lana Wachowski, Lilly Wachowski",4.5,Yes,4.5,4.5,4
+The Matrix Revolutions,2003,"Adventure, Action, Thriller, Science Fiction",Lilly Wachowski,"Lilly Wachowski, Lana Wachowski",4,Yes,4,4.5,4
+TRON: Legacy,2010,"Adventure, Action, Science Fiction",,"Edward Kitsis, Adam Horowitz, Steven Lisberger, Bonnie MacBird, Brian Klugman, Lee Sternthal",3.5,Yes,3.5,3.5,3
+Lucy,2014,"Action, Science Fiction",Luc Besson,Luc Besson,4.5,Yes,4.5,4.5,4
+Transformers: Age of Extinction,2014,"Science Fiction, Action, Adventure",,Ehren Kruger,4,Yes,4,4.5,4
+Armageddon,1998,"Action, Thriller, Science Fiction, Adventure",Michael Bay,"Jonathan Hensleigh, J.J. Abrams, Robert Roy Pool",4.5,Yes,4.5,4.5,4
+Apollo 13,1995,"Drama, History",,"Al Reinert, William Broyles Jr.",5,Yes,5,5,5
+Neighbors,2014,Comedy,Nicholas Stoller,"Andrew J. Cohen, Brendan O'Brien",3,No,3,3.5,3
+Hot Tub Time Machine,2010,"Science Fiction, Comedy, Adventure",,"Josh Heald, Sean Anders, John Morris",4,Yes,4,4.5,4
+2012,2009,"Action, Adventure, Science Fiction",Roland Emmerich,"Roland Emmerich, Harald Kloser",5,Yes,5,5,5
+Titanic,1997,"Drama, Romance",,James Cameron,4,Yes,4,4.5,4
+Clue,1985,"Comedy, Thriller, Crime, Mystery",Jonathan Lynn,"Jonathan Lynn, John Landis",5,Yes,5,5,5
+Toy Story,1995,"Family, Comedy, Animation, Adventure",,"Alec Sokolow, Joel Cohen, Joss Whedon, Andrew Stanton",3,No,3,3.5,3
+The Lion King,1994,"Animation, Family, Drama",Roger Allers,"Linda Woolverton, Irene Mecchi, Jonathan Roberts, Rick Maki, Andrew Gaskill, Kevin Harkey, Chris Sanders, Larry Leker, Ed Gombert, Burny Mattinson, Lorna Cook, Joe Ranft, J¯rgen Klubien, Tom Sito, Mark Kausler, Jim Capobianco, Francis Glebas, Barry Johnson, Thom Enriquez, Gary Trousdale",4.5,Yes,4.5,4.5,4
+Up,2009,"Comedy, Action, Adventure",,"Paul Wernick, Rhett Reese",4.5,Yes,4.5,4.5,4
+The Goonies,1985,"Adventure, Comedy, Family",Richard Donner,"Chris Columbus, Steven Spielberg",3.5,Yes,3.5,3.5,3
+Men in Black,1997,"Action, Adventure, Comedy, Science Fiction",,Ed Solomon,3.5,Yes,3.5,3.5,3
+Men in Black II,2002,"Action, Comedy, Science Fiction",Barry Sonnenfeld,"Barry Fanaro, Robert Gordon",4,Yes,4,4.5,4
+Men in Black 3,2012,"Action, Comedy, Science Fiction",,Etan Cohen,4,Yes,4,4.5,4
+1408,2007,"Horror, Mystery",Mikael HÂfstrˆm,"Scott Alexander, Larry Karaszewski, Matt Greenberg",4,Yes,4,4.5,4
+Cujo,1983,"Horror, Thriller",,"Don Carlos Dunaway, Barbara Turner",3.5,Yes,3.5,3.5,3
+War Dogs,2016,"Comedy, Crime, Drama",Todd Phillips,"Stephen Chin, Todd Phillips, Jason Smilovic",4,Yes,4,4.5,4
+Monster Trucks,2016,"Action, Comedy, Science Fiction",,"Jonathan Aibel, Glenn Berger, Derek Connolly, Matthew Robinson",3,Yes,3,3.5,3
+Goosebumps,2015,"Adventure, Horror, Comedy",Rob Letterman,"Scott Alexander, Larry Karaszewski, Darren Lemke",4.5,Yes,4.5,4.5,4
+Goosebumps 2: Haunted Halloween,2018,"Comedy, Fantasy, Horror, Family",,"Rob Lieber, Darren Lemke",3,No,3,3.5,3
+The Kid Who Would Be King,2019,"Action, Adventure, Fantasy, Family",Joe Cornish,Joe Cornish,2,No,2,2.5,2
+Ouija,2014,Horror,,"Juliet Snowden, Stiles White",3,No,3,3.5,3
+In the Tall Grass,2019,Horror,Vincenzo Natali,Vincenzo Natali,4,Yes,4,4.5,4
+Kaali Khuhi,2020,"Horror, Drama, Thriller",,"Rupinder Inderjit, Terrie Samundra, David Walter Lech",4.5,Yes,4.5,4.5,4
+Bhoot: Part One - The Haunted Ship,2020,"Horror, Thriller",Bhanu Pratap Singh,Bhanu Pratap Singh,0.5,No,0.5,0.5,0
+Ghost Stories,2020,Horror,,Unknown,0.5,No,0.5,0.5,0
+Tumbbad,2018,"Fantasy, Horror",Rahi Anil Barve,"Rahi Anil Barve, Mitesh Shah, Adesh Prasad, Anand Gandhi",5,Yes,5,5,5
+Chhorii,2021,"Horror, Thriller",,"Vishal Furia, Vishal Kapoor",3.5,Yes,3.5,3.5,3
+English Vinglish,2012,"Comedy, Drama, Family",Gauri Shinde,Gauri Shinde,4,Yes,4,4.5,4
+Ra.One,2011,"Adventure, Action, Science Fiction",,"Anubhav Sinha, Kanika Dhillon, Mustaq Sheikh, David Benullo",4,Yes,4,4.5,4
+Krrish 3,2013,"Action, Science Fiction",Rakesh Roshan,"Akarsh Khurana, Rakesh Roshan, Irfan Kamal, Robin Bhatt, Honey Irani",3.5,Yes,3.5,3.5,3
+Amar Akbar Anthony,1977,"Action, Comedy, Drama, Music, Crime",,"J.M. Desai, Prayag Raj, Pushpa Sharma",4.5,Yes,4.5,4.5,4
+Delhi-6,2009,Drama,Rakeysh Omprakash Mehra,"Rakeysh Omprakash Mehra, Kamlesh Pandey, Prasoon Joshi",4,Yes,4,4.5,4
+Jhund,2022,Drama,,Nagraj Popatrao Manjule,2,No,2,2.5,2
+Te3n,2016,"Mystery, Thriller, Crime",Ribhu Dasgupta,"Bijesh Jayarajan, Suresh Nair, Ribhu Dasgupta",3.5,Yes,3.5,3.5,3
+Bbuddah Hoga Terra Baap,2011,"Action, Thriller",,Puri Jagannadh,2.5,No,2.5,2.5,2
+Tom & Jerry,2021,"Animation, Comedy, Family, Fantasy, Adventure",Zhang Gang,"Zhang Gang, William Hanna, Joseph Barbera, Bob Boyle",3.5,Yes,3.5,3.5,3
+Minions,2015,"Family, Animation, Adventure, Comedy",,"Ken Daurio, Brian Lynch, Cinco Paul",4.5,Yes,4.5,4.5,4
+Minions: The Rise of Gru,2022,"Family, Comedy, Adventure, Animation, Science Fiction, Fantasy, Action",Kyle Balda,"Brian Lynch, Matthew Fogel, Cinco Paul",4.5,Yes,4.5,4.5,4
+Despicable Me,2010,"Family, Comedy, Animation, Science Fiction, Crime",,"Ken Daurio, Sergio Pablos, Cinco Paul",4.5,Yes,4.5,4.5,4
+Despicable Me 2,2013,"Animation, Comedy, Family",Chris Renaud,"Cinco Paul, Ken Daurio, Mike Reiss",5,Yes,5,5,5
+Despicable Me 3,2017,"Action, Animation, Comedy, Family, Adventure",,"Ken Daurio, Cinco Paul",2.5,No,2.5,2.5,2
+The Mitchells vs. the Machines,2021,"Animation, Adventure, Comedy",Mike Rianda,"Jeff Rowe, Mike Rianda",4,Yes,4,4.5,4
+Ice Age,2002,"Animation, Comedy, Family, Adventure",,"Michael Berg, Michael J. Wilson, Peter Ackerman, David Silverman, Yvette Kaplan",4,Yes,4,4.5,4
+The Boss Baby,2017,"Animation, Family, Adventure",Matt Engstrom,"J.D. Ryznar, Tanner Tananbaum",4.5,Yes,4.5,4.5,4
+Meet the Robinsons,2007,"Animation, Comedy, Family, Science Fiction, Adventure",,"Jon Bernstein, Michelle Bochner Spitz, Don Hall, Nathan Greno, Aurian Redson, Joseph Mateo, Stephen J. Anderson",5,Yes,5,5,5
+Cloudy with a Chance of Meatballs,2009,"Animation, Comedy, Family",Christopher Miller,"Phil Lord, Christopher Miller, Rob Greenberg",4.5,Yes,4.5,4.5,4
+Scoob!,2020,"Animation, Comedy, Family, Mystery",,"Chiranjiv Makwana, Matt Lieberman, Adam Sztykiel, Jack C. Donaldson, Derek Elliott, Eyal Podell, Jonathon E. Stewart, Joe Ruby, Ken Spears",3.5,Yes,3.5,3.5,3
+The Smurfs,2011,"Animation, Family, Adventure, Comedy, Fantasy",Raja Gosnell,"J. David Stem, David N. Weiss, Jay Scherick, David Ronn, Peyo",5,Yes,5,5,5
+The Smurfs 2,2013,"Fantasy, Family, Comedy, Animation",,"J. David Stem, David N. Weiss, Jay Scherick, David Ronn, Peyo, Karey Kirkpatrick",3.5,Yes,3.5,3.5,3
+Ice Age: The Meltdown,2006,"Animation, Family, Comedy, Adventure",Carlos Saldanha,"Gerry Swallow, Peter Gaulke, Jim Hecht, Michael J. Wilson, Michael Berg, Peter Ackerman",4,Yes,4,4.5,4
+Peter Rabbit,2018,"Animation, Adventure, Family",,"Will Gluck, Rob Lieber",3.5,Yes,3.5,3.5,3
+The Croods,2013,"Animation, Adventure, Family, Comedy",Chris Sanders,"Chris Sanders, John Cleese, Kirk DeMicco",4.5,Yes,4.5,4.5,4
+The Angry Birds Movie,2016,"Animation, Adventure, Comedy, Family",,"Jon Vitti, John Cohen, Mikael Hed, Mikko Pˆll‰",2.5,No,2.5,2.5,2
+Smurfs: The Lost Village,2017,"Family, Comedy, Adventure, Animation",Kelly Asbury,"Peyo, Pamela Ribon, Stacey Harman",2.5,No,2.5,2.5,2
+Rio,2011,"Animation, Adventure, Comedy, Family",,"Sam Harper, Earl Richey Jones, Don Rhymer, Carlos Saldanha, Todd Jones, Joshua Sternin, Jennifer Ventimilia, Mike Reiss",3,No,3,3.5,3
+Avatar,2009,"Science Fiction, Action, Adventure",James Cameron,James Cameron,2.5,No,2.5,2.5,2
+John Wick,2014,"Action, Thriller",,Derek Kolstad,3.5,Yes,3.5,3.5,3
+Pirates of the Caribbean: Dead Man's Chest,2006,"Adventure, Fantasy, Action",Gore Verbinski,"Ted Elliott, Terry Rossio, Jay Wolpert, Stuart Beattie",4,Yes,4,4.5,4
+Edge of Tomorrow,2014,"Action, Science Fiction",,"Christopher McQuarrie, Jez Butterworth, John-Henry Butterworth",3.5,No,3.5,3.5,3
+Godzilla vs. Kong,2021,"Action, Science Fiction, Adventure",Adam Wingard,"Zach Shields, Eric Pearson, Max Borenstein, Terry Rossio, Michael Dougherty",3.5,No,3.5,3.5,3
+Jurassic World: Fallen Kingdom,2018,"Action, Adventure, Science Fiction, Thriller",,"Derek Connolly, Colin Trevorrow, Michael Crichton",1.5,No,1.5,1.5,1
+Jurassic World Dominion,2022,"Adventure, Action, Science Fiction",Colin Trevorrow,"Emily Carmichael, Colin Trevorrow, Derek Connolly, Michael Crichton",2,No,2,2.5,2
+Pok√©mon Detective Pikachu,2019,"Action, Adventure, Fantasy",,"Dan Hernandez, Benji Samit, Nicole Perlman, Derek Connolly, Rob Letterman",3,Yes,3,3.5,3
+The Mummy,1999,"Adventure, Action, Fantasy",Stephen Sommers,Stephen Sommers,4.5,Yes,4.5,4.5,4
+Spectre,2015,"Action, Adventure, Thriller",,"John Logan, Ian Fleming, Neal Purvis, Robert Wade, Jez Butterworth",3,Yes,3,3.5,3
+Looper,2012,"Action, Thriller, Science Fiction",Rian Johnson,Rian Johnson,3,No,3,3.5,3
+Sherlock Holmes,2009,"Adventure, Crime, Mystery",,"Arthur Conan Doyle, Anthony Peckham, Michael Robert Johnson, Simon Kinberg",4,Yes,4,4.5,4
+Kong: Skull Island,2017,"Action, Adventure, Fantasy",Jordan Vogt-Roberts,"Max Borenstein, Dan Gilroy, John Gatins, Derek Connolly, Edgar Wallace, Merian C. Cooper",2.5,No,2.5,2.5,2
+Godzilla,2014,"Action, Drama, Science Fiction",,"David Callaham, Max Borenstein",3.5,Yes,3.5,3.5,3
+Now You See Me 2,2016,"Crime, Thriller",Jon M. Chu,"Ed Solomon, Peter Chiarelli, Boaz Yakin, Edward Ricourt",3.5,Yes,3.5,3.5,3
+King Kong,2005,"Adventure, Drama, Action",,"Peter Jackson, Fran Walsh, Philippa Boyens",4.5,Yes,4.5,4.5,4
+Rush,2013,"Drama, Action",Ron Howard,Peter Morgan,4,Yes,4,4.5,4
+Sherlock Holmes: A Game of Shadows,2011,"Adventure, Mystery, Action",,"Kieran Mulroney, Michele Mulroney, Arthur Conan Doyle",4.5,Yes,4.5,4.5,4
+Jurassic Park III,2001,"Adventure, Action, Thriller, Science Fiction",Joe Johnston,"Jim Taylor, Peter Buchman, Alexander Payne, Michael Crichton",4,Yes,4,4.5,4
+The Woman King,2022,"Action, Drama, History, War",,"Maria Bello, Dana Stevens",2.5,No,2.5,2.5,2
+Maze Runner: The Scorch Trials,2015,"Science Fiction, Action, Thriller, Adventure",Wes Ball,T.S. Nowlin,3,Yes,3,3.5,3
+Spy Kids,2001,"Family, Action, Comedy, Adventure, Science Fiction",,Robert Rodriguez,4,Yes,4,4.5,4
+Spy Kids 3-D: Game Over,2003,"Family, Action, Comedy, Adventure, Science Fiction",Robert Rodriguez,Robert Rodriguez,3.5,Yes,3.5,3.5,3
+Spy Kids 2: The Island of Lost Dreams,2002,"Family, Action, Adventure, Comedy, Science Fiction",,Robert Rodriguez,4,Yes,4,4.5,4
+Spy Kids: All the Time in the World,2011,"Family, Comedy, Action, Adventure",Robert Rodriguez,Robert Rodriguez,3.5,Yes,3.5,3.5,3
+Transformers: Revenge of the Fallen,2009,"Science Fiction, Action, Adventure",,"Ehren Kruger, Roberto Orci, Alex Kurtzman",4,Yes,4,4.5,4
+Tag,2018,"Comedy, Action",Jeff Tomsic,"Mark Steilen, Rob McKittrick",4.5,Yes,4.5,4.5,4
+Wanted,2008,"Action, Thriller, Crime",,"Derek Haas, Michael Brandt, Chris Morgan",4,Yes,4,4.5,4
+Ghost Rider,2007,"Thriller, Action, Fantasy",Mark Steven Johnson,Mark Steven Johnson,3.5,Yes,3.5,3.5,3
+Central Intelligence,2016,"Action, Comedy",,"Ike Barinholtz, David Stassen, Rawson Marshall Thurber",3,Yes,3,3.5,3
+Hulk,2003,"Science Fiction, Adventure, Action",Ang Lee,"Stan Lee, Jack Kirby, James Schamus, John Turman, Michael France",4,Yes,4,4.5,4
+Ben-Hur,1959,"History, Drama, Adventure",,Karl Tunberg,5,Yes,5,5,5
+Khichdi 2: Mission Paanthukistan,2023,"Comedy, Family",Aatish Kapadia,Aatish Kapadia,3.5,Yes,3.5,3.5,3
+Pushpaka Vimana,1987,"Comedy, Family, Drama",,S. Ravindranath,4,Yes,4,4.5,4
+Weekend at Bernie's,1989,"Comedy, Crime",Ted Kotcheff,Robert Klane,4,Yes,4,4.5,4
+Anacondas: The Hunt for the Blood Orchid,2004,"Adventure, Horror, Thriller",,"Michael Miner, Daniel Zelman, Edward Neumeier, John Claflin, Jim Cash, Hans Bauer, Jack Epps Jr.",4,Yes,4,4.5,4
+Anaconda 3: Offspring,2008,"Horror, Adventure, Thriller, TV Movie",Don E. FauntLeRoy,"Nicholas Davidoff, David C. Olson",3.5,Yes,3.5,3.5,3
+Anacondas: Trail of Blood,2009,"Adventure, Horror, Thriller, TV Movie",,David C. Olson,3.5,Yes,3.5,3.5,3
+Shrek the Third,2007,"Fantasy, Adventure, Animation, Comedy, Family",Chris Miller,"Peter S. Seaman, Jeffrey Price, Andrew Adamson, Ted Elliott, Terry Rossio, Roger S.H. Schulman, Aron Warner, Joe Stillman, Chris Miller",4,Yes,4,4.5,4
+Shrek Forever After,2010,"Comedy, Adventure, Fantasy, Animation, Family",,"Josh Klausner, Darren Lemke, Ted Elliott, Andrew Adamson, Terry Rossio, Roger S.H. Schulman, Joe Stillman",3.5,Yes,3.5,3.5,3
+Ralph Breaks the Internet,2018,"Animation, Family, Adventure, Science Fiction, Comedy",Rich Moore,"Pamela Ribon, Phil Johnston, Rich Moore, Jim Reardon, Josie Trinidad",3,No,3,3.5,3
+Madagascar,2005,"Animation, Adventure, Comedy, Family",,"Billy Frolick, Mark Burton, Tom McGrath, Eric Darnell",4,Yes,4,4.5,4
+Madagascar: Escape 2 Africa,2008,"Adventure, Animation, Comedy, Family",Tom McGrath,"Etan Cohen, Tom McGrath, Eric Darnell",4,Yes,4,4.5,4
+Madagascar 3: Europe's Most Wanted,2012,"Animation, Family, Comedy, Adventure",,"Eric Darnell, Noah Baumbach",4.5,Yes,4.5,4.5,4
+The Secret Life of Pets,2016,"Family, Comedy, Adventure, Animation",Chris Renaud,Brian Lynch,3.5,Yes,3.5,3.5,3
+Finding Nemo,2003,"Animation, Family, Adventure",,"Andrew Stanton, Bob Peterson, David Reynolds",3,No,3,3.5,3
+Cloudy with a Chance of Meatballs 2,2013,"Animation, Family, Comedy",Kris Pearn,"Judi Barrett, Ron Barrett, John Francis Daley, Jonathan Goldstein, Christopher Miller, Phil Lord, Erica Rivinoja",4.5,Yes,4.5,4.5,4
+Chicken Little,2005,"Animation, Family, Comedy",,"Mark Dindal, Steve Bencich, Mark Kennedy, Ron Anderson, Ron J. Friedman",4,Yes,4,4.5,4
+Ice Age: Dawn of the Dinosaurs,2009,"Animation, Comedy, Family, Adventure",Carlos Saldanha,"Peter Ackerman, Michael Berg, Jason Carter Eaton, Yoni Brenner, Mike Reiss, Michael J. Wilson",4,Yes,4,4.5,4
+Treasure Planet,2002,"Science Fiction, Adventure, Animation, Family, Fantasy",,"Ron Clements, Rob Edwards, John Musker, Terry Rossio, Ted Elliott",4.5,Yes,4.5,4.5,4
+Mr. Peabody & Sherman,2014,"Animation, Science Fiction, Comedy, Adventure, Family",Rob Minkoff,"Craig Wright, Ted Key",5,Yes,5,5,5
+Bolt,2008,"Animation, Family, Adventure, Comedy",,"Dan Fogelman, Chris Williams",3,Yes,3,3.5,3
+Ferdinand,2017,"Animation, Family, Adventure, Comedy",Carlos Saldanha,"David Kidd, Ron Burch, Don Rhymer, Robert L. Baird, Tim Federle, Brad Copeland",3.5,No,3.5,3.5,3
+Shang-Chi and the Legend of the Ten Rings,2021,"Action, Adventure, Fantasy",,"Destin Daniel Cretton, David Callaham, Andrew Lanham, Steve Englehart, Jim Starlin",3.5,No,3.5,3.5,3
+Spies in Disguise,2019,"Animation, Action, Adventure, Comedy, Family",Nick Bruno,"Brad Copeland, Lloyd Taylor",2.5,No,2.5,2.5,2
+Atlantis: The Lost Empire,2001,"Animation, Family, Adventure, Science Fiction",,"Tab Murphy, Kirk Wise, Gary Trousdale, Joss Whedon, Bryce Zabel, Jackie Zabel",4,Yes,4,4.5,4
+Army of the Dead,2021,"Crime, Action, Horror",Zack Snyder,"Zack Snyder, Shay Hatten, Joby Harold",4,Yes,4,4.5,4
+World War Z,2013,"Action, Horror, Science Fiction, Thriller",,"Damon Lindelof, Drew Goddard, Matthew Michael Carnahan",4.5,Yes,4.5,4.5,4
+Train to Busan,2016,"Horror, Thriller, Action, Adventure",Yeon Sang-ho,Park Joo-suk,4,Yes,4,4.5,4
+Zombieland,2009,"Comedy, Horror",,"Paul Wernick, Rhett Reese",4.5,Yes,4.5,4.5,4
+Zombieland: Double Tap,2019,"Horror, Comedy",Ruben Fleischer,"David Callaham, Rhett Reese, Paul Wernick",4,Yes,4,4.5,4
+Dishoom,2016,"Comedy, Action",,"Rohit Dhawan, Tushar Hiranandani",3,Yes,3,3.5,3
+Mom,2017,"Drama, Romance",Lee Dong-Joon,Unknown,3,No,3,3.5,3
+Bachchhan Paandey,2022,"Comedy, Action, Crime",,"Sajid Nadiadwala, Farhad Samji",0.5,No,0.5,0.5,0
+Khuda Haafiz,2020,"Action, Thriller",Faruk Kabir,"Faruk Kabir, Zaheer Abass Qureshi",3,Yes,3,3.5,3
+Shivaay,2016,"Adventure, Action, Drama, Thriller",,"Sandeep Srivastava, Ajay Devgn",4,Yes,4,4.5,4
+Bodyguard,2011,Comedy,William Clemens,"Edmund L. Hartmann, Art Arthur, Vera Caspary",1.5,No,1.5,1.5,1
+Force 2,2016,"Action, Adventure, Crime",,"Jasmeet K Reen, Parveez Shaikh",3.5,Yes,3.5,3.5,3
+Force,2011,"Animation, Family, Action, Adventure, Fantasy",Thomas Astruc,"Thomas Astruc, Jun Violet, SÈbastien Thibaudeau",3.5,Yes,3.5,3.5,3
+Bard of Blood,2019,"Comedy, Horror",,"Harry Rushton, Holly Lear, Eric Richardson",4,Yes,4,4.5,4
+Bell Bottom,2021,"Action, Thriller",Ranjit Tiwari,"Aseem Arora, Parveez Shaikh",2,No,2,2.5,2
+Commando 3,2019,"Action, Thriller",,Unknown,3,No,3,3.5,3
+Commando 2 - The Black Money Trail,2017,"Action, Thriller",Deven Bhojani,"Vipul Amrutlal Shah, Ritesh Shah",4,Yes,4,4.5,4
+Commando - A One Man Army,2013,Action,,Ritesh Shah,4,Yes,4,4.5,4
+Tiger Zinda Hai,2017,"Action, Adventure, Thriller",Ali Abbas Zafar,"Abdul Rafay Chandio Baloch, Aditya Chopra, Neelesh Misra, Ali Abbas Zafar",3,No,3,3.5,3
+Tiger 3,2023,"Action, Adventure, Thriller",,"Aditya Chopra, Shridhar Raghavan",0.5,No,0.5,0.5,0
+Ek Tha Tiger,2012,"Action, Thriller, Romance",Kabir Khan,"Aditya Chopra, Kabir Khan, Neelesh Misra",3.5,Yes,3.5,3.5,3
+Agent Vinod,2012,"Action, Adventure, Thriller, Romance",,"Sriram Raghavan, Arijit Biswas",4,Yes,4,4.5,4
+Phantom,2015,Thriller,Todd Robinson,Todd Robinson,4,Yes,4,4.5,4
+Paatal Lok,2020,Not Found,,Not Found,3.5,No,3.5,3.5,3
+Jai Bhim,2021,"Crime, Drama, Mystery, History",T. J. Gnanavel,T. J. Gnanavel,3.5,Yes,3.5,3.5,3
+Batla House,2019,"Action, Drama, Thriller",,Ritesh Shah,4,Yes,4,4.5,4
+Chakravyuh,2012,Thriller,Prakash Jha,"Prakash Jha, Anjum Rajabali, Sagar Pandya",4,Yes,4,4.5,4
+Madras Cafe,2013,"Thriller, Drama, Action",,"Shubendu Bhattacharya, Somnath Dey",3.5,Yes,3.5,3.5,3
+Anek,2022,"Action, Thriller",Anubhav Sinha,"Anubhav Sinha, Sima Agarwal, Yash Keswani",1,No,1,1.5,1
+Newton,2017,"Comedy, Drama",,"Amit Masurkar, Mayank Tewari",4.5,Yes,4.5,4.5,4
+Rang De Basanti,2006,"Comedy, Drama, History, Romance",Rakeysh Omprakash Mehra,"Rakeysh Omprakash Mehra, Kamlesh Pandey, Renzil D'Silva",4,Yes,4,4.5,4
+Laal Singh Chaddha,2022,"Drama, Romance, Comedy",,Atul Kulkarni,2,No,2,2.5,2
+Raid,2018,"Crime, Drama, Thriller",Raj Kumar Gupta,"Ritesh Shah, Aseem Arora, Prashant Pandey, Raj Kumar Gupta",4,Yes,4,4.5,4
+Drishyam 2,2021,"Thriller, Drama, Mystery",,"Aamil Keyan Khan, Abhishek Pathak, Jeethu Joseph",4,Yes,4,4.5,4
+Dhamaka,2021,"Action, Comedy",Trinadha Rao Nakkina,"Sai Krishna, Prasanna Kumar Bejawada",4,Yes,4,4.5,4
+Mardaani,2014,"Action, Crime, Thriller",,"Aayush Gupta, Deepak Kingrani, Baljeet Singh Marwah",3.5,Yes,3.5,3.5,3
+Mardaani 2,2019,"Action, Crime, Thriller",Gopi Puthran,Gopi Puthran,4,Yes,4,4.5,4
+Atithi Tum Kab Jaoge?,2010,Comedy,,"Robin Bhatt, Tushar Hiranandani",4.5,No,4.5,4.5,4
+Thor: The Dark World,2013,"Action, Adventure, Fantasy",Alan Taylor,"Don Payne, Christopher Markus, Stephen McFeely, Walt Simonson, Christopher L. Yost, Robert Rodat",1.5,No,1.5,1.5,1
+Rushmore,1998,"Comedy, Drama",,"Wes Anderson, Owen Wilson",3,No,3,3.5,3
+The Swan,2023,"Drama, Thriller",Wes Anderson,Wes Anderson,3.5,No,3.5,3.5,3
+The Rat Catcher,2023,Comedy,,Wes Anderson,3.5,Yes,3.5,3.5,3
+M*A*S*H,1970,"Comedy, Drama, War",Robert Altman,"Ring Lardner, Jr.",5,No,5,5,5
+Band Baaja Baaraat,2010,"Comedy, Drama, Romance",,"Habib Faisal, Maneesh Sharma",3.5,No,3.5,3.5,3
+Chintu Ka Birthday,2020,Drama,Satyanshu Singh,"Devanshu Singh, Satyanshu Singh",2.5,No,2.5,2.5,2
+Rocket Singh: Salesman of the Year,2009,"Drama, Comedy, Romance",,Jaideep Sahni,4.5,Yes,4.5,4.5,4
+Do Dooni Chaar,2010,"Drama, Comedy",Habib Faisal,"Habib Faisal, Rahil Qazi",3,Yes,3,3.5,3
+Manorama Six Feet Under,2007,"Thriller, Crime, Mystery, Drama",,"Devika Bhagat, Navdeep Singh",5,Yes,5,5,5
+Pagglait,2021,"Drama, Comedy",Umesh Bist,Umesh Bist,4,Yes,4,4.5,4
+Vicky Donor,2012,"Comedy, Romance",,Juhi Chaturvedi,4,Yes,4,4.5,4
+Secret Superstar,2017,"Drama, Music",Advait Chandan,Advait Chandan,4,No,4,4.5,4
+Kaamyaab,2018,"Comedy, Drama",,Hardik Mehta,4,Yes,4,4.5,4
+Hichki,2018,"Drama, Comedy",Siddharth P. Malhotra,"Anckur Chaudhry, Siddharth P. Malhotra, Ambar Hadap",2.5,No,2.5,2.5,2
+Rockstar,2011,"Drama, Music, Romance",,Imtiaz Ali,3,No,3,3.5,3
+Dil Bechara,2020,"Drama, Romance",Mukesh Chhabra,"Suprotim Sengupta, Shashank Khaitan",2,No,2,2.5,2
+Bhaag Milkha Bhaag,2013,"History, Drama",,Prasoon Joshi,3,No,3,3.5,3
+Mujhse Shaadi Karogi,2004,"Romance, Comedy",David Dhawan,Anees Bazmee,3.5,Yes,3.5,3.5,3
+Bulbbul,2020,"Horror, Fantasy, Thriller",,Anvita Dutt,1,No,1,1.5,1
+Luka Chuppi,2019,"Comedy, Romance",Laxman Utekar,Rohan Shankar,3,Yes,3,3.5,3
+Bareilly Ki Barfi,2017,"Comedy, Romance",,"Ashwiny Iyer Tiwari, Nitesh Tiwari, Rajat Nonia, Shreyas Jain",3.5,Yes,3.5,3.5,3
+Super 30,2019,Drama,Vikas Bahl,"Vikas Bahl, Farhad Samji",3.5,Yes,3.5,3.5,3
+Badhaai Do,2022,"Comedy, Drama",,"Akshat Ghildial, Suman Adhikary, Harshavardhan Kulkarni",0.5,No,0.5,0.5,0
+Shubh Mangal Zyada Saavdhan,2020,"Comedy, Romance",Hitesh Kewalya,Hitesh Kewalya,3.5,Yes,3.5,3.5,3
+Shubh Mangal Saavdhan,2017,"Romance, Comedy",,"Hitesh Kewalya, R. S. Prasanna",4,Yes,4,4.5,4
+Jayeshbhai Jordaar,2022,"Comedy, Drama",Divyang Thakkar,Divyang Thakkar,2,No,2,2.5,2
+Veere Di Wedding,2018,"Drama, Comedy",,"Nidhi Mehra, Mehul Suri",0.5,No,0.5,0.5,0
+Badrinath Ki Dulhania,2017,"Drama, Comedy, Romance",Shashank Khaitan,Shashank Khaitan,2.5,No,2.5,2.5,2
+Good Newwz,2019,"Romance, Comedy, Family, Drama",,"Jyoti Kapoor, Raj Mehta, Rishabh Sharma",1,No,1,1.5,1
+2 States,2014,"Comedy, Romance, Drama",Abhishek Varman,Abhishek Varman,4,Yes,4,4.5,4
+Doctor G,2022,"Comedy, Drama",,"Saurabh Bharat, Vishal Wagh, Anubhuti Kashyap, Sumit Saxena",1.5,No,1.5,1.5,1
+Manjhi: The Mountain Man,2015,Drama,Ketan Mehta,"Ketan Mehta, Jakhar Mahendar, Anjum Rajabali",4,Yes,4,4.5,4
+Bajrangi Bhaijaan,2015,"Comedy, Drama, Adventure",,"Kabir Khan, Vijayendra Prasad, Parveez Sheikh, Asad Hussain",4,Yes,4,4.5,4
+Nayak: The Real Hero,2001,"Drama, Thriller, Action",Shankar,Shankar,4,Yes,4,4.5,4
+Tanu Weds Manu,2011,"Comedy, Romance, Drama",,Himanshu Sharma,4,Yes,4,4.5,4
+Once Upon a Time in Mumbaai,2010,"Drama, Thriller, Crime",Milan Luthria,Rajat Arora,4.5,Yes,4.5,4.5,4
+Tanu Weds Manu: Returns,2015,"Comedy, Romance",,Himanshu Sharma,3.5,Yes,3.5,3.5,3
+Bheja Fry,2007,Comedy,Sagar Ballary,Sagar Ballary,3.5,No,3.5,3.5,3
+Mughal-e-Azam,1960,"Drama, Romance",,K. Asif,5,Yes,5,5,5
+Purana Mandir,1984,Horror,Shyam Ramsay,"Kumar Ramsay, J.K. Ahuja",3.5,Yes,3.5,3.5,3
+Ferrari Ki Sawaari,2012,"Family, Comedy",,"Rajesh Mapuskar, Vidhu Vinod Chopra",3.5,Yes,3.5,3.5,3
+OMG: Oh My God!,2012,"Comedy, Drama",Umesh Shukla,Umesh Shukla,5,Yes,5,5,5
+Chameli,2003,"Drama, Romance",,"Shivkumar Subramaniam, Sudhir Mishra",3.5,Yes,3.5,3.5,3
+Serious Men,2020,"Drama, Comedy",Sudhir Mishra,"Abhijeet Khuman, Bhavesh Mandalia, Nikhil Nair, Niren Bhatt",4,Yes,4,4.5,4
+Shuddh Desi Romance,2013,"Drama, Romance",,Jaideep Sahni,2.5,Yes,2.5,2.5,2
+Ab Tak Chhappan,2004,"Crime, Drama",Shimit Amin,Sandeep Srivastava,4.5,Yes,4.5,4.5,4
+Hawaa Hawaai,2014,"Drama, Family",,Amole Gupte,2,No,2,2.5,2
+Badlapur,2015,"Crime, Thriller, Action, Drama",Sriram Raghavan,Shridhar Raghavan,4.5,Yes,4.5,4.5,4
+Socha Na Tha,2005,"Drama, Comedy, Romance",,Imtiaz Ali,3.5,No,3.5,3.5,3
+Nil Battey Sannata,2016,"Drama, Family",Ashwiny Iyer Tiwari,"Neeraj Singh, Nitesh Tiwari, Pranjal Choudhary, Ashwiny Iyer Tiwari",3.5,Yes,3.5,3.5,3
+Raman Raghav 2.0,2016,"Thriller, Crime",,"Anurag Kashyap, Vasan Bala",4,Yes,4,4.5,4
+Darlings,2022,Comedy,Jasmeet K Reen,"Parveez Shaikh, Jasmeet K Reen",4,Yes,4,4.5,4
+The Body,2019,"Drama, Mystery, Romance, Thriller",,Jonas McCord,2,No,2,2.5,2
+Sui Dhaaga - Made in India,2018,"Comedy, Drama, Family",Sharat Katariya,Sharat Katariya,3.5,Yes,3.5,3.5,3
+1920 London,2016,Horror,,"Tanya Pathak, Vikram Bhatt, Sukhmani Sadana",0.5,No,0.5,0.5,0
+Baaghi,2016,"Action, Thriller, Romance, Adventure",Sabbir Khan,Sanjeev Dutta,3,Yes,3,3.5,3
+Khoobsurat,2014,"Comedy, Romance, Family",,Sanjay Chhel,3.5,Yes,3.5,3.5,3
+Darr @ the Mall,2014,"Horror, Thriller",Pavan Kirpalani,Unknown,2.5,No,2.5,2.5,2
+Gabbar Is Back,2015,"Drama, Action",,"A. R. Murugadoss, Rajat Arora",4,Yes,4,4.5,4
+Dhoom 3,2013,"Action, Crime",Vijay Krishna Acharya,Vijay Krishna Acharya,1,No,1,1.5,1
+Talaash,2012,"Crime, Drama, Thriller",,"Zoya Akhtar, Reema Kagti",1,No,1,1.5,1
+ABCD,2013,Drama,Krutin Patel,"Krutin Patel, James McManus",4,Yes,4,4.5,4
+1920: Evil Returns,2012,"Thriller, Horror, Romance",,"Vikram Bhatt, Renzil D'Silva",4.5,Yes,4.5,4.5,4
+I Hate Luv Storys,2010,"Comedy, Drama, Romance",Punit Malhotra,Punit Malhotra,3.5,Yes,3.5,3.5,3
+Dil Bole Hadippa!,2009,"Romance, Comedy, Drama",,Aparajita Ghosh Das,3.5,Yes,3.5,3.5,3
+Dhoom,2004,"Action, Comedy",Aditya Chopra,"Aditya Chopra, Shridhar Raghavan",4.5,Yes,4.5,4.5,4
+Raaz,2002,"Thriller, Horror",,Mahesh Bhatt,5,Yes,5,5,5
+1920,2008,"Drama, Crime",Leong Po-Chih,"Michael Laughlin, Timothy R. Long",5,Yes,5,5,5
+Aamdani Atthanni Kharcha Rupaiya,2001,Comedy,,Unknown,4,Yes,4,4.5,4
+Ishq,1997,"Comedy, Romance, Drama, Action",Indra Kumar,Rajeev Kaul,3,Yes,3,3.5,3
+ABCD 2,2015,Drama,,"Remo D'Souza, Tushar Hiranandani",2.5,No,2.5,2.5,2
+Deewane Huye Paagal,2005,"Comedy, Drama, Romance",Vikram Bhatt,Kiran Kotrial,2,No,2,2.5,2
+Kick,2014,"Action, Crime",,"Jane Goldman, Matthew Vaughn",3.5,Yes,3.5,3.5,3
+Housefull 2,2012,"Comedy, Romance",Sajid Khan,"Tushar Hiranandani, Sajid Nadiadwala, Sajid Khan, Farhad Samji, Sajid Samji",4,Yes,4,4.5,4
+Action Replayy,2010,"Comedy, Romance, Science Fiction",,"Aatish Kapadia, Suresh Nair, Vipul Amrutlal Shah",3,Yes,3,3.5,3
+Naam Shabana,2017,Thriller,Shivam Nair,Neeraj Pandey,4,Yes,4,4.5,4
+It's Entertainment,2014,Comedy,,"Sajid Samji, Farhad Samji, K. Subash",3,Yes,3,3.5,3
+Singh Is Bliing,2015,"Action, Comedy",Prabhu Deva,Prabhu Deva,3.5,Yes,3.5,3.5,3
+Joker,2012,"Crime, Thriller, Drama",,"Scott Silver, Todd Phillips, Bill Finger, Bob Kane, Jerry Robinson",3,Yes,3,3.5,3
+Raajneeti,2010,"Drama, Thriller",Prakash Jha,"Prakash Jha, Anjum Rajabali",4.5,Yes,4.5,4.5,4
+Game,2011,"History, Drama, Thriller, War",,Graham Moore,3.5,Yes,3.5,3.5,3
+Raaz 3,2012,"Horror, Thriller",Vikram Bhatt,Shagufta Rafique,3.5,Yes,3.5,3.5,3
+Darna Mana Hai,2003,Horror,,"Atul Sabharwal, Abbas Tyrewala",2,No,2,2.5,2
+Bullett Raja,2013,"Action, Crime, Drama",Tigmanshu Dhulia,Amaresh Misra,2.5,No,2.5,2.5,2
+Shagird,2011,,,Unknown,4.5,Yes,4.5,4.5,4
+Criminal Justice,2019,"Crime, Documentary",Kelley Baker,Kelley Baker,3,No,3,3.5,3
+Phata Poster Nikhla Hero,2013,"Action, Comedy",,Rajkumar Santoshi,1,No,1,1.5,1
+China Gate,1998,"Action, War, Drama",Samuel Fuller,Samuel Fuller,2.5,No,2.5,2.5,2
+Romeo Akbar Walter,2019,"Action, Thriller",,Robby Grewal,3.5,No,3.5,3.5,3
+Ek Villain,2014,"Romance, Action, Crime, Thriller",Mohit Suri,Tushar Hiranandani,4,Yes,4,4.5,4
+Chance Pe Dance,2010,"Music, Romance, Drama",,Unknown,2,No,2,2.5,2
+Ghanchakkar,2013,"Comedy, Crime, Thriller",Raj Kumar Gupta,"Parveez Sheikh, Raj Kumar Gupta",4,Yes,4,4.5,4
+Bobby Jasoos,2014,"Drama, Action, Comedy",,"Sanyukta Shaikh Chawla, Samar Shaikh",2,No,2,2.5,2
+Ungli,2014,"Thriller, Comedy, Drama",Renzil D'Silva,Renzil D'Silva,4,Yes,4,4.5,4
+R... Rajkumar,2013,"Action, Romance",,"Ravi S. Sundaram, Prabhu Deva, Sunil Kumar Agrawal",1,No,1,1.5,1
+Rakht,2004,"Thriller, Horror",Mahesh Manjrekar,"Deepak Kulkarni, Vinay, Yash",1.5,No,1.5,1.5,1
+Gadar: Ek Prem Katha,2001,"Action, Drama, Romance, History",,Shaktimaan Talwar,4,Yes,4,4.5,4
+Ittefaq,2017,Thriller,Sanjay Khanna,"Imtiaz Patel, Yunus Sajawal, Sameer",2,Yes,2,2.5,2
+Yavarum Nalam,2009,"Mystery, Horror",,Vikram Kumar,1.5,No,1.5,1.5,1
+Ramaiya Vastavaiya,2013,"Romance, Action, Comedy",Prabhu Deva,"Shiraz Ahmed, Veeru Potla",1.5,No,1.5,1.5,1
+Akira,2016,"Animation, Science Fiction, Action",,"Izo Hashimoto, Katsuhiro Otomo",2.5,No,2.5,2.5,2
+Door Ke Darshan,2020,"Comedy, Drama",Gagan Puri,Unknown,2,No,2,2.5,2
+Chaman Bahaar,2020,Drama,,Apurva Dhar Badgaiyann,3,Yes,3,3.5,3
+Ek Thi Daayan,2013,"Horror, Romance, Thriller",Kannan Iyer,"Vishal Bhardwaj, Mukul Sharma",4,Yes,4,4.5,4
+Mr. X,2015,Action,,George Tan,0.5,No,0.5,0.5,0
+Haseen Dillruba,2021,"Romance, Mystery, Thriller",Vinil Mathew,Kanika Dhillon,4,Yes,4,4.5,4
+Parmanu: The Story of Pokhran,2018,"Drama, History, Thriller",,"Abhishek Sharma, Saiwyn Quadras, Sanyukta Shaikh Chawla",3.5,Yes,3.5,3.5,3
+Ragini MMS 2,2014,Horror,Bhushan Patel,"Ishita Moitra, Tanveer Bookwala",3.5,Yes,3.5,3.5,3
+Alone,2015,"Horror, Thriller",,Martin Melnick,1,No,1,1.5,1
+Gumnaam,1965,"Crime, Mystery, Romance",Neeraj Pathak,Neeraj Pathak,5,Yes,5,5,5
+Jajantaram Mamantaram,2003,"Family, Fantasy",,Soumitra Ranade,3,No,3,3.5,3
+Kaun?,1999,Horror,Deepak Ramsay,Unknown,3,No,3,3.5,3
+Blackmail,2018,"Thriller, Action, Drama",,"Javed Siddiqui, Robin Bhatt",4,Yes,4,4.5,4
+Dhoom 2,2006,"Drama, Action, Thriller, Crime",Sanjay Gadhvi,"Vijay Krishna Acharya, Aditya Chopra",4,Yes,4,4.5,4
+Masti,2004,"Comedy, Crime, Mystery",,"Milap Zaveri, Tushar Hiranandani",4,Yes,4,4.5,4
+Grand Masti,2013,"Comedy, Romance",Indra Kumar,"Milap Zaveri, Tushar Hiranandani",2,No,2,2.5,2
+Great Grand Masti,2016,"Comedy, Fantasy, Horror",,"Indra Kumar, Robin Bhatt, Aakash Kaushik",0.5,No,0.5,0.5,0
+Thank God,2022,Comedy,Indra Kumar,"Madhur Sharma, Aakash Kaushik",2.5,No,2.5,2.5,2
+Baadshaho,2017,"Action, Thriller",,Rajat Arora,3.5,Yes,3.5,3.5,3
+Once Upon a Time in Mumbai Dobaara!,2013,"Action, Crime, Drama",Milan Luthria,Rajat Arora,0.5,No,0.5,0.5,0
+Kachche Dhaage,1999,"Action, Drama, Romance",,"Anjum Rajabali, Sanjay Chhel",3,Yes,3,3.5,3
+Mission Mangal,2019,"Drama, History",Jagan Shakti,"Jagan Shakti, Nidhi Singh Dharma, Saketh Kondiparthi",3.5,Yes,3.5,3.5,3
+Heyy Babyy,2007,"Comedy, Drama, Romance",,"Sajid Khan, Milap Zaveri",3.5,Yes,3.5,3.5,3
+Tumhari Sulu,2017,"Comedy, Drama",Suresh Triveni,Suresh Triveni,3,No,3,3.5,3
+Salaam-e-Ishq,2007,"Comedy, Drama, Romance",,"Nikkhil Advani, Suresh Nair, Saurabh Shukla",2.5,No,2.5,2.5,2
+Patiala House,2011,Drama,Nikkhil Advani,Nikkhil Advani,2.5,Yes,2.5,2.5,2
+Shaadi Ke Side Effects,2014,"Comedy, Romance",,"Saket Chaudhary, Arshad Sayed, Zeenat Lakhani",3.5,Yes,3.5,3.5,3
+Halla Bol,2008,Drama,Rajkumar Santoshi,Rajkumar Santoshi,2.5,No,2.5,2.5,2
+Chachi 420,1997,"Comedy, Drama, Family",,Kamal Haasan,4.5,Yes,4.5,4.5,4
+De De Pyaar De,2019,"Romance, Comedy",Akiv Ali,"Luv Ranjan, Tarun Jain",1,No,1,1.5,1
+Baby's Day Out,1994,"Comedy, Adventure, Family, Crime",,John Hughes,4.5,Yes,4.5,4.5,4
+Mr. Bean's Holiday,2007,"Family, Comedy",Steve Bendelack,"Robin Driscoll, Hamish McColl, Simon McBurney",5,Yes,5,5,5
+Bean,1997,"Family, Adventure, Comedy",,"Robin Driscoll, Richard Curtis",5,Yes,5,5,5
+Final Destination,2000,"Horror, Mystery",Adam B. Stein,"Guy Busick, Jon Watts, Lori Evans Taylor, Jeffrey Reddick",4,Yes,4,4.5,4
+Final Destination 2,2003,"Horror, Mystery",,"Eric Bress, Jeffrey Reddick, J. Mackye Gruber",4.5,Yes,4.5,4.5,4
+Final Destination 3,2006,"Horror, Mystery",James Wong,"James Wong, Glen Morgan, Jeffrey Reddick",4.5,Yes,4.5,4.5,4
+Final Destination 5,2011,"Horror, Mystery",,"Eric Heisserer, Jeffrey Reddick",4,Yes,4,4.5,4
+The Final Destination,2009,"Horror, Mystery",David R. Ellis,"Eric Bress, Jeffrey Reddick",4.5,Yes,4.5,4.5,4
+Johnny English,2003,"Adventure, Action, Comedy",,"Neal Purvis, Robert Wade, William Davies",4,Yes,4,4.5,4
+Johnny English Reborn,2011,"Crime, Action, Comedy",Oliver Parker,"William Davies, Hamish McColl, Neal Purvis, Robert Wade",4.5,Yes,4.5,4.5,4
+Johnny English Strikes Again,2018,"Action, Adventure, Comedy",,"William Davies, Neal Purvis, Robert Wade",4,Yes,4,4.5,4
+Man vs Bee,2022,Not Found,Not Found,Not Found,3,Yes,3,3.5,3
+Blackhat,2015,"Crime, Thriller, Action",,Morgan Davis Foehl,4,Yes,4,4.5,4
+Eagle Eye,2008,"Mystery, Thriller, Action",D.J. Caruso,"Travis Wright, Dan McDermott, John Glenn, Hillary Seitz",4,Yes,4,4.5,4
+Skyscraper,2018,"Action, Thriller, Adventure",,Rawson Marshall Thurber,3.5,Yes,3.5,3.5,3
+Speed,1994,"Action, Thriller",Jan de Bont,Graham Yost,5,Yes,5,5,5
+Fast & Furious Presents: Hobbs & Shaw,2019,"Action, Adventure, Comedy",,"Gary Scott Thompson, Chris Morgan, Drew Pearce",3.5,Yes,3.5,3.5,3
+G.I. Joe: Retaliation,2013,"Action, Science Fiction, Adventure, Thriller",Jon M. Chu,"Paul Wernick, Rhett Reese",4,Yes,4,4.5,4
+G.I. Joe: The Rise of Cobra,2009,"Adventure, Action, Thriller, Science Fiction",,"Stuart Beattie, David Elliot, Paul Lovett, Michael B. Gordon, Stephen Sommers",4,Yes,4,4.5,4
+Total Recall,2012,"Action, Adventure, Science Fiction",Paul Verhoeven,"Dan O'Bannon, Ronald Shusett, Gary Goldman",4,Yes,4,4.5,4
+Escape Plan,2013,"Action, Thriller",,Jason Keller,4.5,Yes,4.5,4.5,4
+Escape Plan 2: Hades,2018,"Action, Thriller, Crime, Mystery, Science Fiction",Steven C. Miller,Unknown,3.5,Yes,3.5,3.5,3
+Escape Plan: The Extractors,2019,"Action, Thriller, Crime",,John Herzfeld,2,No,2,2.5,2
+Abduction,2011,"Thriller, Action, Mystery",John Singleton,Shawn Christensen,4,Yes,4,4.5,4
+Zathura: A Space Adventure,2005,"Science Fiction, Adventure, Family",,"John Kamps, David Koepp",5,Yes,5,5,5
+Journey to the Center of the Earth,2008,"Action, Science Fiction, Adventure, Comedy, Family",Eric Brevig,"Michael D. Weiss, Jennifer Flackett, Mark Levin",4,Yes,4,4.5,4
+Journey 2: The Mysterious Island,2012,"Adventure, Action, Science Fiction",,"Mark Gunn, Brian Gunn, Richard Outten",4.5,Yes,4.5,4.5,4
+The Lion King,2019,"Animation, Family, Drama",Roger Allers,"Linda Woolverton, Irene Mecchi, Jonathan Roberts, Rick Maki, Andrew Gaskill, Kevin Harkey, Chris Sanders, Larry Leker, Ed Gombert, Burny Mattinson, Lorna Cook, Joe Ranft, J¯rgen Klubien, Tom Sito, Mark Kausler, Jim Capobianco, Francis Glebas, Barry Johnson, Thom Enriquez, Gary Trousdale",2.5,Yes,2.5,2.5,2
+Aladdin,2019,"Animation, Family, Adventure, Fantasy, Romance",,"Ron Clements, Ted Elliott, Terry Rossio, John Musker, Burny Mattinson, Roger Allers, Daan Jippes, Kevin Harkey, Sue C. Nichols, Francis Glebas, Darrell Rooney, Larry Leker, James Fujii, Kirk Hanson, Kevin Lima, Rebecca Reese, David Scott Smith, Chris Sanders, Brian Pimental, Patrick A. Ventura",1.5,Yes,1.5,1.5,1
+Tarzan,1999,"Animation, Family, Adventure",Chris Buck,"Bob Tzudiker, Tab Murphy, Noni White, Edgar Rice Burroughs",4.5,Yes,4.5,4.5,4
+The Jungle Book,1967,"Family, Adventure, Fantasy",,Justin Marks,3,No,3,3.5,3
+Toy Story 3,2010,"Animation, Family, Comedy",Lee Unkrich,"Michael Arndt, John Lasseter, Andrew Stanton, Lee Unkrich",3,No,3,3.5,3
+John Carter,2012,"Action, Adventure, Science Fiction",,"Andrew Stanton, Mark Andrews, Michael Chabon",4,Yes,4,4.5,4
+The Hundred-Foot Journey,2014,"Drama, Comedy",Lasse Hallstrˆm,Steven Knight,4,Yes,4,4.5,4
+The Adventures of Sharkboy and Lavagirl,2005,"Adventure, Family, Science Fiction",,"Robert Rodriguez, Marcel Rodriguez, Racer Rodriguez",4.5,Yes,4.5,4.5,4
+Sky High,2005,"Adventure, Comedy, Family",Mike Mitchell,"Paul Hernandez, Bob Schooley, Mark McCorkle",3.5,Yes,3.5,3.5,3
+Shazam!,2019,"Action, Comedy, Fantasy",,"Henry Gayden, Bill Parker, C.C. Beck, Darren Lemke",3.5,Yes,3.5,3.5,3
+Zoom,2006,"Family, Comedy, Adventure, Action, Science Fiction",Peter Hewitt,"Adam Rifkin, David Berenbaum, J. David Stem, David N. Weiss",2,No,2,2.5,2
+Diary of a Wimpy Kid,2010,"Comedy, Family",,"Jackie Filgo, Jeff Filgo, Gabe Sachs, Jeff Judah",3.5,Yes,3.5,3.5,3
+Diary of a Wimpy Kid: Rodrick Rules,2011,"Family, Comedy",David Bowers,"Gabe Sachs, Jeff Judah",3.5,Yes,3.5,3.5,3
+Diary of a Wimpy Kid: Dog Days,2012,"Comedy, Family",,"Maya Forbes, Wallace Wolodarsky",4,Yes,4,4.5,4
+Diary of a Wimpy Kid: The Long Haul,2017,"Comedy, Family, Adventure",David Bowers,"David Bowers, Jeff Kinney",3,No,3,3.5,3
+American Pie Presents: The Naked Mile,2006,Comedy,,"Adam Herz, Erik Lindsay",2.5,No,2.5,2.5,2
+Billy Madison,1995,Comedy,Tamra Davis,"Adam Sandler, Tim Herlihy",3.5,Yes,3.5,3.5,3
+Scary Movie,2000,Comedy,,"Phil Beauman, Marlon Wayans, Shawn Wayans, Jason Friedberg, Buddy Johnson, Aaron Seltzer",3.5,Yes,3.5,3.5,3
+Ki & Ka,2016,"Comedy, Romance",R. Balki,R. Balki,2.5,No,2.5,2.5,2
+Aarakshan,2011,"Drama, Thriller",,"Anjum Rajabali, Prakash Jha",4,Yes,4,4.5,4
+Satyagraha,2013,Drama,Prakash Jha,"Anjum Rajabali, Prakash Jha",3,Yes,3,3.5,3
+Yamla Pagla Deewana 2,2013,"Action, Comedy",,Unknown,3.5,Yes,3.5,3.5,3
+Yamla Pagla Deewana: Phir Se,2018,"Comedy, Drama",Navaniat Singh,Dheeraj Rattan,1,No,1,1.5,1
+Mohalla Assi,2018,Drama,,"Dr. Chandraprakash Dwivedi, Kashi Nath Singh",4.5,Yes,4.5,4.5,4
+Poster Boys,2017,"Drama, Comedy",Dave Minogue,Dave Minogue,4,Yes,4,4.5,4
+The Hero: Love Story of a Spy,2003,"Thriller, Action, Adventure, Romance",,Shaktimaan Talwar,3.5,Yes,3.5,3.5,3
+Liar Liar,1997,Comedy,Tom Shadyac,"Paul Guay, Stephen Mazur",4,Yes,4,4.5,4
+No Hard Feelings,2023,"Comedy, Romance",,"John Phillips, Gene Stupnitsky",2,No,2,2.5,2
+Holiday,2014,"Romance, Comedy, Drama",William Wyler,"John Dighton, Ian McLellan Hunter, Dalton Trumbo",4,Yes,4,4.5,4
+Dulhe Raja,1998,"Comedy, Romance",,Rajeev Kaul,4,Yes,4,4.5,4
+Jodi No. 1,2001,"Comedy, Romance",David Dhawan,Imtiaz Patel,3.5,Yes,3.5,3.5,3
+Swarg,1990,"Drama, Family",,"Nandu G. Tolani, Anees Bazmee, Ashapurna Devi",4.5,Yes,4.5,4.5,4
+Akhiyon Se Goli Maare,2002,"Comedy, Romance",Harmesh Malhotra,Unknown,3,Yes,3,3.5,3
+Aunty No. 1,1998,Comedy,,Unknown,3.5,Yes,3.5,3.5,3
+A≈õoka,2001,Not Found,Not Found,Not Found,3.5,No,3.5,3.5,3
+Cars 2,2011,"Animation, Family, Adventure, Comedy",,Ben Queen,4,Yes,4,4.5,4
+Orphan,2009,"Horror, Thriller",Jaume Collet-Serra,"Alex Mace, David Leslie Johnson-McGoldrick",4,Yes,4,4.5,4
+Hotel for Dogs,2009,"Comedy, Family",,"Jeff Lowell, Bob Schooley, Mark McCorkle",3.5,Yes,3.5,3.5,3
+Hancock,2008,"Fantasy, Action",Peter Berg,"Vincent Ngo, Vince Gilligan",3.5,Yes,3.5,3.5,3
+Hitch,2005,"Comedy, Drama, Romance",,Kevin Bisch,3,No,3,3.5,3
+13 Going on 30,2004,"Comedy, Fantasy, Romance",Gary Winick,"Josh Goldsmith, Cathy Yuspa",2.5,No,2.5,2.5,2
+The Parent Trap,1998,"Comedy, Family, Romance",,"Nancy Meyers, David Swift, Charles Shyer",3.5,Yes,3.5,3.5,3
+Home Alone 2: Lost in New York,1992,"Comedy, Family, Adventure",Chris Columbus,John Hughes,4,Yes,4,4.5,4
+Tees Maar Khan,2010,"Comedy, Crime",,"Ashmith Kunder, Shirish Kunder",4,Yes,4,4.5,4
+Hello,2008,"Animation, Romance, Science Fiction, Drama",Tomohiko Ito,Mado Nozaki,3,No,3,3.5,3
+O Teri,2014,"Drama, Comedy",,"Neeti Palta, Umesh Bist",3.5,No,3.5,3.5,3
+Chillar Party,2011,"Drama, Comedy, Family",Vikas Bahl,"Vijay Maurya, Vikas Bahl, Nitesh Tiwari",3.5,Yes,3.5,3.5,3
+The Great Gatsby,2013,"Drama, Romance",,"Baz Luhrmann, Craig Pearce",3.5,Yes,3.5,3.5,3
+Prometheus,2012,"Science Fiction, Mystery, Horror",Ridley Scott,"Jon Spaihts, Damon Lindelof, Ronald Shusett, Dan O'Bannon",3.5,Yes,3.5,3.5,3
+Ad Astra,2019,"Science Fiction, Drama",,"James Gray, Ethan Gross",4,Yes,4,4.5,4
+Passengers,2016,"Drama, Romance, Science Fiction",Morten Tyldum,Jon Spaihts,1.5,No,1.5,1.5,1
+Snakes on a Plane,2006,"Action, Thriller, Adventure, Crime, Horror",,"John Heffernan, Sebastian Gutierrez, David Dalessandro",3,Yes,3,3.5,3
+Sharknado,2013,"Action, Comedy, Horror, Science Fiction, TV Movie",Anthony C. Ferrante,Thunder Levin,3.5,Yes,3.5,3.5,3
+Sharknado 2: The Second One,2014,"Thriller, Science Fiction, TV Movie",,Thunder Levin,3,Yes,3,3.5,3
+Sharknado 3: Oh Hell No!,2015,"Action, Comedy, Horror, Science Fiction, TV Movie",Anthony C. Ferrante,Thunder Levin,3.5,Yes,3.5,3.5,3
+Piranha 3D,2010,"Comedy, Horror",,Josh Stolberg,4,Yes,4,4.5,4
+Cargo,2019,"Fantasy, Science Fiction, Drama",Arati Kadav,Arati Kadav,3.5,Yes,3.5,3.5,3
+Judgementall Hai Kya,2019,"Comedy, Drama, Thriller",,Kanika Dhillon,0.5,No,0.5,0.5,0
+Drive,2019,"Drama, Thriller, Crime",Nicolas Winding Refn,Hossein Amini,0.5,No,0.5,0.5,0
+Gangaajal,2003,"Drama, Crime",,Unknown,4.5,Yes,4.5,4.5,4
+Apaharan,2005,"Action, Crime, Drama",Prakash Jha,Unknown,3.5,Yes,3.5,3.5,3
+Saand Ki Aankh,2019,Drama,,Balwinder Singh Janjua,3.5,Yes,3.5,3.5,3
+Bluffmaster!,2005,"Drama, Comedy, Romance",Rohan Sippy,Shridhar Raghavan,4,Yes,4,4.5,4
+Kaala,2018,"Action, Crime, Drama",,Pa. Ranjith,1.5,No,1.5,1.5,1
+The Kashmir Files,2022,"History, Drama",Vivek Agnihotri,"Vivek Agnihotri, Saurabh M. Pandey",5,Yes,5,5,5
+Dhan Dhana Dhan Goal,2007,Drama,,Rohit Malhotra,3.5,Yes,3.5,3.5,3
+Ab Tak Chhappan 2,2015,"Crime, Action",Ejaz Gulab,Nilesh Girkar,3.5,Yes,3.5,3.5,3
+Ankush,1986,Action,,"Sayed Sultan, N. Chandra, Debu Sen",5,Yes,5,5,5
+Tezaab,1988,Drama,N. Chandra,"N. Chandra, Kamlesh Pandey",4,Yes,4,4.5,4
+JugJugg Jeeyo,2022,"Comedy, Drama",,"Anurag Singh, Rishabh Sharma, Sumit Batheja",1.5,No,1.5,1.5,1
+Om Jai Jagadish,2002,Drama,Anupam Kher,"Rahul Nanda, Rumi Jaffery",1,No,1,1.5,1
+Total Dhamaal,2019,"Comedy, Adventure",,Paritosh Painter,0.5,No,0.5,0.5,0
+Stanley Ka Dabba,2011,"Comedy, Family",Amole Gupte,Amole Gupte,4,Yes,4,4.5,4
+Dybbuk,2021,"Horror, Thriller, Drama",,Jay K,3,Yes,3,3.5,3
+6-5=2,2014,"Mystery, Horror, Adventure",K. S. Ashoka,K. S. Ashoka,3,Yes,3,3.5,3
+3 AM: A Paranormal Experience,2014,"Horror, Romance",,Vishal Mahadkar,3,No,3,3.5,3
+Mumbai 125 KM,2014,Horror,Hemant Madhukar,Hemant Madhukar,1.5,No,1.5,1.5,1
+Pizza,2014,Comedy,,"Brian McElhaney, Nick Kocher",2.5,No,2.5,2.5,2
+War Chod Na Yaar,2013,"Comedy, War",Faraz Haider,Faraz Haider,3,Yes,3,3.5,3
+F.A.L.T.U.,2011,Comedy,,"Mayur Puri, Tushar Hiranandani",3.5,Yes,3.5,3.5,3
+Accepted,2006,Comedy,Steve Pink,"Mark Perez, Adam Cooper, Bill Collage",4,Yes,4,4.5,4
+Gang of Ghosts,2014,"Comedy, Horror",,"Satish Kaushik, Rajesh Chawla, Anik Dutta",1,No,1,1.5,1
+Kaalo,2010,Horror,Wilson Louis,"Mamta Patnaik, Wilson Louis",3.5,Yes,3.5,3.5,3
+Click,2010,"Comedy, Drama, Fantasy",,"Mark O'Keefe, Steve Koren",2.5,Yes,2.5,2.5,2
+Phoonk,2008,"Drama, Horror, Mystery",Ram Gopal Varma,Unknown,4,Yes,4,4.5,4
+Phoonk 2,2010,"Horror, Thriller",,Milind Gadagkar,3,Yes,3,3.5,3
+Bhoot Unkle,2006,"Fantasy, Family",Mukesh Saigal,Aneesh Dev,4,Yes,4,4.5,4
+Bhoot and Friends,2010,"Drama, Action, Adventure, Horror",,"Sachindra Sharma, Aneesh Arjun Dev",3.5,Yes,3.5,3.5,3
+Hari Puttar,2008,"Comedy, Drama, Family",Lucky Kohli,Rajesh Bajaj,2.5,No,2.5,2.5,2
+2,2018,"Adventure, Thriller, Science Fiction",,"Chris Sparling, Mitchell LaFortune",3.5,Yes,3.5,3.5,3
+Enthiran,2010,"Action, Science Fiction, Adventure",Shankar,"Sujatha Rangarajan, Shankar",4.5,Yes,4.5,4.5,4
+Sivaji: The Boss,2007,"Action, Drama",,"Sujatha Rangarajan, Shankar",4,Yes,4,4.5,4
+24,2016,"Action, Science Fiction, Thriller",Vikram Kumar,Vikram Kumar,4.5,Yes,4.5,4.5,4
+Kutti Pisasu,2010,Fantasy,,Rama Narayanan,2.5,No,2.5,2.5,2
+Arundhati,2009,"Horror, Fantasy, Thriller",Kodi Ramakrishna,Chintapalli Ramana,3,Yes,3,3.5,3
+Rudraksh,2004,"Action, Fantasy",,Unknown,2.5,No,2.5,2.5,2
+16 December,2002,Not Found,Not Found,Not Found,3,No,3,3.5,3
+Vaastu Shastra,2004,"Mystery, Horror",,Charudutt Acharya,2.5,No,2.5,2.5,2
+Krishna Cottage,2004,"Horror, Mystery, Romance",Santram Varma,"R. M. Joshi, Nirav Vidya, Abhigyan Jha",1,No,1,1.5,1
+Kanchana 2,2015,"Horror, Comedy",,Raghava Lawrence,2.5,No,2.5,2.5,2
+Rashmi Rocket,2021,Drama,Akarsh Khurana,"Aniruddha Guha, Nandha Periyasamy",2.5,No,2.5,2.5,2
+Judwaa,1997,"Romance, Comedy, Action",,"Rumi Jaffery, E.V.V. Satyanarayana",4,Yes,4,4.5,4
+Annabelle Sethupathi,2021,"Horror, Comedy, Fantasy",Deepak Sundarrajan,Deepak Sundarrajan,3,No,3,3.5,3
+Chinatown,1974,"Crime, Drama, Mystery, Thriller",,Robert Towne,5,Yes,5,5,5
+STILL: A Michael J. Fox Movie,2023,Documentary,Davis Guggenheim,Unknown,4,Yes,4,4.5,4
+Downsizing,2017,"Drama, Science Fiction, Comedy",,"Alexander Payne, Jim Taylor",3,No,3,3.5,3
+Pok√©mon the Movie: Mewtwo Strikes Back - Evolution,2019,Not Found,Not Found,Not Found,2.5,No,2.5,2.5,2
+Pok√©mon: Mewtwo Returns,2000,Not Found,,Not Found,3.5,Yes,3.5,3.5,3
+Jumanji: The Next Level,2019,"Adventure, Comedy, Fantasy",Jake Kasdan,"Scott Rosenberg, Jeff Pinkner, Jake Kasdan",3.5,Yes,3.5,3.5,3
+Men in Black: International,2019,"Comedy, Science Fiction, Action, Adventure",,"Lowell Cunningham, Art Marcum, Matt Holloway",1.5,No,1.5,1.5,1
+The Suicide Squad,2021,"Action, Comedy, Adventure",James Gunn,James Gunn,3.5,Yes,3.5,3.5,3
+Knight and Day,2010,"Action, Comedy",,Patrick O'Neill,4,Yes,4,4.5,4
+Air Bud,1997,"Comedy, Family",Charles Martin Smith,"Paul Tamasy, Aaron Mendelsohn, Kevin DiCicco",5,Yes,5,5,5
+Air Bud: Golden Receiver,1998,"Comedy, Family",,"Paul Tamasy, Aaron Mendelsohn",4,Yes,4,4.5,4
+Air Bud: Seventh Inning Fetch,2002,"Comedy, Family",Robert Vince,"Robert Vince, Kevin DiCicco, Sara Sutton, Anne Vince, Anna McRoberts, Stephanie Isherwood",3,Yes,3,3.5,3
+Air Bud: World Pup,2000,"Comedy, Family",,"Mick Whiting, Robert Vince, Kevin DiCicco, Anne Vince, Paul Tamasy, Aaron Mendelsohn",3,Yes,3,3.5,3
+Air Bud: Spikes Back,2003,"Comedy, Family",Mike Southon,"Robert Vince, Anna McRoberts, Kevin DiCicco, Anne Vince",3,Yes,3,3.5,3
+Air Buddies,2006,"Adventure, Comedy, Family",,"Phil Hanley, Anna McRoberts, Robert Vince",4,Yes,4,4.5,4
+All My Friends Are Nineteen,2024,Comedy,Jadyn Proulx,Jadyn Proulx,4,Yes,4,4.5,4
+Tangerine,2022,"Comedy, Drama",,"Sean Baker, Chris Bergoch",3,Yes,3,3.5,3
+Super Nani,2014,"Family, Drama",Indra Kumar,Unknown,3,No,3,3.5,3
+Humpty Sharma Ki Dulhania,2014,"Drama, Comedy, Romance",,Shashank Khaitan,2,No,2,2.5,2
+Rio 2,2014,"Animation, Adventure, Comedy, Family",Carlos Saldanha,"Yoni Brenner, Carlos Saldanha, Jenny Bicks, Don Rhymer, Carlos Kotkin",3,No,3,3.5,3
+Shaan,1980,"Action, Crime, Drama, Romance, Thriller",,"Salim Khan, Javed Akhtar",3.5,Yes,3.5,3.5,3
+Chaal Jeevi Laiye!,2019,"Drama, Comedy",Vipul Mehta,"Jainesh Ejardar, Vipul Mehta",5,Yes,5,5,5
+Policegiri,2013,"Action, Comedy",,"Farhad Samji, Sajid Samji",3,Yes,3,3.5,3
+The Kissing Booth,2018,"Romance, Comedy",Vince Marcello,Vince Marcello,3.5,Yes,3.5,3.5,3
+The Kissing Booth 2,2020,"Comedy, Romance",,"Vince Marcello, Jay Arnold",3.5,Yes,3.5,3.5,3
+The Kissing Booth 3,2021,"Romance, Comedy",Vince Marcello,"Vince Marcello, Jay Arnold",3,No,3,3.5,3
+The Dictator,2012,Comedy,,"Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer",4,Yes,4,4.5,4
+Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,2020,Comedy,Jason Woliner,"Peter Baynham, Jena Friedman, Nina Pedrad, Dan Swimer, Sacha Baron Cohen, Lee Kern, Erica Rivinoja, Anthony Hines, Dan Mazer",4,Yes,4,4.5,4
+The Girl with the Dragon Tattoo,2011,"Thriller, Crime, Mystery",,Steven Zaillian,3,No,3,3.5,3
+Jack the Giant Slayer,2013,"Fantasy, Action, Adventure, Drama",Bryan Singer,"Darren Lemke, Christopher McQuarrie, Dan Studney, David Dobkin",3.5,Yes,3.5,3.5,3
+Haunted-3D,2011,"Horror, Thriller",,Unknown,4,Yes,4,4.5,4
+Bhoot Returns,2012,Horror,Ram Gopal Varma,Ram Gopal Varma,3,No,3,3.5,3
+Shaapit,2010,Horror,,"Dheeraj Rattan, Vikram Bhatt",4,Yes,4,4.5,4
+GHOUL,2018,"Thriller, Horror",Petr J·kl,"Petr Bok, Petr J·kl",4,Yes,4,4.5,4
+Luck,2009,"Animation, Adventure, Comedy, Fantasy, Family",,"Kiel Murray, Glenn Berger, Jonathan Aibel",3,Yes,3,3.5,3
+Toonpur Ka Superrhero,2010,"Action, Adventure, Animation",Kireet Khurana,"Kireet Khurana, Raagi Bhatnagar",4,Yes,4,4.5,4
+Bharat,2019,"Action, History, Drama",,Ali Abbas Zafar,0.5,No,0.5,0.5,0
+Hero,1983,"Comedy, Drama",Bill Forsyth,Bill Forsyth,3.5,Yes,3.5,3.5,3
+Call My Agent Bollywood,2021,Not Found,,Not Found,3.5,Yes,3.5,3.5,3
+Sardar Udham,2021,"Crime, Drama, History",Shoojit Sircar,"Shubendu Bhattacharya, Ritesh Shah",1.5,No,1.5,1.5,1
+Ramayana : The Legend of Prince Rama,1993,"Animation, Action, Adventure, Fantasy",,"Narendra Sharma, Rani Burra, Koichi Sasaki, Hiroshi Onogi, Y˚gÙ SakÙ, Ram Mohan",3.5,Yes,3.5,3.5,3
+Bal Hanuman - Return of the Demon,2010,,Pankaj Sharma,Unknown,3.5,Yes,3.5,3.5,3
+Return Of Hanuman,2007,"Animation, Family, Action, Adventure",,"Amit Babbar, Anurag Kashyap",4,Yes,4,4.5,4
+Hanuman,2005,"Adventure, Family, Romance, Fantasy",FrÈdÈric Fougea,"Michel Fessler, FrÈdÈric Fougea, Eric Collins",4.5,Yes,4.5,4.5,4
+Zokkomon,2011,"Action, Adventure, Family",,Unknown,2.5,No,2.5,2.5,2
+Chain Kulii Ki Main Kulii,2007,"Comedy, Drama, Family, Fantasy",Karanjeet Saluja,"Nupur Asthana, Jay Shewakramani",4,Yes,4,4.5,4
+Murder on the Orient Express,2017,"Mystery, Drama, Crime",,Michael Green,3,No,3,3.5,3
+Prisoners,2013,"Drama, Thriller, Crime",Denis Villeneuve,Aaron Guzikowski,2.5,No,2.5,2.5,2
+Ramayana: The Epic,2010,"Animation, Action, Adventure",,"Chetan Desai, Rituraj Ramendra Tripathi",3.5,No,3.5,3.5,3
+Taqdeerwala,1995,"Comedy, Fantasy, Action",K. Murali Mohana Rao,"S.V. Krishna Reddy, K. Murali Mohana Rao",4,Yes,4,4.5,4
+Dus Kahaniyaan,2007,Drama,,Unknown,3.5,Yes,3.5,3.5,3
+Krantiveer,1994,"Action, Crime, Drama",Mehul Kumar,K.K. Singh,3.5,Yes,3.5,3.5,3
+Tanhaji: The Unsung Warrior,2020,"Action, Drama, History",,"Om Raut, Prakash R. Kapadia",3.5,Yes,3.5,3.5,3
+Taarzan: The Wonder Car,2004,"Action, Romance",Abbas Alibhai Burmawalla,Sunny Mahajan,3.5,Yes,3.5,3.5,3
+Action Jackson,2014,"Action, Comedy",,Robert Reneau,1,No,1,1.5,1
+Himmatwala,2013,"Action, Comedy, Drama",K Raghavendra Rao,K Raghavendra Rao,1.5,No,1.5,1.5,1
+Bhuj: The Pride of India,2021,"War, History, Action, Drama",,"Abhishek Dudhaiya, Raman Kumar, Ritesh Shah, Pooja Bhavoria",2,No,2,2.5,2
+Guest iin London,2017,"Comedy, Drama",Ashwni Dhir,Unknown,0.5,No,0.5,0.5,0
+Qayamat: City Under Threat,2003,"Action, Crime, Drama, Romance",,"Harry Baweja, Suparn Verma",3.5,Yes,3.5,3.5,3
+Vivah,2006,"Romance, Drama",Sooraj Barjatya,Sooraj Barjatya,3.5,No,3.5,3.5,3
+Fool N Final,2007,"Action, Comedy",,"Neeraj Vora, Anurag Kashyap, Umesh Shukla",3.5,Yes,3.5,3.5,3
+Searching,2018,"Mystery, Thriller, Drama",Aneesh Chaganty,"Aneesh Chaganty, Sev Ohanian",4,Yes,4,4.5,4
+Norbit,2007,Comedy,,"Eddie Murphy, Jay Scherick, David Ronn, Charlie Murphy",3.5,Yes,3.5,3.5,3
+Coming to America,1988,"Comedy, Romance",John Landis,"David Sheffield, Barry W. Blaustein, Eddie Murphy",3.5,Yes,3.5,3.5,3
+Jumbo,2008,"Animation, Comedy, Drama, Family, Fantasy",,"Widya Arifianti, Ryan Adriandhy",3.5,No,3.5,3.5,3
+Pet Sematary,2019,Horror,Mary Lambert,Stephen King,3.5,No,3.5,3.5,3
+Toy Story 2,1999,"Animation, Comedy, Family",,"Andrew Stanton, Rita Hsiao, Doug Chamberlin, Chris Webb",3,No,3,3.5,3
+Cars 3,2017,"Animation, Family, Drama",Brian Fee,"Kiel Murray, Mike Rich, Bob Peterson",1.5,No,1.5,1.5,1
+Tangled,2010,"Animation, Family, Adventure",,Dan Fogelman,3.5,Yes,3.5,3.5,3
+Winnie the Pooh,2011,"Animation, Family, Adventure, Comedy",Stephen J. Anderson,"Nicole Mitchell, Clio Chiang, Stephen J. Anderson, Don Dougherty, Jeremy Spears, Brian Kesinger, Kendelle Hoyer, Don Hall",4,Yes,4,4.5,4
+G-Force,2009,"Family, Fantasy, Action, Adventure, Comedy",,"Hoyt Yeatman, David P.I. James, Cormac Wibberley, Marianne Wibberley",3.5,Yes,3.5,3.5,3
+Knowing,2009,"Action, Mystery, Science Fiction, Thriller",Alex Proyas,"Ryne Douglas Pearson, Juliet Snowden, Stiles White",3.5,Yes,3.5,3.5,3
+Ghost Rider: Spirit of Vengeance,2011,"Action, Fantasy, Thriller",,"Scott M. Gimple, Seth Hoffman, David S. Goyer, Roy Thomas",3.5,Yes,3.5,3.5,3
+Unstoppable,2010,"Action, Thriller",Tony Scott,Mark Bomback,4,Yes,4,4.5,4
+Father of the Bride Part II,1995,"Comedy, Family",,"Nancy Meyers, Charles Shyer",3.5,Yes,3.5,3.5,3
+Home Alone 3,1997,"Comedy, Family",Raja Gosnell,John Hughes,2,No,2,2.5,2
+Home Sweet Home Alone,2021,"Family, Comedy",,"Mikey Day, Streeter Seidell, John Hughes",1.5,No,1.5,1.5,1
+Aabra Ka Daabra,2004,"Fantasy, Family",Dheeraj Kumar,"Iqbal Katchi, J.k. Nirmal",1.5,No,1.5,1.5,1
+Minsara Kanavu,1997,"Comedy, Romance, Drama",,"Rajiv Menon, V. C. Guhanathan",3.5,Yes,3.5,3.5,3
+One Two Three,2008,Comedy,Billy Wilder,"Billy Wilder, I. A. L. Diamond",3.5,Yes,3.5,3.5,3
+Krazzy 4,2008,"Comedy, Crime",,"Ashwni Dhir, Rakesh Roshan",3,No,3,3.5,3
+Inferno,2016,"Mystery, Thriller, Action",Ron Howard,David Koepp,3.5,Yes,3.5,3.5,3
+The Da Vinci Code,2006,"Thriller, Mystery",,Akiva Goldsman,4,Yes,4,4.5,4
+Angels & Demons,2009,"Thriller, Mystery",Ron Howard,"Akiva Goldsman, David Koepp",3.5,Yes,3.5,3.5,3
+The Darjeeling Limited,2007,"Adventure, Drama, Comedy",,"Wes Anderson, Jason Schwartzman, Roman Coppola",4.5,Yes,4.5,4.5,4
+Aaja Nachle,2007,"Romance, Drama",Anil Mehta,"Aditya Chopra, Jaideep Sahni",2,No,2,2.5,2
+Hijack,2008,"Action, Thriller, Crime",,Kim Kyung-chan,3.5,Yes,3.5,3.5,3
+Ludo,2020,"Crime, Comedy",Anurag Basu,Anurag Basu,4,Yes,4,4.5,4
+Stories by Rabindranath Tagore,2015,Not Found,,Not Found,4,Yes,4,4.5,4
+My Cousin Vinny,1992,"Comedy, Drama",Jonathan Lynn,Dale Launer,4,Yes,4,4.5,4
+Fantastic Mr. Fox,2009,"Adventure, Animation, Comedy, Family",,"Noah Baumbach, Wes Anderson",4,Yes,4,4.5,4
+Cheeni Kum,2007,"Romance, Drama",R. Balki,R. Balki,4,Yes,4,4.5,4
+Paa,2009,"Drama, Family",,R. Balki,3.5,Yes,3.5,3.5,3
+Bey Yaar,2014,"Family, Comedy, Drama",Abhishek Jain,"Bhavesh Mandalia, Niren Bhatt",4.5,Yes,4.5,4.5,4
+Student Of The Year,2012,"Comedy, Drama, Romance",,"Karan Johar, Renzil D'Silva",3,Yes,3,3.5,3
+The Man Who Knew Infinity,2015,"Drama, History",Matt Brown,Matt Brown,3.5,Yes,3.5,3.5,3
+Hotel Mumbai,2018,"Thriller, History, Drama, Action",,"Anthony Maras, John Collee",3,No,3,3.5,3
+Hotel Chevalier,2007,"Drama, Romance",Wes Anderson,Wes Anderson,3,No,3,3.5,3
+Cocktail,1988,"Romance, Drama, Comedy",,Heywood Gould,3.5,Yes,3.5,3.5,3
+Kung Fu Panda 4,2024,"Animation, Family, Action, Comedy, Adventure, Fantasy",Mike Mitchell,"Jonathan Aibel, Glenn Berger, Darren Lemke, Ethan Reiff, Cyrus Voris",3.5,Yes,3.5,3.5,3
+The Girl Next Door,2004,"Comedy, Romance",,"Brent Goldberg, David Wagner, Stuart Blumberg",3.5,Yes,3.5,3.5,3
+Harold & Kumar Go to White Castle,2004,"Comedy, Adventure",Danny Leiner,"Hayden Schlossberg, Jon Hurwitz",4,Yes,4,4.5,4
+Harold & Kumar Escape from Guantanamo Bay,2008,"Comedy, Adventure",,"Hayden Schlossberg, Jon Hurwitz",3.5,Yes,3.5,3.5,3
+A Very Harold & Kumar Christmas,2011,Comedy,Todd Strauss-Schulson,"Hayden Schlossberg, Jon Hurwitz",3.5,Yes,3.5,3.5,3
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Comedy,,"Sacha Baron Cohen, Dan Mazer, Anthony Hines, Peter Baynham, Todd Phillips",4.5,Yes,4.5,4.5,4
+Son of the Mask,2005,"Fantasy, Comedy, Family, Adventure",Lawrence Guterman,Lance Khazei,3.5,Yes,3.5,3.5,3
+The Royal Tenenbaums,2001,"Comedy, Drama",,"Wes Anderson, Owen Wilson",4,Yes,4,4.5,4
+"Crazy, Stupid, Love.",2011,"Comedy, Drama, Romance",Glenn Ficarra,Dan Fogelman,3.5,Yes,3.5,3.5,3
+The Talented Mr. Ripley,1999,"Thriller, Crime, Drama",,Anthony Minghella,4,Yes,4,4.5,4
+The Adjustment Bureau,2011,"Science Fiction, Thriller, Romance",George Nolfi,George Nolfi,3.5,Yes,3.5,3.5,3
+Prince of Persia: The Sands of Time,2010,"Adventure, Fantasy, Action",,"Doug Miro, Carlo Bernard, Boaz Yakin",3,Yes,3,3.5,3
+Kedarnath,2018,Romance,Abhishek Kapoor,"Kanika Dhillon, Abhishek Kapoor",3.5,Yes,3.5,3.5,3
+Mohenjo Daro,2016,"Adventure, Drama, History, Romance",,Ashutosh Gowariker,0.5,No,0.5,0.5,0
+Atrangi Re,2021,"Romance, Comedy, Drama",Aanand L. Rai,Himanshu Sharma,2.5,No,2.5,2.5,2
+Aashiqui,1990,"Drama, Romance, Music",,"Robin Bhatt, Akash Khurana",3.5,Yes,3.5,3.5,3
+Dus,2005,"Action, Crime, Thriller",Anubhav Sinha,"Yash Keswani, Vinay, Yash Gawli",3,Yes,3,3.5,3
+C Kkompany,2008,Comedy,,Unknown,3.5,Yes,3.5,3.5,3
+Made In China,2019,Documentary,Marc Chica i JosÈ,Unknown,4.5,Yes,4.5,4.5,4
+Boss,2013,"Action, Science Fiction, Thriller",,"Joe Carnahan, Chris Borey, Eddie Borey",2.5,No,2.5,2.5,2
+Lingaa,2014,"Action, Comedy, Drama",K. S. Ravikumar,"K. S. Ravikumar, Pon Kumaran",3,Yes,3,3.5,3
+Khandaani Shafakhana,2019,"Comedy, Drama",,Gautam Mehra,1.5,No,1.5,1.5,1
+Darbar,2020,"Action, Drama, Thriller",A. R. Murugadoss,A. R. Murugadoss,3.5,Yes,3.5,3.5,3
+Kabali,2016,"Action, Crime, Drama",,Pa. Ranjith,2.5,No,2.5,2.5,2
+Table No. 21,2013,"Adventure, Thriller, Drama",Aditya Datt,"Shantanu Ray Chhibber, Shiirshak S. Anand, Abhijeet Deshpande, T. Rafael Cimino",4,Yes,4,4.5,4
+Dum Maaro Dum,2011,"Action, Crime, Thriller",,Shridhar Raghavan,3.5,Yes,3.5,3.5,3
+The Proposal,2009,"Comedy, Romance, Drama",Anne Fletcher,Peter Chiarelli,3,No,3,3.5,3
+How to Lose a Guy in 10 Days,2003,"Comedy, Romance",,"Kristen Buckley, Brian Regan, Burr Steers",3.5,Yes,3.5,3.5,3
+The Founder,2016,"Drama, History",John Lee Hancock,Robert D. Siegel,4,Yes,4,4.5,4
+Animal,2023,"Action, Crime, Drama",,"Sandeep Reddy Vanga, Suresh Bandaru, Pranay Reddy Vanga",4,Yes,4,4.5,4
+The Burning Train,1980,"Action, Thriller",Ravi Chopra,"Ravi Chopra, Kamleshwar",4.5,Yes,4.5,4.5,4
+Mastizaade,2016,"Romance, Comedy",,Unknown,0.5,No,0.5,0.5,0
+Apna Sapna Money Money,2006,Comedy,Sangeeth Sivan,Unknown,4,Yes,4,4.5,4
+Kamaal Dhamaal Malamaal,2012,"Comedy, Drama",,Unknown,2.5,No,2.5,2.5,2
+Bhaiaji Superhitt,2018,"Action, Thriller, Comedy",Neeraj Pathak,Neeraj Pathak,1.5,No,1.5,1.5,1
+Journey Bombay to Goa,2007,"Adventure, Comedy, Drama",,Yunus Sajawal,4,Yes,4,4.5,4
+Gulliver's Travels,2010,"Family, Comedy, Adventure, Fantasy",Rob Letterman,"Nicholas Stoller, Joe Stillman",2.5,No,2.5,2.5,2
+Bottle Rocket,1993,"Comedy, Crime, Drama",,"Owen Wilson, Wes Anderson",4,Yes,4,4.5,4
+Holiday Heist,2022,"Drama, TV Movie",Roger M. Bobb,Angela Burt-Murray,3,Yes,3,3.5,3
+Murder Mubarak,2024,"Comedy, Crime, Thriller",,"Suprotim Sengupta, Gazal Dhaliwal",3,No,3,3.5,3
+The Cook,2022,"Comedy, Horror",Gregg Simon,"Nicholas Bonomo, Dirk Van Fleet, Francisco Rodriguez",4,Yes,4,4.5,4
+No Reservations,2007,"Comedy, Romance, Drama",,Carol Fuchs,3.5,Yes,3.5,3.5,3
+Burnt,2015,Drama,John Wells,"Steven Knight, Michael Kalesniko",4.5,Yes,4.5,4.5,4
+The Fighter,2010,Drama,,"Paul Tamasy, Eric Johnson, Scott Silver, Keith Dorrington",4,Yes,4,4.5,4
+Mowgli: Legend of the Jungle,2018,"Adventure, Drama",Andy Serkis,Callie Kloves,2.5,No,2.5,2.5,2
+The Jungle Book,2016,"Family, Adventure, Fantasy",,Justin Marks,2.5,No,2.5,2.5,2
+Chef,2014,"Drama, Comedy, Family",Raja Menon,"Raja Menon, Ritesh Shah, Suresh Nair",4,Yes,4,4.5,4
+Kabhi Alvida Naa Kehna,2006,"Drama, Romance",,"Shibani Bathija, Karan Johar",4,Yes,4,4.5,4
+Chhota Chetan,1998,,Jijo Punnoose,Unknown,4,Yes,4,4.5,4
+My Dear Kuttichathan,1984,"Adventure, Fantasy",,Raghunath Paleri,4,Yes,4,4.5,4
+You've Got Mail,1998,"Comedy, Romance",Nora Ephron,"Delia Ephron, Nora Ephron",4,Yes,4,4.5,4
+Gumraah,2023,"Crime, Action, Thriller",,"Aseem Arora, Magizh Thirumeni",4,Yes,4,4.5,4
+Monkey Man,2024,"Action, Thriller",Dev Patel,"Dev Patel, Paul Angunawela, John Collee",3.5,Yes,3.5,3.5,3
+The Omen,1976,"Horror, Thriller",,David Seltzer,5,Yes,5,5,5
+Blended,2014,"Comedy, Romance",Frank Coraci,"Clare Sera, Ivan Menchell",4,Yes,4,4.5,4
+Bad Teacher,2011,Comedy,,"Gene Stupnitsky, Lee Eisenberg",3,No,3,3.5,3
+Amar Singh Chamkila,2024,"Drama, Music",Imtiaz Ali,"Imtiaz Ali, Sajid Ali",4,Yes,4,4.5,4
+Thai Massage,2022,"Comedy, Drama",,Mangesh Hadawale,3,No,3,3.5,3
+Bride Wars,2009,"Comedy, Romance",Gary Winick,"Greg DePaul, Casey Wilson, June Diane Raphael",2.5,No,2.5,2.5,2
+10 Things I Hate About You,1999,"Comedy, Romance, Drama",,"Karen McCullah, Kirsten Smith",3.5,Yes,3.5,3.5,3
+...And Justice for All,1979,Drama,Norman Jewison,"Valerie Curtin, Barry Levinson",4,Yes,4,4.5,4
+Premium Rush,2012,"Crime, Action, Thriller",,"David Koepp, John Kamps",3.5,Yes,3.5,3.5,3
+Lost Ladies,2023,"Comedy, Drama, Romance",Kiran Rao,Sneha Desai,4,Yes,4,4.5,4
+The Great Dictator,1940,"Comedy, War",,Charlie Chaplin,4,Yes,4,4.5,4
+Vash,2023,Horror,Jagmeet Samundri,Unknown,4,Yes,4,4.5,4
+Madgaon Express,2024,"Comedy, Drama",,Kunal Khemu,3,No,3,3.5,3
+Shaitaan,2024,"Thriller, Horror",Vikas Bahl,"Aamil Keyan Khan, Krishnadev Yagnik",4.5,Yes,4.5,4.5,4
+Unfrosted,2024,"Comedy, History",,"Spike Feresten, Jerry Seinfeld, Barry Marder, Andy Robin",4,Yes,4,4.5,4
+Heeramandi,2024,Not Found,Not Found,Not Found,4,Yes,4,4.5,4
+The Apartment,1960,"Comedy, Drama, Romance",,"Billy Wilder, I. A. L. Diamond",4,Yes,4,4.5,4
+Seven Brides for Seven Brothers,1954,"Comedy, Drama, Western",Stanley Donen,"Albert Hackett, Frances Goodrich, Dorothy Kingsley, Stephen Vincent Benet",3.5,Yes,3.5,3.5,3
+The Fall Guy,2024,"Action, Comedy, Romance",,Drew Pearce,2,No,2,2.5,2
+The Godfather Part III,1990,"Crime, Drama, Thriller",Francis Ford Coppola,"Francis Ford Coppola, Mario Puzo",4,Yes,4,4.5,4
+The Life Aquatic with Steve Zissou,2004,"Adventure, Comedy, Drama",,"Noah Baumbach, Wes Anderson",3.5,No,3.5,3.5,3
+Mission Kashmir,2000,"Action, Drama, Thriller",Vidhu Vinod Chopra,"Suketu Mehta, Vidhu Vinod Chopra, Vikram Chandra, Abhijat Joshi, Atul Tiwari",3.5,No,3.5,3.5,3
+Crew,2024,"Action, Comedy, Crime, Mystery",,Jonathan Tropper,3.5,Yes,3.5,3.5,3
+Kantara,2022,"Action, Drama, Fantasy",Rishab Shetty,"Rishab Shetty, Anirudh Mahesh, Shanil Gowtham",5,Yes,5,5,5
+Bramayugam,2024,"Horror, Thriller, Drama",,Rahul Sadasivan,5,Yes,5,5,5
+Ocean's Eight,2018,"Crime, Comedy, Action",Gary Ross,"Gary Ross, Olivia Milch, George Clayton Johnson, Jack Golden Russell",3.5,Yes,3.5,3.5,3
+Manthan,1976,Drama,,"Vijay Tendulkar, Verghese Kurien, Kaifi Azmi, Shyam Benegal",4,Yes,4,4.5,4
+Ventilator,2018,"Drama, Comedy",Umang Vyas,Unknown,3.5,Yes,3.5,3.5,3
+Jhamkudi,2024,Comedy,,Heath Bhatt,2,No,2,2.5,2
+Thalapathi,1991,"Action, Crime, Drama",Mani Ratnam,Mani Ratnam,3.5,Yes,3.5,3.5,3
+Munjya,2024,"Comedy, Horror",,"Yogesh Chandekar, Niren Bhatt",3.5,Yes,3.5,3.5,3
+Bhediya,2022,"Horror, Comedy",Amar Kaushik,Niren Bhatt,4,Yes,4,4.5,4
+Weird Science,1985,"Comedy, Fantasy, Science Fiction, Romance",,John Hughes,2.5,No,2.5,2.5,2
+Bujji & Bhairava,2024,Not Found,Not Found,Not Found,2,No,2,2.5,2
+Kalki 2898-AD,2024,"Drama, Action, Fantasy, Science Fiction",,Nag Ashwin,3.5,Yes,3.5,3.5,3
+Big,1988,"Fantasy, Drama, Comedy",Penny Marshall,"Anne Spielberg, Gary Ross",3.5,Yes,3.5,3.5,3
+BlackBerry,2023,"Comedy, Drama, History",,"Matt Johnson, Matthew Miller",4.5,Yes,4.5,4.5,4
+Decalogue I,1989,"Drama, TV Movie",Krzysztof Kie?lowski,"Krzysztof Piesiewicz, Krzysztof Kie?lowski",5,Yes,5,5,5
+Hazaaron Khwaishein Aisi,2003,Drama,,"Sudhir Mishra, Ruchi Narain, Shivkumar Subramaniam",4,Yes,4,4.5,4
+Garfield,2004,"Comedy, Family",Peter Hewitt,"Alec Sokolow, Joel Cohen",4.5,Yes,4.5,4.5,4
+Ugly,2013,"Horror, Comedy, Drama",,Emilie Blichfeldt,3.5,Yes,3.5,3.5,3
+Garfield: A Tail of Two Kitties,2006,"Comedy, Family, Adventure",Tim Hill,"Joel Cohen, Alec Sokolow, Jim Davis",3.5,Yes,3.5,3.5,3
+Makdee,2002,"Family, Horror, Fantasy",,"Vishal Bhardwaj, Abbas Tyrewala",4,Yes,4,4.5,4
+Matru Ki Bijlee Ka Mandola,2013,"Comedy, Drama",Vishal Bhardwaj,"Vishal Bhardwaj, Abhishek Chaubey",3.5,Yes,3.5,3.5,3
+Wazir,2016,"Thriller, Action, Crime",,"Vidhu Vinod Chopra, Supriya Kelkar, Vikram Chandra, Suketu Mehta, Abhijat Joshi",4.5,Yes,4.5,4.5,4
+The Wonderful Story of Henry Sugar and Three More,2024,"Comedy, Drama, Fantasy",Wes Anderson,Wes Anderson,3.5,Yes,3.5,3.5,3
+The Garfield Movie,2024,"Family, Comedy, Adventure, Animation",,"Jim Davis, Mark Torgove, Paul A. Kaplan, David Reynolds",3.5,Yes,3.5,3.5,3
+Kakuda,2024,"Comedy, Horror",Aditya Sarpotdar,"Chirag Garg, Avinash Dwivedi",3,Yes,3,3.5,3
+Wreck-It Ralph,2012,"Family, Animation, Comedy, Adventure",,"Jennifer Lee, Phil Johnston, Jim Reardon, Rich Moore",4.5,Yes,4.5,4.5,4
+Ted,2012,"Comedy, Fantasy",Seth MacFarlane,"Seth MacFarlane, Alec Sulkin, Wellesley Wild",4,Yes,4,4.5,4
+The Best Exotic Marigold Hotel,2011,"Drama, Comedy",,Ol Parker,3.5,Yes,3.5,3.5,3
+Lage Raho Gujjubhai,2007,"Comedy, Fantasy, Drama",Siddharth Randeria,Pravin Solanki,5,Yes,5,5,5
+Black Friday,2004,"Horror, Comedy, Science Fiction",,Andy Greskoviak,5,Yes,5,5,5
+Kali-Katha: The Prologue to Ugly,2014,,Anurag Kashyap,Unknown,3.5,Yes,3.5,3.5,3
+Perfect Strangers,2016,Drama,,"Paolo Genovese, Paolo Costella, Rolando Ravello, Paola Mammini, Filippo Bologna",4,Yes,4,4.5,4
+Raaz: The Mystery Continues...,2009,"Horror, Mystery",Mohit Suri,"Shagufta Rafique, Mohit Suri",3.5,Yes,3.5,3.5,3
+Doc Hollywood,1991,"Comedy, Romance",,"Jeffrey Price, Daniel Pyne, Peter S. Seaman",3,Yes,3,3.5,3
+Stuart Little,1999,"Family, Fantasy, Comedy, Adventure",Rob Minkoff,"M. Night Shyamalan, Greg Brooker",5,Yes,5,5,5
+Stuart Little 2,2002,"Family, Adventure, Comedy",,"Douglas Wick, Bruce Joel Rubin, E.B. White",4.5,Yes,4.5,4.5,4
+Stuart Little 3: Call of the Wild,2005,"Animation, Comedy, Family",Audu Paden,"E.B. White, Douglas Wick, Bob Shaw, Don McEnery",4.5,Yes,4.5,4.5,4
+Traffic Signal,2007,Drama,,Sachin Yardi,4,Yes,4,4.5,4
+Phir Aayi Hasseen Dillruba,2024,"Mystery, Thriller, Romance",Jayprad Desai,Kanika Dhillon,4,Yes,4,4.5,4
+Stree 2,2024,"Horror, Comedy",,"Niren Bhatt, Krishna D.K., Raj Nidimoru",4.5,Yes,4.5,4.5,4
+Khel Khel Mein,2024,"Comedy, Drama",Mudassar Aziz,"Sara Bodinar, Mudassar Aziz",3,Yes,3,3.5,3
+Tere Naam,2003,"Action, Drama, Romance, Thriller",,"Jainendra Jain, Bala, Vijaysinh Gol",3,No,3,3.5,3
+Vaastav,1999,"Action, Crime, Drama",Mahesh Manjrekar,Mahesh Manjrekar,4,Yes,4,4.5,4
+Khajoor Pe Atke,2018,Comedy,,Harsh Chhaya,4,Yes,4,4.5,4
+Buddha Mar Gaya,2007,Comedy,Rahul Rawail,"Anand Sivakumaran, Raju Saigal",4,Yes,4,4.5,4
+The Railway Men - The Untold Story of Bhopal 1984,2023,Not Found,,Not Found,3,No,3,3.5,3
+IC 814: The Kandahar Hijack,2024,Not Found,Not Found,Not Found,4,Yes,4,4.5,4
+Mangalavaaram,2023,"Thriller, Mystery",,Ajay Bhupathi,0.5,No,0.5,0.5,0
+Berlin,2023,Documentary,ﬁorsteinn JÛnsson,ﬁorsteinn JÛnsson,2.5,No,2.5,2.5,2
+Karwaan,2018,"Adventure, Comedy",,"Adhir Bhat, Bejoy Nambiar, Akarsh Khurana",5,Yes,5,5,5
+Archangel,2005,"Horror, Thriller",Bryan Edward Hill,Bryan Edward Hill,2.5,No,2.5,2.5,2
+In Time,2011,"Action, Thriller, Science Fiction",,Andrew Niccol,2,No,2,2.5,2
+Bhoothakaalam,2022,"Thriller, Mystery, Horror",Rahul Sadasivan,"Rahul Sadasivan, Sreekumar Shreyas",4,Yes,4,4.5,4
+Megalopolis,2024,"Science Fiction, Drama, Fantasy",,Francis Ford Coppola,5,Yes,5,5,5
+Mimi,2021,"Comedy, Drama",Laxman Utekar,"Rohan Shankar, Laxman Utekar",2,No,2,2.5,2
+Pati Patni Aur Woh,2019,"Comedy, Romance",,"Mudassar Aziz, Jasmeet K Reen",3,No,3,3.5,3
+Mrs. Serial Killer,2020,Thriller,Shirish Kunder,Unknown,0.5,No,0.5,0.5,0
+Khakee,2004,Action,,"Shridhar Raghavan, Rajkumar Santoshi, Ranjit Kapoor",3.5,Yes,3.5,3.5,3
+Tezz,2012,"Drama, Action, Thriller",Priyadarshan,Robin Bhatt,3.5,Yes,3.5,3.5,3
+Student of the Year 2,2019,"Romance, Comedy, Drama",,"Punit Malhotra, Aditya Pawar, Arshad Syed",0.5,No,0.5,0.5,0
+Selfiee,2023,"Comedy, Drama",Raj Mehta,Rishabh Sharma,0.5,No,0.5,0.5,0
+Paheli,2005,"Romance, Drama, Fantasy",,"Amol Palekar, Vijayadan Detha, Sandhya Gokhale",4,Yes,4,4.5,4
+My Next Guest with David Letterman and Shah Rukh Khan,2019,Documentary,Michael Steed,Unknown,2,No,2,2.5,2
+Ta Ra Rum Pum,2007,"Family, Comedy, Romance",,"Siddharth Anand, Habib Faisal",3,Yes,3,3.5,3
+Humshakals,2014,Comedy,Sajid Khan,"Sajid Khan, Robin Bhatt, Akarsh Khurana, Adhir Bhatt",1,No,1,1.5,1
+Bhoot Police,2021,"Adventure, Horror, Comedy",,"Pooja Ladha Surti, Pavan Kirpalani, Sumit Batheja",3,Yes,3,3.5,3
+Baazaar,2018,"Crime, Drama, Thriller",Gauravv K. Chawla,"Parveez Sheikh, Nikkhil Advani, Aseem Arora",4,Yes,4,4.5,4
+Paathshaala,2010,"Drama, Family",,Ahmed Khan,3,No,3,3.5,3
+Soorarai Pottru,2020,"Drama, Action",Sudha Kongara Prasad,"Shalini Usha Devi, Sudha Kongara Prasad",3.5,Yes,3.5,3.5,3
+Uri: The Surgical Strike,2019,"Action, Drama, War",,Aditya Dhar,3,Yes,3,3.5,3
+Sharmaji Namkeen,2022,"Comedy, Drama",Hitesh Bhatia,"Hitesh Bhatia, Supratik Sen",2,No,2,2.5,2
+Toofaan,2021,Drama,,Anjum Rajabali,1,No,1,1.5,1
+Khiladi 786,2012,"Action, Comedy",Ashish R. Mohan,Himesh Reshammiya,2,No,2,2.5,2
+Prassthanam,2019,"Action, Drama",,Unknown,4,Yes,4,4.5,4
+Bank Chor,2017,"Comedy, Crime, Thriller",Bumpy,"Ishita Moitra, Baljeet Singh Marwah",3.5,Yes,3.5,3.5,3
+Durgamati: The Myth,2020,"Horror, Thriller",,Ashok G.,1.5,No,1.5,1.5,1
+Singh Saab the Great,2013,"Action, Drama",Anil Sharma,Shaktimaan Talwar,1,No,1,1.5,1
+83,2021,"Drama, History",,"Kabir Khan, Sanjay Puran Singh Chauhan, Vasan Bala",0.5,No,0.5,0.5,0
+Dasvi,2022,"Drama, Comedy",Tushar Jalota,"Ritesh Shah, Suresh Nair, Sandeep Leyzell, Ram Bajpai",2.5,No,2.5,2.5,2
+Nautanki Saala!,2013,"Comedy, Romance",,"Nipun Dharmadhikari, Rohan Sippy",4,Yes,4,4.5,4
+The Big Bull,2021,"Crime, Drama",Kookie Gulati,"Kookie Gulati, Arjun Dhawan",1.5,No,1.5,1.5,1
+Jodhaa Akbar,2008,"Romance, History, Drama",,"Ashutosh Gowariker, Haidar Ali",1.5,No,1.5,1.5,1
+Angry Young Men,2024,"Comedy, Drama",Paul Morris,Paul Morris,3,No,3,3.5,3
+Main Prem Ki Diwani Hoon,2003,"Romance, Drama",,Unknown,3,No,3,3.5,3
+Housefull 3,2016,"Comedy, Romance",Sajid Samji,"K. Subash, Farhad Samji, Sajid Samji",1,No,1,1.5,1
+Kyaa Kool Hai Hum,2005,Comedy,,Sachin Yardi,1.5,No,1.5,1.5,1
+Kyaa Super Kool Hain Hum,2012,Drama,Sachin Yardi,Unknown,1,No,1,1.5,1
+Fight Club: Members Only,2006,Action,,Sohail Khan,0.5,No,0.5,0.5,0
+Bangistan,2015,"Comedy, Drama",Karan Anshuman,"Puneet Krishna, Karan Anshuman, Sumit Purohit",3.5,Yes,3.5,3.5,3
+Freaky Ali,2016,"Comedy, Romance",,"Sohail Khan, Raaj Shaandilyaa",3,Yes,3,3.5,3
+Deewaar: Let's Bring Our Heroes Home,2004,"Drama, Action",Milan Luthria,Shridhar Raghavan,3,No,3,3.5,3
+Kyaa Kool Hain Hum 3,2016,Comedy,,Unknown,0.5,No,0.5,0.5,0
+Ray,2021,"Drama, Music",Taylor Hackford,"James L. White, Taylor Hackford",3.5,Yes,3.5,3.5,3
+Satyameva Jayate,2018,"Drama, Crime",,Unknown,3.5,Yes,3.5,3.5,3
+Gangs of Wasseypur - Making Uncut -  The Roots of Revenge from Wasseypur,2013,Documentary,Neeraj Ghaywan,Unknown,5,Yes,5,5,5
+Gunday,2014,"Action, Crime, Drama",,Ali Abbas Zafar,2,No,2,2.5,2
+Sardar Ka Grandson,2021,"Comedy, Drama, Romance, Family",Kaashvie Nair,"Kaashvie Nair, Anuja Chauhan",0.5,No,0.5,0.5,0
+India's Most Wanted,2019,"Action, Thriller",,Raj Kumar Gupta,0.5,No,0.5,0.5,0
+Half Girlfriend,2017,"Romance, Drama",Mohit Suri,"Tushar Hiranandani, Ishita Moitra",0.5,No,0.5,0.5,0
+"New York, I Love You",2008,"Comedy, Drama, Romance",,"Jim Strouse, Stephen Winter, Suketu Mehta, Olivier LÈcot, Israel Horovitz, Meng Yao, Shunji Iwai, Xan Cassavetes, Natalie Portman, Fatih Akin, Hall Powell, Jeff Nathanson, Hu Hong, Anthony Minghella, Joshua Marston",4,Yes,4,4.5,4
+The Xpos√©,2014,Not Found,Not Found,Not Found,1,No,1,1.5,1
+Meri Pyaari Bindu,2017,"Drama, Romance",,Suprotim Sengupta,3.5,Yes,3.5,3.5,3
+Bala,2019,Action,Catherine Hardwicke,"Gareth Dunnet-Alcocer, Gerardo Naranjo",3,Yes,3,3.5,3
+Hawaizaada,2015,"Drama, Fantasy, History",,"Vibhu Puri, Saurabh Bhave",4,Yes,4,4.5,4
+Bewakoofiyaan,2014,"Romance, Comedy, Drama",Nupur Asthana,Habib Faisal,2.5,No,2.5,2.5,2
+Kis Kisko Pyaar Karoon,2015,"Comedy, Romance",,"Anukalp Goswami, Dheeraj Sarna",2.5,No,2.5,2.5,2
+Dilwale,2015,"Action, Drama, Romance",Harry Baweja,Karan Razdan,0.5,No,0.5,0.5,0
+My Friend Ganesha,2007,"Family, Fantasy",,Rajiv S. Ruia,4,Yes,4,4.5,4
+My Friend Ganesha 2,2008,"Animation, Family, Fantasy",Rajiv S. Ruia,"Rajiv S. Ruia, S. Sachinder",4,Yes,4,4.5,4
+My Friend Ganesha 3,2010,"Drama, Animation, Comedy",,Unknown,3,No,3,3.5,3
+Chatur Singh Two Star,2011,"Action, Adventure, Comedy",Ajay Chandhok,"Rumi Jaffery, Sai Kabir, Muktsar Mandar",3,Yes,3,3.5,3
+Satyameva Jayate 2,2021,"Action, Crime, Drama, Thriller",,Milap Zaveri,0.5,No,0.5,0.5,0
+Love Story 2050,2008,"Science Fiction, Romance",Harry Baweja,Harry Baweja,0.5,No,0.5,0.5,0
+Youngistaan,2014,"Drama, Romance",,"Maitrey Bajpai, Ramiz Ilham Khan, Syed Ahmed Afzal",2,No,2,2.5,2
+Mission Majnu,2023,"Thriller, Action, Drama, History",Shantanu Bagchi,"Sumit Batheja, Parveez Shaikh, Aseem Arora",0.5,No,0.5,0.5,0
+"Good Boy, Bad Boy",2007,"Comedy, Romance",,Ashwini Chaudhary,2,No,2,2.5,2
+Jolly LLB 2,2017,"Comedy, Crime",Subhash Kapoor,Subhash Kapoor,3.5,Yes,3.5,3.5,3
+Scam 1992: The Harshad Mehta Story,2020,Not Found,,Not Found,5,Yes,5,5,5
+Karthikeya 2,2022,"Mystery, Adventure, Thriller, Action",Chandoo Mondeti,Chandoo Mondeti,0.5,No,0.5,0.5,0
+Ram Setu,2022,"Action, Adventure, Drama",,Abhishek Sharma,1,No,1,1.5,1
+JL50,2020,Not Found,Not Found,Not Found,3,No,3,3.5,3
+Bawaal,2023,"Drama, Romance, Action, History",,"Nitesh Tiwari, Piyush Gupta, Shreyas Jain, Ashwiny Iyer Tiwari, Nikhil Mehrotra",3,Yes,3,3.5,3
+Street Dancer 3D,2020,Drama,Remo D'Souza,"Jagdeep Sidhu, Tushar Hiranandani, Remo D'Souza",0.5,No,0.5,0.5,0
+Extraction,2020,"Action, Thriller",,Joe Russo,3,No,3,3.5,3
+Cinema Paradiso,1988,"Drama, Romance",Giuseppe Tornatore,"Giuseppe Tornatore, Vanna Paoli",5,Yes,5,5,5
+Baby Driver,2017,"Action, Crime",,Edgar Wright,3,Yes,3,3.5,3
+Planet of the Apes,2001,"Science Fiction, Adventure, Drama, Action",Franklin J. Schaffner,"Michael Wilson, Rod Serling",3.5,Yes,3.5,3.5,3
+Toilet: A Love Story,2017,"Comedy, Drama, Romance",,"Siddharth Singh, Garima Wahal",3.5,Yes,3.5,3.5,3
+Bedtime Stories,2008,"Fantasy, Comedy, Family, Romance",Adam Shankman,"Tim Herlihy, Matt Lopez",3.5,Yes,3.5,3.5,3
+Despicable Me 4,2024,"Family, Comedy, Animation, Science Fiction, Action",,"Mike White, Ken Daurio",3.5,Yes,3.5,3.5,3
+Kamthaan,2024,"Drama, Comedy",Dhrunad,"Jaswant parmar, Abhishek Shah, Dhrunad",3,No,3,3.5,3
+Raat,1992,Horror,,Salim Hyder,4,Yes,4,4.5,4
+6-5=2,2013,"Mystery, Horror, Adventure",K. S. Ashoka,K. S. Ashoka,3.5,Yes,3.5,3.5,3
+Dobaara: See Your Evil,2017,Horror,,Prawaal Raman,3,Yes,3,3.5,3
+Thir13en Ghosts,2001,"Horror, Thriller",Steve Beck,"Richard D'Ovidio, Neal Marshall Stevens, Todd Alcott, Robb White",3.5,Yes,3.5,3.5,3
+Tall Girl,2019,"Comedy, Drama, Romance",,Sam Wolfson,0.5,No,0.5,0.5,0
+Olympus Has Fallen,2013,"Action, Thriller",Antoine Fuqua,"Katrin Benedikt, Creighton Rothenberger",3.5,Yes,3.5,3.5,3
+London Has Fallen,2016,"Action, Thriller",,"Katrin Benedikt, Christian Gudegast, Creighton Rothenberger, Chad St. John",3.5,Yes,3.5,3.5,3
+Angel Has Fallen,2019,"Action, Thriller",Ric Roman Waugh,"Robert Mark Kamen, Matt Cook, Katrin Benedikt, Ric Roman Waugh, Creighton Rothenberger",3,Yes,3,3.5,3
+White House Down,2013,"Action, Drama, Thriller",,James Vanderbilt,2,No,2,2.5,2
+Vantage Point,2008,"Drama, Action, Thriller, Crime",Pete Travis,Barry Levy,3.5,Yes,3.5,3.5,3
+Surrogates,2009,"Science Fiction, Action, Thriller",,"Michael Ferris, John Brancato",3,No,3,3.5,3
+Crank: High Voltage,2009,"Action, Thriller, Crime",Mark Neveldine,"Brian Taylor, Mark Neveldine",3,Yes,3,3.5,3
+Guns Akimbo,2019,"Action, Comedy, Crime, Thriller",,Jason Lei Howden,2.5,No,2.5,2.5,2
+The Maze Runner,2014,"Action, Mystery, Science Fiction, Thriller",Wes Ball,"Grant Pierce Myers, Noah Oppenheim, T.S. Nowlin",3.5,Yes,3.5,3.5,3
+Maze Runner: The Death Cure,2018,"Science Fiction, Action, Adventure, Thriller",,T.S. Nowlin,3,Yes,3,3.5,3
+The Hunger Games,2012,"Science Fiction, Adventure, Action, Thriller",Gary Ross,"Gary Ross, Billy Ray, Suzanne Collins",4,Yes,4,4.5,4
+Lara Croft: Tomb Raider,2001,"Adventure, Action, Fantasy",,"Patrick Massett, John Zinman, Mike Werb, Sara B. Cooper, Michael Colleary",1.5,No,1.5,1.5,1
+Lara Croft: Tomb Raider ‚Äì The Cradle of Life,2003,"Adventure, Action, Fantasy",Jan de Bont,"Dean Georgaris, Steven E. de Souza, James V. Hart",1,No,1,1.5,1
+Red Notice,2021,"Action, Comedy, Crime",,Rawson Marshall Thurber,1,No,1,1.5,1
+Enola Holmes,2020,"Adventure, Mystery, Crime",Harry Bradbeer,"Arthur Conan Doyle, Jack Thorne",2,No,2,2.5,2
+The Mummy: Tomb of the Dragon Emperor,2008,"Adventure, Action, Fantasy",,"Alfred Gough, Miles Millar",4,Yes,4,4.5,4
+The 5th Wave,2016,"Science Fiction, Adventure, Action",J Blakeson,"Susannah Grant, Jeff Pinkner, Akiva Goldsman",3,Yes,3,3.5,3
+Independence Day,1996,"Action, Adventure, Science Fiction",,"Roland Emmerich, Dean Devlin",5,Yes,5,5,5
+Independence Day: Resurgence,2016,"Action, Adventure, Science Fiction",Roland Emmerich,"Dean Devlin, Roland Emmerich, James Vanderbilt, Nicolas Wright, James A. Woods, Gabriel Sherman",4,Yes,4,4.5,4
+Bhavesh Joshi Superhero,2018,"Action, Drama",,"Abhay Koranne, Anurag Kashyap, Vikramaditya Motwane",4,Yes,4,4.5,4
+Real Steel,2011,"Action, Science Fiction, Drama",Shawn Levy,"Jeremy Leven, Dan Gilroy, John Gatins",4,Yes,4,4.5,4
+Baadshah,1999,"Action, Comedy",,"Neeraj Vora, Shyam Goel",3.5,Yes,3.5,3.5,3
+Mr. & Mrs. Khiladi,1997,"Comedy, Romance",David Dhawan,Unknown,3,Yes,3,3.5,3
+Machine,2017,"Action, Science Fiction, Thriller",,"Patrick Hughes, James Beaufort",0.5,No,0.5,0.5,0
+Catch-22,2019,"War, Comedy",Mike Nichols,Buck Henry,5,Yes,5,5,5
+The Greatest Beer Run Ever,2022,"Drama, Comedy, War",,"Peter Farrelly, Pete Jones, Brian Hayes Currie",5,Yes,5,5,5
+Dumb Money,2023,"History, Comedy, Drama",Craig Gillespie,"Rebecca Angelo, Lauren Schuker Blum",3,No,3,3.5,3
+Catwoman,2004,"Action, Fantasy, Crime",,"John Rogers, Bob Kane, Michael Ferris, Theresa Rebeck, John Brancato",0.5,No,0.5,0.5,0
+Batman & Robin,1997,"Action, Science Fiction, Adventure",Joel Schumacher,"Akiva Goldsman, Bob Kane",3,Yes,3,3.5,3
+The Falcon and the Winter Soldier,2021,Not Found,,Not Found,1.5,No,1.5,1.5,1
+Superman,1978,"Science Fiction, Adventure, Action",James Gunn,"James Gunn, Jerry Siegel, Joe Shuster",5,Yes,5,5,5
+Finding Dory,2016,"Adventure, Animation, Family",,"Andrew Stanton, Bob Peterson, Victoria Strouse",0.5,No,0.5,0.5,0
+The Boss Baby: Family Business,2021,"Animation, Comedy, Adventure, Family",Tom McGrath,"Michael McCullers, Tom McGrath",3,Yes,3,3.5,3
+Chicken Run,2000,"Animation, Comedy, Family",,"Peter Lord, Nick Park, Karey Kirkpatrick",3.5,Yes,3.5,3.5,3
+Open Season,2006,"Animation, Family, Adventure, Comedy",Roger Allers,"Nat Mauldin, Ron J. Friedman, Steve Bencich, Sam Harper",3.5,Yes,3.5,3.5,3
+Open Season 2,2008,Comedy,,Antonin Fourlon,3.5,Yes,3.5,3.5,3
+Open Season 3,2010,"Adventure, Animation, Family, Comedy",Cody Cameron,David I. Stern,3.5,Yes,3.5,3.5,3
+Open Season: Scared Silly,2015,"Animation, Comedy, Family, Adventure",,"Steve Barr, John Norton, Kris Pearn, Stephan Franck, Paul McEvoy, David Feiss, Carlos Kotkin, John B. Carls, Jill Culton, Anthony Stacchi, Steve Moore",3.5,Yes,3.5,3.5,3
+Over the Hedge,2006,"Family, Comedy, Animation, Adventure",Karey Kirkpatrick,"Karey Kirkpatrick, Lorne Cameron, Len Blum, Tom Lewis, Michael Fry, David Hoselton",3.5,Yes,3.5,3.5,3
+The Angry Birds Movie 2,2019,"Animation, Adventure, Comedy, Family",,"Peter Ackerman, Eyal Podell, Jonathon E. Stewart",2.5,No,2.5,2.5,2
+The Many Adventures of Winnie the Pooh,1977,"Animation, Family, Adventure",John Lounsbery,"Larry Clemmons, Vance Gerry, Ralph Wright, Ted Berman, Ken Anderson, Xavier Atencio, Eric Cleworth, Julius Svendsen, A.A. Milne",4,Yes,4,4.5,4
+Once Upon a Deadpool,2018,"Comedy, Action, Adventure, Science Fiction",,"Ryan Reynolds, Rhett Reese, Paul Wernick",2.5,No,2.5,2.5,2
+CTRL,2024,"Horror, Science Fiction",Harry Lindley,"Harry Lindley, Julian Mack",2.5,No,2.5,2.5,2
+Isle of Dogs,2018,"Adventure, Comedy, Animation",,"Wes Anderson, Roman Coppola, Jason Schwartzman, Kunichi Nomura",4,Yes,4,4.5,4
+Cousin Ben Troop Screening,2012,Comedy,Wes Anderson,"Wes Anderson, Roman Coppola",3,Yes,3,3.5,3
+Do You Like to Read?,2012,"Comedy, Animation",,Wes Anderson,3,No,3,3.5,3
+Ankhon Dekhi,2013,"Comedy, Drama",Rajat Kapoor,Rajat Kapoor,5,Yes,5,5,5
+Castello Cavalcanti,2013,"Comedy, Drama",,Wes Anderson,3,Yes,3,3.5,3
+Ragini MMS,2011,"Drama, Horror, Mystery",Pavan Kirpalani,"Vaspar Dandiwala, Mayank Tewaari",2,No,2,2.5,2
+Phone Bhoot,2022,"Horror, Comedy",,"Ravi Shankaran, Jasvinder Singh Bath",3,Yes,3,3.5,3
+Betaal,2020,,Harbans,Unknown,1,No,1,1.5,1
+Creature 3D,2014,"Science Fiction, Horror",,Vikram Bhatt,2,No,2,2.5,2
+Velle,2021,"Comedy, Crime",Deven Munjal,Pankaj Kumar,0.5,No,0.5,0.5,0
+Zindagi Na Milegi Dobara,2011,"Drama, Comedy, Romance",,"Zoya Akhtar, Reema Kagti",5,Yes,5,5,5
+Ahista Ahista,2006,Romance,Unknown,Unknown,3.5,Yes,3.5,3.5,3
+Saawariya,2007,"Drama, Music, Romance, Family",,"Prakash R. Kapadia, Vibhu Puri",4,Yes,4,4.5,4
+Bottle Rocket,1996,"Comedy, Crime, Drama",Wes Anderson,"Owen Wilson, Wes Anderson",3.5,Yes,3.5,3.5,3
+Guzaarish,2010,"Drama, Romance",,"Sanjay Leela Bhansali, Bhavani Iyer, Rutvik Oza, Vibhu Puri",4,Yes,4,4.5,4
+Black,2005,"Action, Adventure, Science Fiction",Ryan Coogler,"Ryan Coogler, Joe Robert Cole",3,Yes,3,3.5,3
+Modern Masters: SS Rajamouli,2024,Documentary,,Unknown,1,No,1,1.5,1
+Do Aur Do Pyaar,2024,"Romance, Comedy, Drama",Shirsha Guha Thakurta,"Eisha Chopra, Suprotim Sengupta",2.5,No,2.5,2.5,2
+Hasmukh,2020,Drama,,Mahesh Dattani,4,Yes,4,4.5,4
+Daawat-e-Ishq,2014,"Drama, Romance, Comedy",Habib Faisal,Habib Faisal,3.5,Yes,3.5,3.5,3
+Bang Baaja Baaraat,2015,"Comedy, Drama, Romance",,"Habib Faisal, Maneesh Sharma",3,Yes,3,3.5,3
+Khamoshi: The Musical,1996,"Drama, Romance",Sanjay Leela Bhansali,Sanjay Leela Bhansali,4,Yes,4,4.5,4
+Vettaiyan,2024,"Action, Crime, Drama",,"Kiruthika B, T. J. Gnanavel",1,No,1,1.5,1
+Zwigato,2022,Drama,Nandita Das,"Nandita Das, Samir Patil",2.5,No,2.5,2.5,2
+Leila,2019,"Thriller, Drama",,Lesley Manning,3,No,3,3.5,3
+Bicycle Thieves,1948,Drama,Vittorio De Sica,"Cesare Zavattini, Oreste Biancoli, Suso Cecchi d'Amico, Vittorio De Sica, Adolfo Franci, Gerardo Guerrieri, Gherardo Gherardi",5,Yes,5,5,5
+Raja Babu,1994,"Comedy, Drama, Romance",,K. Bhagyaraj,2,No,2,2.5,2
+Gopi Kishan,1994,"Action, Comedy, Drama",Mukesh Duggal,Anees Bazmee,3,Yes,3,3.5,3
+Bol Radha Bol,1992,"Comedy, Thriller, Romance",,Sanjeev Duggal,3,Yes,3,3.5,3
+Ek Doctor Ki Maut,1990,Drama,Tapan Sinha,"Ramapada Chowdhury, Tapan Sinha",5,Yes,5,5,5
+Singham Again,2024,"Action, Drama, Thriller, Crime",,"Abhijeet Khuman, Rohit Shetty, Anusha Nandakumar, Yunus Sajawal, Kshitij Patwardhan, Sandeep Saket",1.5,No,1.5,1.5,1
+Meiyazhagan,2024,"Family, Drama",C. Prem Kumar,C. Prem Kumar,3.5,Yes,3.5,3.5,3
+Hostel Hudugaru Bekagiddare,2023,Comedy,,Nithin Krishnamurthy,4,Yes,4,4.5,4
+Scooby-Doo,2002,"Mystery, Adventure, Comedy",Raja Gosnell,"James Gunn, Craig Titley",3,No,3,3.5,3
+Lemony Snicket's A Series of Unfortunate Events,2004,"Adventure, Comedy, Family",,Robert Gordon,3.5,Yes,3.5,3.5,3
+Fighter,2024,"Action, Comedy, Fantasy",Kitao Sakurai,"Dalan Musson, Gary Dauberman, T.J. Fixman, Kitao Sakurai",1.5,No,1.5,1.5,1
+The Vaccine War,2023,"Drama, Thriller",,Vivek Agnihotri,0.5,No,0.5,0.5,0
+Kaalakaandi,2018,"Comedy, Thriller, Drama",Akshat Verma,"karthik bera, Akshat Verma",4,Yes,4,4.5,4
+Arjun Patiala,2019,"Comedy, Romance",,Ritesh Shah,2,No,2,2.5,2
+Chernobyl,2019,"Drama, History, Action",Danila Kozlovsky,"Alexey Kazakov, Elena Ivanova",5,Yes,5,5,5
+The Conjuring 2,2016,Horror,,"Carey Hayes, Chad Hayes, James Wan, David Leslie Johnson-McGoldrick",3,Yes,3,3.5,3
+The Conjuring: The Devil Made Me Do It,2021,"Horror, Mystery, Thriller",Michael Chaves,"David Leslie Johnson-McGoldrick, Chad Hayes, Carey Hayes, James Wan",1.5,No,1.5,1.5,1
+Elf,2003,"Comedy, Family, Fantasy",,"David Berenbaum, Jon Favreau",2,No,2,2.5,2
+8-Bit Christmas,2021,"Family, Comedy",Michael Dowse,Kevin Jakubowski,2,No,2,2.5,2
+Doctor Who: The Giggle,2023,Not Found,,Not Found,3.5,Yes,3.5,3.5,3
+Klaus,2019,"Animation, Family, Comedy",Sergio Pablos,"Zach Lewis, Jim Mahoney, Sergio Pablos",5,Yes,5,5,5
+The Last Voyage of the Demeter,2023,"Horror, Fantasy",,"Zak Olkewicz, Bragi F. Schut",1,No,1,1.5,1
+Pleasure,2021,Drama,Ninja Thyberg,Ninja Thyberg,3,Yes,3,3.5,3
+The Sabarmati Report,2024,"Drama, Thriller, Crime",,"Arjun Bhandegaonkar, Avinash Singh Tomar, Aseem Arora",0.5,No,0.5,0.5,0
+Lucky Baskhar,2024,"Thriller, Crime, Drama",Venky Atluri,Venky Atluri,3.5,Yes,3.5,3.5,3
+Missing,2018,"Drama, Mystery, Thriller",,"Nicholas D. Johnson, Will Merrick, Sev Ohanian, Aneesh Chaganty",3.5,Yes,3.5,3.5,3
+Grown Ups 2,2013,Comedy,Dennis Dugan,"Adam Sandler, Fred Wolf, Tim Herlihy",4.5,Yes,4.5,4.5,4
+Happy Ending,2014,"Drama, Romance",,"Rush Borja, Erick Castro",3,No,3,3.5,3
+Pari,2018,Drama,Siamak Etemadi,Siamak Etemadi,3,Yes,3,3.5,3
+3 AM - A Paranormal Experience,2014,"Horror, Romance",,Vishal Mahadkar,0.5,No,0.5,0.5,0
+Chhalaang,2020,"Comedy, Drama",Hansal Mehta,"Luv Ranjan, Zeishan Quadri, Aseem Arora",2,No,2,2.5,2
+Vicky Vidya Ka Woh Wala Video,2024,Comedy,,"Yusuf Ali Khan, Raaj Shaandilyaa",0.5,No,0.5,0.5,0
+Khufiya,2023,"Crime, Thriller, Mystery",Vishal Bhardwaj,"Rohan Narula, Vishal Bhardwaj",4,Yes,4,4.5,4
+Sam Bahadur,2023,"Drama, History, War",,"Bhavani Iyer, Shantanu Srivastava, Meghna Gulzar",0.5,No,0.5,0.5,0
+Aath Aana,2023,Drama,Pragyan,Pragyan,3.5,Yes,3.5,3.5,3
+Chup,2022,Comedy,,"Neeraj Vora, Priyadarshan",3.5,Yes,3.5,3.5,3
+Two Acres of Land,1953,Drama,Bimal Roy,"Salil Chowdhury, Hrishikesh Mukherjee",4.5,Yes,4.5,4.5,4
+12 ‚Äúo‚Äù CLOCK,2021,Not Found,,Not Found,3.5,Yes,3.5,3.5,3
+Rifle Club,2024,"Action, Thriller",Aashiq Abu,"Suhas, Syam Pushkaran, Dileesh Nair",3,Yes,3,3.5,3
+AK vs AK: The Final Battle,2020,Comedy,,Unknown,3,Yes,3,3.5,3
+Detective Byomkesh Bakshy!,2015,"Action, Mystery, Drama",Dibakar Banerjee,"Dibakar Banerjee, Urmi Juvekar",3,No,3,3.5,3
+Bhool Bhulaiyaa 3,2024,"Horror, Comedy",,Aakash Kaushik,0.5,No,0.5,0.5,0
+RRR: Behind & Beyond,2024,Documentary,S. S. Rajamouli,Unknown,3,No,3,3.5,3
+Wild Wild Punjab,2024,"Comedy, Adventure",,"Luv Ranjan, Sandeep Jain, Harman Wadala",3.5,Yes,3.5,3.5,3
+Sonic the Hedgehog,2020,"Action, Science Fiction, Comedy, Family",Jeff Fowler,"Josh Miller, Patrick Casey",3.5,Yes,3.5,3.5,3
+Die Hard,1988,"Action, Thriller",,"Jeb Stuart, Steven E. de Souza",3.5,Yes,3.5,3.5,3
+Sonic the Hedgehog 3,2024,"Action, Science Fiction, Comedy, Family",Jeff Fowler,"Patrick Casey, Josh Miller, John Whittington",3.5,Yes,3.5,3.5,3
+Face/Off,1997,"Action, Crime, Science Fiction",,"Mike Werb, Michael Colleary",4,Yes,4,4.5,4
+Bajatey Raho,2013,"Comedy, Drama, Thriller",Shashant Shah,Unknown,3,Yes,3,3.5,3
+Chhappad Phaad Ke,2019,"Drama, Comedy",,"Sameer Joshi, Yashodhan Kelkar",3.5,Yes,3.5,3.5,3
+Suraj Pe Mangal Bhari,2020,"Comedy, Drama",Abhishek Sharma,"Rohan Shankar, Shokhi Banerjee",2.5,No,2.5,2.5,2
+Love Ni Bhavai,2017,"Romance, Drama, Comedy",,"Nehal Bakshi, Mitai Shukla",4.5,Yes,4.5,4.5,4
+Chef,2017,"Drama, Comedy, Family",Raja Menon,"Raja Menon, Ritesh Shah, Suresh Nair",3,Yes,3,3.5,3
+Eklavya: The Royal Guard,2007,"Action, Drama, Thriller",,"Vidhu Vinod Chopra, Abhijat Joshi",3.5,Yes,3.5,3.5,3
+Paan Singh Tomar,2012,"Crime, Drama",Tigmanshu Dhulia,"Tigmanshu Dhulia, Sanjay Chauhan",3,No,3,3.5,3
+Mrs.,2023,Drama,,"Sudipa Chatterjee, Agnidev Chatterjee",2,No,2,2.5,2
+Emergency,2025,"Comedy, Drama, Thriller",Carey Williams,K.D. D·vila,0.5,No,0.5,0.5,0
+Sky Force,2025,"Action, Thriller, War, History",,"Sandeep Kewlani, Carl Austin, Niren Bhatt",2,No,2,2.5,2
+Madam Chief Minister,2021,Drama,Subhash Kapoor,Subhash Kapoor,1.5,No,1.5,1.5,1
+Phas Gaye Re Obama,2010,"Comedy, Crime",,"Subhash Kapoor, Shellee, Gopal Tiwari",4,Yes,4,4.5,4
+A Flying Jatt,2016,"Fantasy, Action, Adventure",Remo D'Souza,"Tushar Hiranandani, Remo D'Souza, Aakash Kaushik, Madhur Sharma",0.5,No,0.5,0.5,0
+The Gorge,2025,"Romance, Science Fiction, Thriller",,Zach Dean,3,Yes,3,3.5,3
+Darkest Hour,2017,"Drama, History",Joe Wright,Anthony McCarten,4,Yes,4,4.5,4
+Charlie Wilson's War,2007,"Comedy, Drama, History",,Aaron Sorkin,3.5,Yes,3.5,3.5,3
+A Death in the Gunj,2016,"Drama, Thriller",Konkona Sen Sharma,"Konkona Sen Sharma, Mukul Sharma",1.5,No,1.5,1.5,1
+Crazxy,2025,Thriller,,Girish Kohli,0.5,No,0.5,0.5,0
+Superboys of Malegaon,2024,"Comedy, Drama, History",Reema Kagti,Varun Grover,3.5,Yes,3.5,3.5,3
+Gold,2018,"Adventure, Drama, Thriller",,"Patrick Massett, John Zinman",0.5,No,0.5,0.5,0
+Dabba Cartel,2025,Not Found,Not Found,Not Found,2,No,2,2.5,2
+Contact,1997,"Drama, Science Fiction, Mystery",,"James V. Hart, Michael Goldenberg, Carl Sagan, Ann Druyan",3.5,Yes,3.5,3.5,3
+Midnight Mass,2021,Drama,Ivan Predmersk˝,Unknown,3.5,Yes,3.5,3.5,3
+Begum Jaan,2017,"Action, Drama, History",,"Srijit Mukherji, Niranjan Iyengar, Kausar Munir",2,No,2,2.5,2
+UI,2024,"Thriller, Fantasy",Upendra,Upendra,3,No,3,3.5,3
+Spider-Man: Across the Spider-Verse,2023,"Animation, Action, Adventure, Science Fiction",,"Phil Lord, Christopher Miller, David Callaham",2.5,No,2.5,2.5,2
+Fantastic Beasts: The Secrets of Dumbledore,2022,"Fantasy, Adventure",David Yates,"J.K. Rowling, Steve Kloves",3.5,Yes,3.5,3.5,3
+Fakt Mahilao Maate,2022,"Comedy, Drama",,"Jay Bodas, Karan Bhanushali, Humayun Makrani",2.5,No,2.5,2.5,2
+Why Cheat India,2019,"Drama, Crime",Soumik Sen,Soumik Sen,2.5,No,2.5,2.5,2
+Sabdham,2025,"Thriller, Horror",,Arivazhagan Venkatachalam,2,No,2,2.5,2
+Novocaine,2025,"Action, Comedy, Thriller",Dan Berk,Lars Jacobson,2,No,2,2.5,2
+The Fakir of Venice,2009,"Comedy, Drama",,"Rajesh Devraj, Homi Adajania",3.5,Yes,3.5,3.5,3
+Baida,2025,"Adventure, Science Fiction, Thriller",Puneet Sharma,Sudhanshu Rai,1,No,1,1.5,1
+The Diplomat,2025,"Thriller, Drama",,Ritesh Shah,2,No,2,2.5,2
+3 Idiotas,2017,"Family, Comedy",Carlos Bolado,"Martha Higareda, Mariana Alatriste, Juan Santiago Huerta, Bernardo Rugama",2,No,2,2.5,2
+The Four Feathers,2002,"Action, Adventure, Drama, Romance, War",,"Michael Schiffer, Hossein Amini",4,Yes,4,4.5,4
+Reva,2018,Drama,Vinit Kanojia,"Vinit Kanojia, Chetan Dhanani, Rahul Bhole",3.5,Yes,3.5,3.5,3
+Bachubhai,2023,"Drama, Comedy",,"Chirayu Mistry, Om Bhatt, Manan Desai",0.5,No,0.5,0.5,0
+Zakir Khan: Delulu Express,2025,Comedy,Karan Asnani,Zakir Khan,3.5,Yes,3.5,3.5,3
+Zakir Khan: Kaksha Gyarvi,2018,Comedy,,Zakir Khan,5,Yes,5,5,5
+Zakir Khan: Tathastu,2022,"Comedy, TV Movie",Unknown,Zakir Khan,5,Yes,5,5,5
+Zakir Khan: Mannpasand,2023,Comedy,,Zakir Khan,3.5,Yes,3.5,3.5,3
+Zakir Khan: Haq Se Single,2017,Comedy,Angshuman Ghosh,Zakir Khan,4,Yes,4,4.5,4
+Tropic Thunder,2008,"Action, Comedy, Adventure, War",,"Justin Theroux, Etan Cohen, Ben Stiller",3.5,Yes,3.5,3.5,3
+Death Proof,2007,"Action, Thriller",Quentin Tarantino,Quentin Tarantino,3,Yes,3,3.5,3
+Blurr,2022,"Horror, Thriller, Mystery",,"Ajay Bahl, Pawan Sony",3,Yes,3,3.5,3
+Manan Desai: Jati Rehje,2024,Comedy,Karan Asnani,"Manan Desai, Kaushika Desai",3.5,Yes,3.5,3.5,3
+Geethanjali,2013,,,Unknown,2.5,Yes,2.5,2.5,2
+Sadma,1983,"Drama, Romance",Balu Mahendra,Balu Mahendra,4,Yes,4,4.5,4
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,"Adventure, Family, Fantasy",,"Michael Petroni, Christopher Markus, Stephen McFeely",3,Yes,3,3.5,3
+Sparsh,2019,Drama,Ankush Bhatt,Priya Ranjan Panigrahi,3,No,3,3.5,3
+Ahalya,2015,Thriller,,"Sujoy Ghosh, Satyajit Ray",3.5,Yes,3.5,3.5,3
+Don't Look Away,2017,"Horror, Thriller",Michael Bafaro,"Michael Mitton, Michael Bafaro",1,No,1,1.5,1
+Kriti,2016,Thriller,,Unknown,4,Yes,4,4.5,4
+Yeh Teraa Ghar Yeh Meraa Ghar,2001,"Comedy, Drama, Romance",Priyadarshan,Neeraj Vora,2,No,2,2.5,2
+Kyon Ki...,2005,"Romance, Drama",,Priyadarshan,3,No,3,3.5,3
+Adolescence,2025,"Drama, Romance",Ashley Avis,"Mickey River, Ashley Avis, Cal Barnes",4,Yes,4,4.5,4
+Hop,2011,"Animation, Comedy, Family",,"Cinco Paul, Ken Daurio, Brian Lynch",3.5,Yes,3.5,3.5,3
+The Night Manager,2016,Not Found,Not Found,Not Found,4,Yes,4,4.5,4
+Court: State vs. A Nobody,2025,"Drama, Romance, Crime",,"Vamsidhar Sirigiri, Karthikeya Sreenivass, Ram Jagadeesh",2,No,2,2.5,2
+Khauf,2025,,Salim Shaheen,Masjidi Zalmai,3.5,Yes,3.5,3.5,3
+Hum Kisi Se Kum Nahin,2002,"Comedy, Action, Romance, Drama",,"Javed Siddiqui, Rumi Jaffery, Robin Bhatt",2,No,2,2.5,2
+Mickey 17,2025,"Science Fiction, Comedy, Adventure",Bong Joon Ho,Bong Joon Ho,4,Yes,4,4.5,4
+Badminton,2025,,,Anuvab Pal,2.5,No,2.5,2.5,2
+Khujli,2017,Comedy,Sonam Nair,Sonam Nair,3.5,Yes,3.5,3.5,3
+Ouch,2016,,,Zach Kornfeld,3,No,3,3.5,3
+Jewel Thief - The Heist Begins,2025,"Action, Thriller",Robby Grewal,David Logan,1.5,No,1.5,1.5,1
+Namastey London,2007,"Comedy, Drama, Romance",,"Suresh Nair, Ritesh Shah",2.5,No,2.5,2.5,2
+Good Bad Ugly,2025,Western,Sergio Leone,"Luciano Vincenzoni, Sergio Leone, Agenore Incrocci, Furio Scarpelli",3,No,3,3.5,3
+Khamoshiyan,2015,"Drama, Horror",,Vikram Bhatt,1.5,No,1.5,1.5,1
+Baida,2025,"Adventure, Science Fiction, Thriller",Puneet Sharma,Sudhanshu Rai,1.5,No,1.5,1.5,1
+Vakeel Babu,2022,Drama,,"kanishka deo, Suyash Barve",3,No,3,3.5,3
+Uncharted,2022,"Action, Adventure",Ruben Fleischer,"Rafe Judkins, Matt Holloway, Art Marcum",2,No,2,2.5,2
+Karate Kid: Legends,2025,"Action, Adventure, Drama",,"Christopher Murphey, Robert Mark Kamen, Rob Lieber",2,No,2,2.5,2
+Final Destination Bloodlines,2025,"Horror, Mystery",Adam B. Stein,"Guy Busick, Jon Watts, Lori Evans Taylor, Jeffrey Reddick",3.5,Yes,3.5,3.5,3
+36 China Town,2006,"Comedy, Thriller",,Shyam Goel,2.5,No,2.5,2.5,2
+Bluffmaster Gujjubhai,2025,Comedy,Siddharth Randeria,Unknown,3,Yes,3,3.5,3
+Gujjubhai Banya Dabang,,Comedy,,Unknown,4,Yes,4,4.5,4
+Risky Business,1983,"Romance, Comedy, Drama",Paul Brickman,Paul Brickman,4,Yes,4,4.5,4
+Jerry Maguire,1996,"Comedy, Drama, Romance",,Cameron Crowe,4,Yes,4,4.5,4
+Haseena Maan Jaayegi,1999,"Action, Comedy",David Dhawan,Unknown,4,Yes,4,4.5,4
+Fountain of Youth,2025,"Adventure, Fantasy, Mystery",,James Vanderbilt,3,No,3,3.5,3
+Housefull 5,2025,"Comedy, Mystery, Thriller",Tarun Mansukhani,"Sajid Nadiadwala, Farhad Samji, Tarun Mansukhani",2.5,No,2.5,2.5,2
+We're the Millers,2013,"Comedy, Crime",,"Bob Fisher, Steve Faber, Sean Anders, John Morris",3.5,Yes,3.5,3.5,3
+Shikara,2020,"Drama, Romance",Vidhu Vinod Chopra,"Abhijat Joshi, Rahul Pandita, Vidhu Vinod Chopra",4.5,Yes,4.5,4.5,4
+How to Train Your Dragon: The Hidden World,2019,"Animation, Family, Adventure",,Dean DeBlois,3,Yes,3,3.5,3
+How to Train Your Dragon: Homecoming,2019,"Animation, Fantasy, Adventure, Family",Tim Johnson,"Jonathan Groff, Jon Pollack",3,Yes,3,3.5,3
+The Tomorrow War,2021,"Action, Science Fiction, Adventure",,Zach Dean,3,Yes,3,3.5,3
+99,2009,Documentary,David Junyent,Unknown,3,Yes,3,3.5,3
+Piku,2015,"Comedy, Drama",,Juhi Chaturvedi,4,Yes,4,4.5,4
+Aatma,2013,"Drama, Thriller, Horror, Crime",Deepak Ramsay,Unknown,1.5,No,1.5,1.5,1
+OMG 2,2023,"Comedy, Drama",,Amit Rai,2.5,No,2.5,2.5,2
+Do Lafzon Ki Kahani,2016,"Drama, Romance, Action",Deepak Tijori,Girish Dhamija,3,No,3,3.5,3
+Rear Window,1954,"Thriller, Mystery, Drama",,John Michael Hayes,3.5,Yes,3.5,3.5,3
+Maa,2025,Drama,Baljit Singh Deo,Rana Ranbir,2,No,2,2.5,2
+Life in a Metro,2007,"Drama, Romance",,Anurag Basu,4.5,Yes,4.5,4.5,4
+Kapkapiii,2025,"Horror, Comedy",Sangeeth Sivan,"Saurabh Anand, kumar priyadarshi",3.5,Yes,3.5,3.5,3
+Perfume: The Story of a Murderer,2006,"Crime, Fantasy, Drama",,"Bernd Eichinger, Tom Tykwer, Andrew Birkin",3.5,Yes,3.5,3.5,3
+Dekalog,1989,,Alex ColÈman,Unknown,5,Yes,5,5,5
+Dora and the Lost City of Gold,2019,"Family, Comedy, Adventure",,"Nicholas Stoller, Matthew Robinson, Tom Wheeler",3,Yes,3,3.5,3
+Dora and the Search for Sol Dorado,2025,"Family, Comedy, Adventure",Alberto Belli,JT Billings,3,Yes,3,3.5,3
+Danny Jigar - Ek Matra,2024,"Comedy, Action",,"Jaswant parmar, Krishnadev Yagnik",3.5,Yes,3.5,3.5,3
+Sitaare Zameen Par,2025,"Comedy, Drama",R. S. Prasanna,Divy Nidhi Sharma,3,No,3,3.5,3
+Metro... In Dino,2025,"Drama, Romance, Comedy",,"Anurag Basu, Sandeep Shrivastava, Samrat Chakraborty",4.5,Yes,4.5,4.5,4
+Vir Das: Fool Volume,2025,Comedy,Vir Das,Vir Das,3.5,Yes,3.5,3.5,3
+The Fantastic 4: First Steps,2025,"Science Fiction, Adventure, Action",,"Jack Kirby, Stan Lee, Eric Pearson, Jeff Kaplan, Ian Springer, Kat Wood, Josh Friedman",2.5,No,2.5,2.5,2
+Frankie and Johnny,1991,"Drama, Romance, Comedy",Garry Marshall,Terrence McNally,3,Yes,3,3.5,3
+Happy Gilmore 2,2025,Comedy,,"Tim Herlihy, Adam Sandler",3,Yes,3,3.5,3
+"English, August",1994,"Comedy, Drama",Dev Benegal,Dev Benegal,3.5,Yes,3.5,3.5,3
+Son of Sardaar 2,2025,"Comedy, Drama",,"Jagdeep Singh Sidhu, Mohit Jain",0.5,No,0.5,0.5,0
+Good Boys,2019,Comedy,Gene Stupnitsky,"Lee Eisenberg, Gene Stupnitsky",2.5,No,2.5,2.5,2
+"Honey, I Shrunk the Kids",1989,"Adventure, Comedy, Family, Science Fiction",,"Ed Naha, Tom Schulman, Brian Yuzna, Stuart Gordon",3.5,Yes,3.5,3.5,3
+"Honey, We Shrunk Ourselves",1997,"Adventure, Comedy, Family, Science Fiction",Dean Cundey,"Karey Kirkpatrick, Nell Scovell, Joel Hodgson",3.5,Yes,3.5,3.5,3
+Jurassic World Rebirth,2025,"Science Fiction, Adventure, Action",,"David Koepp, Michael Crichton",2.5,No,2.5,2.5,2
+Vikram,2022,"Action, Crime, Thriller",Lokesh Kanagaraj,"Lokesh Kanagaraj, Rathna Kumar",3.5,Yes,3.5,3.5,3
+Red Lights,2012,Thriller,,Rodrigo CortÈs,3.5,Yes,3.5,3.5,3
+The Sound of Your Heart,2016,"Animation, Comedy",Kim Hyun-Soo,Unknown,4,Yes,4,4.5,4
+Chhorii 2,2025,"Horror, Drama",,"Vishal Furia, Ajit Jagtap, Divya Prakash Dubey",2.5,No,2.5,2.5,2
+Sikandar Ka Muqaddar,2024,"Thriller, Crime, Mystery, Action",Neeraj Pandey,"Neeraj Pandey, Vipul K Rawal",2,No,2,2.5,2
+Maharaja,2024,"Action, Thriller, Mystery",,Nithilan Saminathan,3,No,3,3.5,3
+War,2019,"Action, Science Fiction, Thriller",Patrick Hughes,"Patrick Hughes, James Beaufort",3,Yes,3,3.5,3
+The Shaukeens,2014,Comedy,,Unknown,2.5,Yes,2.5,2.5,2
+Coolie,2025,"Action, Thriller, Crime",Lokesh Kanagaraj,"Lokesh Kanagaraj, Chandhru Anbazhagan",2.5,Yes,2.5,2.5,2
+Superman,2025,"Science Fiction, Adventure, Action",,"James Gunn, Jerry Siegel, Joe Shuster",2,Yes,2,2.5,2
+War 2,2025,"Action, Thriller",Ayan Mukerji,"Aditya Chopra, Shridhar Raghavan",0.5,No,0.5,0.5,0
+Aavesham,2024,Drama,,Unknown,4,Yes,4,4.5,4
+Just Like Heaven,2005,"Comedy, Romance, Fantasy",Mark Waters,"Leslie Dixon, Peter Tolan",3,No,3,3.5,3
+Petta,2019,Action,,Karthik Subbaraj,2,No,2,2.5,2
+Pataakha,2018,"Action, Comedy, Drama",Vishal Bhardwaj,"Vishal Bhardwaj, Charan Singh Pathik",3.5,Yes,3.5,3.5,3
+Chhichhore,2019,"Romance, Comedy, Drama",,"Nitesh Tiwari, Piyush Gupta, Nikhil Mehrotra",3,Yes,3,3.5,3
+The Best of Times,1986,Comedy,Roger Spottiswoode,Ron Shelton,3,No,3,3.5,3
+Vash Level 2,2025,"Thriller, Horror",,Krishnadev Yagnik,2,No,2,2.5,2
+Malena,2000,Drama,Giuseppe Tornatore,Giuseppe Tornatore,4,Yes,4,4.5,4
+The Thursday Murder Club,2025,"Comedy, Mystery, Crime",,"Katy Brand, Suzanne Heathcote",3.5,Yes,3.5,3.5,3
+The Raffle,1991,Drama,Francesco Laudadio,Francesco Laudadio,3.5,Yes,3.5,3.5,3
+Rangoon,2017,"War, History, Drama, Romance",,"Sabrina Dhawan, Matthew Robbins, Vishal Bhardwaj",3.5,Yes,3.5,3.5,3
+Fursat,2023,"Romance, Music, Science Fiction",Vishal Bhardwaj,"Jyotsna Hariharan, Vishal Bhardwaj",4,Yes,4,4.5,4
+See How They Run,2022,"Mystery, Comedy, Crime",,Mark Chappell,3,Yes,3,3.5,3
+Panic Room,2002,"Crime, Drama, Thriller",David Fincher,David Koepp,2.5,No,2.5,2.5,2
+The Three Musketeers,2011,"Adventure, Action, Thriller",,"Alex Litvak, Andrew Davies",2,No,2,2.5,2
+Charlie's Angels,2000,"Action, Comedy, Adventure",McG,"Ryan Rowe, John August, Ed Solomon",3.5,Yes,3.5,3.5,3
+Teenage Mutant Ninja Turtles,2014,"Science Fiction, Action, Adventure, Comedy",,"Evan Daugherty, Kevin Eastman, Josh Appelbaum, Peter Laird, AndrÈ Nemec",3,No,3,3.5,3
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,"Action, Adventure, Comedy, Family, Science Fiction",Dave Green,"Josh Appelbaum, Peter Laird, AndrÈ Nemec, Kevin Eastman",3,No,3,3.5,3
+The Old Guard,2020,"Action, Fantasy",,Greg Rucka,1.5,No,1.5,1.5,1
+Mission: Impossible ‚Äì The Final Reckoning,2025,"Action, Thriller, Adventure",Christopher McQuarrie,"Christopher McQuarrie, Erik Jendresen",4,Yes,4,4.5,4
+Thalaivii,2021,Drama,,"Vijayendra Prasad, Ajayan Bala",0.5,No,0.5,0.5,0
+Thackeray,2019,"Drama, History",Abhijit Panse,"Sanjay Raut, Abhijit Panse",0.5,No,0.5,0.5,0
+Shakuntala Devi,2020,"Drama, Family, Comedy",,"Anu Menon, Nayanika Mahtani",0.5,No,0.5,0.5,0
+Dil Kabaddi,2008,"Drama, Romance",Anil Senior,Unknown,4,Yes,4,4.5,4
+Fast X,2023,"Action, Crime, Thriller",,"Gary Scott Thompson, Justin Lin, Dan Mazeau, Zach Dean",4,Yes,4,4.5,4
+Inspector Zende,2025,"Comedy, Drama, Thriller",Chinmay Mandlekar,Chinmay Mandlekar,1.5,No,1.5,1.5,1
+The Bengal Files,2025,"Drama, History, Thriller",,"Vivek Agnihotri, Saurabh M. Pandey",0.5,No,0.5,0.5,0
+The Tashkent Files,2019,"Drama, Mystery, Thriller, History",Vivek Agnihotri,Vivek Agnihotri,4,Yes,4,4.5,4
+Honey Don't!,2025,"Comedy, Crime, Mystery, Thriller",,"Ethan Coen, Tricia Cooke",2,No,2,2.5,2
+Drive-Away Dolls,2024,"Comedy, Crime",Ethan Coen,"Ethan Coen, Tricia Cooke",3.5,Yes,3.5,3.5,3
+Mirage,2018,"Drama, Western",,Cyborg Kaori,1.5,No,1.5,1.5,1
+Ek Paheli Leela,2015,"Romance, Music, Thriller, Horror",Bobby Khan,Bunty Rathore,3,Yes,3,3.5,3
+Don,2007,"Adventure, Romance",,Bess Meredyth,3.5,Yes,3.5,3.5,3
+Turbo,2013,"Animation, Family",David Soren,"David Soren, Darren Lemke, Robert D. Siegel, Guy Bar'ely",4,Yes,4,4.5,4
+Hugo,2011,"Adventure, Drama, Family",,John Logan,4,Yes,4,4.5,4
+Gandhi,1982,"Drama, History",Richard Attenborough,John Briley,3.5,Yes,3.5,3.5,3
+The Tiger of Eschnapur,1959,"Adventure, Drama, Romance",,"Werner Jˆrg L¸ddecke, Fritz Lang, Richard Eichberg",3,Yes,3,3.5,3
+That Girl in Yellow Boots,2011,"Crime, Drama, Mystery, Thriller",Anurag Kashyap,"Anurag Kashyap, Kalki Koechlin",3,Yes,3,3.5,3
+Jolly LLB 3,2025,"Drama, Comedy",,Subhash Kapoor,1,No,1,1.5,1
+Ittefaq,1969,Thriller,Sanjay Khanna,"Imtiaz Patel, Yunus Sajawal, Sameer",3.5,Yes,3.5,3.5,3
+Shiva,1990,Drama,,Unknown,3.5,Yes,3.5,3.5,3
+Thunivu,2023,"Action, Crime, Thriller, Comedy",H. Vinoth,H. Vinoth,3,Yes,3,3.5,3
+Oppam,2016,Thriller,,"Priyadarshan, Govind Vijayan",3,Yes,3,3.5,3
+A Trip to the Moon,1902,"History, Adventure, Science Fiction",Georges MÈliËs,Georges MÈliËs,3,No,3,3.5,3
+Le ch√¢teau hant√©,1897,Not Found,,Not Found,4,Yes,4,4.5,4
+The Skeleton Dance,1929,"Animation, Family, Music, Comedy, Horror",Walt Disney,Unknown,5,Yes,5,5,5
+Steamboat Willie,1928,"Animation, Comedy",,"Ub Iwerks, Walt Disney",5,Yes,5,5,5
+Rope,1948,"Thriller, Crime, Drama",Alfred Hitchcock,Arthur Laurents,4,Yes,4,4.5,4
+Mahavatar Narsimha,2024,"Animation, Action, Fantasy, Drama",,"Ashwin Kumar, Jaypurna Das, Rudra Pratap Ghosh",2,No,2,2.5,2
+Percy Jackson: Sea of Monsters,2013,"Adventure, Family, Fantasy",Thor Freudenthal,Marc Guggenheim,0.5,No,0.5,0.5,0
+The Blue Umbrella,2005,"Animation, Romance",,Saschka Unseld,3,Yes,3,3.5,3
+The Red Balloon,1956,"Comedy, Drama, Family, Fantasy",Albert Lamorisse,Albert Lamorisse,4,Yes,4,4.5,4
+The Big Shave,1967,"Horror, Drama",,Martin Scorsese,3.5,Yes,3.5,3.5,3
+Whimsical Illusions,1909,"Comedy, Fantasy",Georges MÈliËs,Georges MÈliËs,2,No,2,2.5,2
+Indiana Jones and the Kingdom of the Crystal Skull,2008,"Adventure, Action",,"David Koepp, George Lucas, Jeff Nathanson, Philip Kaufman",4,Yes,4,4.5,4
+Chirayu Mistry: Mistry Solved,2024,Comedy,Chirayu Mistry,Chirayu Mistry,3,Yes,3,3.5,3
+The Ba***ds of Bollywood,2025,Not Found,,Not Found,4,No,4,4.5,4
+Bachu Ni Benpani,2025,Comedy,Vipul Mehta,Vipul Mehta,3.5,Yes,3.5,3.5,3
+Tetris,2023,"Thriller, History, Drama",,Noah Pink,3.5,Yes,3.5,3.5,3
+Indiana Jones and the Dial of Destiny,2023,"Adventure, Action",James Mangold,"Philip Kaufman, George Lucas, David Koepp, John-Henry Butterworth, Jez Butterworth, James Mangold",3.5,Yes,3.5,3.5,3
+GoodFellas,1990,"Drama, Crime",,"Nicholas Pileggi, Martin Scorsese",4,Yes,4,4.5,4
+The Man from U.N.C.L.E.,2015,"Comedy, Action, Adventure",Guy Ritchie,"Lionel Wigram, Guy Ritchie, David C. Wilson, Jeff Kleeman",3,Yes,3,3.5,3
+Source Code,2011,"Thriller, Science Fiction, Mystery",,Ben Ripley,3.5,Yes,3.5,3.5,3
+Old,2021,"Thriller, Mystery, Horror",M. Night Shyamalan,M. Night Shyamalan,2,No,2,2.5,2
+The Last Airbender,2010,"Animation, Action, Adventure, Fantasy",,"Tim Hedrick, Christopher L. Yost, Bryan Konietzko, Michael Dante DiMartino, Kenneth Lin",3,Yes,3,3.5,3
+Raid 2,2025,"Action, Crime, Thriller",Gareth Evans,Gareth Evans,1,No,1,1.5,1
+Hollywood,2020,,,Upendra,4,Yes,4,4.5,4
+Natsamrat,2016,Drama,Mahesh Manjrekar,"Mahesh Manjrekar, Abhijeet Deshpande, Kiran Yadnyopavit, Vishnu Vaman Shirwadkar",5,Yes,5,5,5
+National Theatre Live: Fleabag,2019,"Comedy, Drama",,Phoebe Waller-Bridge,5,Yes,5,5,5
+Tron,1982,"Science Fiction, Adventure, Action",Joachim R¯nning,"Jesse Wigutow, David DiGilio, Steven Lisberger, Bonnie MacBird",3.5,Yes,3.5,3.5,3
+Marvel Zombies,2025,"Horror, Adventure",,"Scotty Fields, James Ojala",2,No,2,2.5,2
+Murder at Monkey Hill,1976,"Mystery, Thriller",Vidhu Vinod Chopra,Vidhu Vinod Chopra,4,Yes,4,4.5,4
+Khamosh,1986,"Mystery, Thriller",,Vidhu Vinod Chopra,3.5,Yes,3.5,3.5,3
+Natsamrat,2018,Drama,Mahesh Manjrekar,"Mahesh Manjrekar, Abhijeet Deshpande, Kiran Yadnyopavit, Vishnu Vaman Shirwadkar",1,Yes,1,1.5,1
+Ventilator,2016,"Drama, Comedy",,Unknown,4,Yes,4,4.5,4
+Spirited Away,2001,"Animation, Family, Fantasy",Hayao Miyazaki,Hayao Miyazaki,2,No,2,2.5,2
+Shelby Oaks,2024,"Horror, Mystery",,"Sam Liz, Chris Stuckmann",1,No,1,1.5,1
+3 Ekka,2023,"Drama, Comedy",Rajesh Sharma,"Parth Trivedi, Chetan Daiya",2,No,2,2.5,2
+Passport,2016,"Comedy, Drama",,Unknown,0.5,No,0.5,0.5,0
+My Neighbor Totoro,1988,"Fantasy, Animation, Family",Hayao Miyazaki,Hayao Miyazaki,3.5,Yes,3.5,3.5,3
+The Conjuring: Last Rites,2025,Horror,,"David Leslie Johnson-McGoldrick, James Wan, Chad Hayes, Carey Hayes, Ian B. Goldberg, Richard Naing",3,Yes,3,3.5,3
+Mirai,2025,"Animation, Family, Fantasy, Adventure, Drama",Mamoru Hosoda,Mamoru Hosoda,1,No,1,1.5,1
+Good Fortune,2025,"Comedy, Fantasy",,Aziz Ansari,3,Yes,3,3.5,3
+Tashan,2008,"Action, Romance",Vijay Krishna Acharya,Unknown,2,Yes,2,2.5,2
+Blue,2009,"Animation, Thriller",,Sadayuki Murai,2.5,Yes,2.5,2.5,2
+Criminal Justice: A Family Matter,2025,Not Found,Not Found,Not Found,0.5,No,0.5,0.5,0
+Project A,1983,"Action, Adventure, Comedy",,"Jackie Chan, Edward Tang",3,Yes,3,3.5,3
+Bhagwat - Chapter One: Raakshas,2025,Thriller,Akshay Shere,Bhavini Bheda,1.5,No,1.5,1.5,1
+Knock Out,2010,"Crime, Action, Thriller, Mystery",,Mani Shankar,3,Yes,3,3.5,3
+Thamma,2025,"Comedy, Horror",Aditya Sarpotdar,"Niren Bhatt, Suresh Mathew, Arun Fulara",2,No,2,2.5,2
+Chocolate: Deep Dark Secrets,2005,"Thriller, Crime, Drama, Mystery",,"Vivek Agnihotri, Rohit Malhotra",3,Yes,3,3.5,3
+Guntur Kaaram,2024,"Action, Drama",Trivikram Srinivas,Trivikram Srinivas,1,No,1,1.5,1
+Spyder,2017,Action,,Unknown,3,Yes,3,3.5,3
+How to Make Millions Before Grandma Dies,2024,Drama,Pat Boonnitipat,"Thodsapon Thiptinnakorn, Pat Boonnitipat",3.5,Yes,3.5,3.5,3
+Leo,2023,"Animation, Comedy, Family",,"Robert Smigel, Adam Sandler, Paul Sado",4,Yes,4,4.5,4
+Kaithi,2019,"Action, Thriller, Crime",Lokesh Kanagaraj,Lokesh Kanagaraj,4.5,Yes,4.5,4.5,4
+Now You See Me: Now You Don't,2025,"Crime, Thriller",,"Edward Ricourt, Boaz Yakin, Eric Warren Singer, Michael Lesslie, Paul Wernick, Rhett Reese, Seth Grahame-Smith",3,Yes,3,3.5,3
+Raado,2022,"Drama, Thriller, Action",Krishnadev Yagnik,Krishnadev Yagnik,4.5,Yes,4.5,4.5,4
+Shu Thayu?,2018,"Comedy, Drama",,Krishnadev Yagnik,3,No,3,3.5,3
+Ghoomer,2023,Drama,R. Balki,"Rahul Sengupta, Rishi Virmani",3,Yes,3,3.5,3
+Pad Man,2018,"Comedy, Drama",,R. Balki,3,No,3,3.5,3
+Hellaro,2019,Drama,Abhishek Shah,"Prateek Gupta, Abhishek Shah",4,Yes,4,4.5,4
+50/50,2011,"Comedy, Drama",,Will Reiser,3,Yes,3,3.5,3
+House of Secrets: The Burari Deaths,2021,Not Found,Not Found,Not Found,3,Yes,3,3.5,3
+Tanaav,2022,Fantasy,,"Damien Bonnard, Alexis Manenti",3,Yes,3,3.5,3
+Bahut Hua Sammaan,2020,"Comedy, Crime, Drama",Ashish R. Shukla,"Vijay Narayan Verma, Avinash Singh",3.5,Yes,3.5,3.5,3
+Nishaanchi,2025,"Crime, Drama",,"Prasoon Mishra, Ranjan Chandel, Anurag Kashyap",3,Yes,3,3.5,3
+Lokah Chapter 1: Chandra,2025,"Action, Adventure, Fantasy",Dominic Arun,"Dominic Arun, Santhy Balachandran",2,No,2,2.5,2
+The Taj Story,2025,Drama,,"Tushar Amrish Goel, Saurabh M. Pandey",0.5,No,0.5,0.5,0
+Shirin Farhad Ki Toh Nikal Padi,2012,Romance,Bela Segal,"Sanjay Leela Bhansali, Vibhu Puri",3,Yes,3,3.5,3
+Baramulla,2025,Horror,,"Aditya Dhar, Aditya Suhas Jambhale, Monal Thaakar",0.5,No,0.5,0.5,0
+The Shark Is Broken,2025,"Comedy, Drama",Guy Masterson,"Ian Shaw, Joseph Nixon",3.5,Yes,3.5,3.5,3
+Frankenstein,2025,"Drama, Fantasy, Horror",,Guillermo del Toro,4,Yes,4,4.5,4
+Nishaanchi 2,2025,"Drama, Crime",Anurag Kashyap,"Prasoon Mishra, Ranjan Chandel, Anurag Kashyap",3.5,Yes,3.5,3.5,3
+De De Pyaar De 2,2025,"Comedy, Romance",,"Tarun Jain, Luv Ranjan",1.5,No,1.5,1.5,1
+The BFG,2016,"Adventure, Family, Fantasy",Steven Spielberg,Melissa Mathison,3,Yes,3,3.5,3
+The Menu,2022,"Comedy, Horror",,"Seth Reiss, Will Tracy",4,Yes,4,4.5,4
+Thudarum,2025,"Action, Drama, Thriller",Tharun Moorthy,"Tharun Moorthy, KR Sunil",3,Yes,3,3.5,3
+Kaantha,2025,"History, Crime, Drama",,"Thamizh Prabha, Selvamani Selvaraj",3,Yes,3,3.5,3
+Hotel Transylvania 3: Summer Vacation,2018,"Animation, Comedy, Family, Fantasy",Genndy Tartakovsky,"Michael McCullers, Genndy Tartakovsky",3,Yes,3,3.5,3
+The Lost City,2022,"Action, Adventure, Comedy",,"Adam Nee, Aaron Nee, Seth Gordon, Dana Fox, Oren Uziel",2,No,2,2.5,2
+Qarib Qarib Singlle,2017,"Comedy, Drama, Romance",Tanuja Chandra,"Kamba Chandra, Gazal Dhaliwal, Kamna Chandra, Tanuja Chandra",3,Yes,3,3.5,3
+Ishqiya,2010,"Thriller, Comedy",,"Vishal Bhardwaj, Abhishek Chaubey, Sabrina Dhawan",3,Yes,3,3.5,3
+The Housemaid,2025,"Mystery, Thriller",Paul Feig,Rebecca Sonnenshine,3.5,Yes,3.5,3.5,3
+Coraline,2009,"Animation, Family, Fantasy",,Henry Selick,3.5,Yes,3.5,3.5,3
+Johnny Gaddaar,2007,"Crime, Drama, Thriller",Sriram Raghavan,Sriram Raghavan,3.5,Yes,3.5,3.5,3
+Wake Up Dead Man,2025,"Thriller, Mystery, Comedy",,Rian Johnson,3.5,Yes,3.5,3.5,3
+Kantara - A Legend: Chapter 1,2025,"Action, Drama, Fantasy",Rishab Shetty,"Rishab Shetty, Anirudh Mahesh, Shanil Gowtham",4,Yes,4,4.5,4
+Filmistaan,2014,Comedy,,Nitin Kakkar,3.5,Yes,3.5,3.5,3
+Maharathi,2008,Thriller,Shivam Nair,Unknown,3.5,Yes,3.5,3.5,3
+The Watcher in the Woods,1980,"Fantasy, Horror, Thriller",,"Brian Clemens, Harry Spalding, Rosemary Anne Sisson, Gerry Day",3.5,Yes,3.5,3.5,3
+Scott Pilgrim vs. the World,2010,"Action, Comedy, Romance",Edgar Wright,"Michael Bacall, Edgar Wright",3.5,Yes,3.5,3.5,3
+Superbad,2007,Comedy,,"Evan Goldberg, Seth Rogen",3.5,Yes,3.5,3.5,3
+Zootopia 2,2025,"Animation, Family, Mystery, Adventure, Comedy",Jared Bush,Jared Bush,3,Yes,3,3.5,3
+A.I. Artificial Intelligence,2001,"Drama, Science Fiction, Adventure",,Steven Spielberg,4,Yes,4,4.5,4
+Jay Kelly,2025,"Drama, Comedy",Noah Baumbach,"Emily Mortimer, Noah Baumbach",4,Yes,4,4.5,4
+Di√©s Ira√©,2025,Not Found,,Not Found,4,Yes,4,4.5,4
+Dhurandhar,2025,"Action, Crime, Thriller",Aditya Dhar,Aditya Dhar,4,Yes,4,4.5,4
+The Hunger Games: Catching Fire,2013,"Adventure, Action, Science Fiction",,"Simon Beaufoy, Michael Arndt",3,No,3,3.5,3
+The Hunger Games: Mockingjay ‚Äì Part 1,2014,"Science Fiction, Adventure, Thriller",Francis Lawrence,"Danny Strong, Peter Craig",2,No,2,2.5,2
+Vidheyan,1994,Drama,,"Paul Zacharia, Adoor Gopalakrishnan",3,No,3,3.5,3
+Man vs Baby,2025,Not Found,Not Found,Not Found,3,Yes,3,3.5,3
+Kennedy,2023,"Crime, Thriller",,Anurag Kashyap,4,Yes,4,4.5,4
+Kill Bill: The Whole Bloody Affair,2004,"Action, Crime",Quentin Tarantino,"Quentin Tarantino, Uma Thurman",4,Yes,4,4.5,4
+Kill Bill: Vol. 2,2004,"Action, Crime, Thriller",,"Quentin Tarantino, Uma Thurman",4,Yes,4,4.5,4
+Kill Bill: Vol. 1,2003,"Action, Crime",Quentin Tarantino,"Quentin Tarantino, Uma Thurman",3.5,Yes,3.5,3.5,3
+The Lost Chapter: Yuki's Revenge,2025,"Action, Animation, Fantasy",,Unknown,3,Yes,3,3.5,3
+Knocked Up,2007,"Comedy, Romance, Drama",Judd Apatow,Judd Apatow,3,No,3,3.5,3
+Idiocracy,2006,"Comedy, Science Fiction, Adventure",,"Etan Cohen, Mike Judge",3,No,3,3.5,3
+The Phoenician Scheme,2025,"Comedy, Adventure, Crime",Wes Anderson,"Wes Anderson, Roman Coppola",4,Yes,4,4.5,4
+Deva,2025,Drama,,"Petra Szˆcs, Gergˆ V. Nagy",3.5,Yes,3.5,3.5,3
+Dobaaraa,2022,"Science Fiction, Mystery, Thriller",Anurag Kashyap,Nihit Bhave,2,No,2,2.5,2
+Stranger Things 5: The Finale,2025,Not Found,,Not Found,2.5,No,2.5,2.5,2
+Freedom at Midnight,2024,"Action, Thriller",Tinu Pappachan,Dileep Kurian,3,Yes,3,3.5,3
+Golkeri,2020,"Drama, Comedy",,Unknown,0.5,No,0.5,0.5,0
+Snow Bear,2024,"Animation, Family",Aaron Blaise,"Aaron Blaise, Nicholas Burch",4.5,Yes,4.5,4.5,4
+The God Man,2025,"Animation, Science Fiction",,Andrew Foerster,5,Yes,5,5,5
+Stargate,1994,"Action, Adventure, Science Fiction",Roland Emmerich,"Roland Emmerich, Dean Devlin",3,Yes,3,3.5,3
+The Day After Tomorrow,2004,"Science Fiction, Thriller, Adventure",,"Jeffrey Nachmanoff, Roland Emmerich",3.5,Yes,3.5,3.5,3
+Model Citizen,2020,"Comedy, Horror",Rachael Dahl,Rachael Dahl,3,Yes,3,3.5,3
+The Mist,2007,"Horror, Science Fiction, Thriller",,Frank Darabont,3.5,Yes,3.5,3.5,3
+Sadgati,1981,"Drama, TV Movie",Satyajit Ray,"Munshi Premchand, Satyajit Ray",3,Yes,3,3.5,3
+Ghatothkach - Master of Magic,2008,"Animation, Family",,"Ashmith Kunder, Aparajit Shukla",3.5,Yes,3.5,3.5,3
+Chala Mussaddi - Office Office,2011,"Drama, Comedy",Rajiv Mehra,Ashwni Dhir,1,No,1,1.5,1
+Crime 101,2026,"Crime, Thriller",,Bart Layton,3,Yes,3,3.5,3
+Jhankaar Beats,2003,"Comedy, Romance, Music",Sujoy Ghosh,"Sujoy Ghosh, Suresh Nair, Milap Zaveri",3,Yes,3,3.5,3
+The Great Escape,1963,"Adventure, Drama, War",,"James Clavell, W.R. Burnett",4,Yes,4,4.5,4
+Detachment,2011,Drama,Tony Kaye,Carl Lund,4,Yes,4,4.5,4
+Cocktail,2012,"Romance, Drama, Comedy",,Heywood Gould,4,Yes,4,4.5,4
+Harvey,1950,,Abdul Stone Jackson,Abdul Stone Jackson,4,Yes,4,4.5,4
+Beverly Hills Chihuahua,2008,"Comedy, Family, Adventure, Romance",,"Jeffrey Bushell, Analisa LaBianco",3,Yes,3,3.5,3
+Inspector Gadget,1999,"Action, Adventure, Comedy, Family",David Kellogg,"Kerry Ehrin, Zak Penn, Dana Olsen, Bruno Bianchi, Jean Chalopin, Andy Heyward",4,Yes,4,4.5,4
+Inspector Gadget 2,2003,"Action, Adventure, Comedy, Family",,"Ron Anderson, William Robertson, Alex Zamm, Andy Heyward, Jean Chalopin, Bruno Bianchi",3,Yes,3,3.5,3
+TMNT,2007,"Adventure, Animation, Comedy, Family",Kevin Munroe,"Kevin Eastman, Peter Laird, Kevin Munroe",3,Yes,3,3.5,3
+The Girl with the Dragon Tattoo,2009,"Thriller, Crime, Mystery",,Steven Zaillian,1.5,No,1.5,1.5,1
+With Honors,1994,"Comedy, Drama",Alek Keshishian,William Mastrosimone,3,Yes,3,3.5,3
+Matilda,1996,"Comedy, Family, Fantasy",,"Nicholas Kazan, Robin Swicord",4,Yes,4,4.5,4
+No Other Choice,2025,"Comedy, Crime, Thriller",Park Chan-wook,"Park Chan-wook, Lee Kyoung-mi, Don McKellar, Lee Ja-hye",3,No,3,3.5,3
+Scooby-Doo 2: Monsters Unleashed,2004,"Mystery, Adventure, Comedy",,James Gunn,3.5,Yes,3.5,3.5,3
+Saturday Night,2024,"Comedy, Drama",Jason Reitman,"Jason Reitman, Gil Kenan",4,Yes,4,4.5,4
+Ghostbusters: Afterlife,2021,"Fantasy, Comedy, Adventure",,"Jason Reitman, Gil Kenan",3.5,Yes,3.5,3.5,3
+Ghostbusters: Frozen Empire,2024,"Fantasy, Adventure, Comedy",Gil Kenan,"Gil Kenan, Jason Reitman",2.5,No,2.5,2.5,2
+Hoppers,2026,"Animation, Family, Science Fiction, Comedy, Adventure",,"Jesse Andrews, Daniel Chong",3,Yes,3,3.5,3
+The Witches,1990,"Fantasy, Family, Horror",Nicolas Roeg,Allan Scott,3,Yes,3,3.5,3
+Dhurandhar The Revenge,2026,"Action, Crime, Thriller",,Aditya Dhar,3.5,Yes,3.5,3.5,3
+Rogan Josh,2018,,Sanjeev Vig,Sanjeev Vig,5,Yes,5,5,5
+"Monsters, Inc.",2001,"Animation, Comedy, Family",,"Andrew Stanton, Daniel Gerson",3,Yes,3,3.5,3
+The Curse of La Llorona,2019,Horror,Michael Chaves,"Mikki Daughtry, Tobias Iaconis",0.5,No,0.5,0.5,0
+Five Nights at Freddy's 2,2025,"Horror, Thriller",,Scott Cawthon,2.5,No,2.5,2.5,2
+A Man Called Otto,2022,"Comedy, Drama",Marc Forster,David Magee,3,Yes,3,3.5,3
+Main Hoon Na,2004,Drama,,"Farah Khan, Abbas Tyrewala, Rajesh Saathi",2,No,2,2.5,2
+8 x 10 Tasveer,2009,"Thriller, Action, Mystery, Science Fiction",Nagesh Kukunoor,Nagesh Kukunoor,3,Yes,3,3.5,3
+Shortkut - The Con Is On,2009,Comedy,,Anees Bazmee,3,Yes,3,3.5,3
+Ajnabee,2001,,Sanjeev Kumar rajput,Unknown,2,No,2,2.5,2
+Los Mu√©rtimer,2025,Not Found,,Not Found,2.5,No,2.5,2.5,2
+Phantom Thread,2017,"Drama, Romance",Paul Thomas Anderson,Paul Thomas Anderson,4,Yes,4,4.5,4
+Exit 8,2025,"Horror, Mystery",,"Genki Kawamura, Kentaro Hirase",3,No,3,3.5,3
+Judaai,1997,"Drama, Romance",Rama Rao Tatineni,"Balamurugan, Rama Rao Tatineni",2,No,2,2.5,2
+Monsoon Wedding,2001,"Comedy, Drama, Romance",,Sabrina Dhawan,3.5,Yes,3.5,3.5,3
+Bahubali: The Epic,2025,"Action, Drama",S. S. Rajamouli,"Vijayendra Prasad, Rahul Koda, S. S. Rajamouli",3,Yes,3,3.5,3
+The Intern,2015,Comedy,,Nancy Meyers,4,Yes,4,4.5,4
+Ready or Not 2: Here I Come,2026,"Horror, Comedy",Matt Bettinelli-Olpin,"Guy Busick, R. Christopher Murphy",3,Yes,3,3.5,3
+Idli Kadai,2025,"Action, Drama, Comedy",,Dhanush,2,No,2,2.5,2
+K.G.F: Chapter 2,2022,"Action, Thriller, Adventure, Crime",Prashanth Neel,Prashanth Neel,3,Yes,3,3.5,3
+K.G.F: Chapter 1,2018,"Action, Thriller, Adventure, Crime",,Prashanth Neel,3.5,Yes,3.5,3.5,3
+Iron Man 2,2010,"Adventure, Action, Science Fiction",Jon Favreau,Justin Theroux,3,Yes,3,3.5,3
+Barbie,2023,"Comedy, Adventure",,"Noah Baumbach, Greta Gerwig",3,Yes,3,3.5,3
+Toaster,2026,"Comedy, Crime, Action",Vivek Daschaudary,"Akshat Ghildial, Anagh Mukherjee, Parveez Shaikh",1.5,No,1.5,1.5,1
