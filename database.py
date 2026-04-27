@@ -9,7 +9,7 @@ class Item(BaseModel):
     name: str
     price: int
 
-MONGO_URL = "mongodb+srv://nisargpatel_db_user:QQNHIMCEFfzkIbCE@fastapi.rfuu4ug.mongodb.net/?appName=FastAPI"
+MONGO_URL = "mongodb://localhost:27017/url"
 
 client = MongoClient(MONGO_URL)
 db = client["FastAPI"]
